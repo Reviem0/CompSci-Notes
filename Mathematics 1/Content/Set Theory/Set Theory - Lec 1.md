@@ -152,5 +152,9 @@ $$
 $$
 or:
 $$
-\text{Blue shirts or White Shirts}
+\text{(Blue shirts) or (White Shirts)}
+$$
+So this statement can simplify to:
+$$
+\text{"I only wear blue shirts or white shirts"}
 $$
