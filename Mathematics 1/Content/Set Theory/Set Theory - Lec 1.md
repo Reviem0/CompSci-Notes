@@ -175,7 +175,7 @@ $$
 $$
 Suppose we have an element: $$x \in A \cup (B \cap C)$$ Then either: $x \in A$ **OR** $x \in (B \cap C)$
 	If $x \in (B \cap C)$:
-		$x in$
+		$x \in B$ **AND** $x \in C$
 In either case, $x \in (A \cup B)$ **AND** $x \in (A \cup C)$
 
 Hence,
@@ -184,3 +184,6 @@ A \cup (B \cap C) \subseteq (A \cup B) \cap (A \cup C)
 $$
 
 Now suppose
+$$
+x \in ()
+$$
