@@ -167,5 +167,5 @@ $$
 Proof:
 We will show:
 $$
-A \cup (B \cap C) 
+A \cup (B \cap C) \{ 
 $$
