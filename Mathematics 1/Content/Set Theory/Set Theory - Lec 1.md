@@ -114,3 +114,7 @@ $$
 Here is a statement:
 "I only cycle in the summer or in the winter when it's warmer than $20^{\circ}  ~\text{Celcius}$ 
 ![[Pasted image 20241101214101.png]]
+$$
+\text{Summer} \cup (\text{Winter} ~ \cap > 20^\circ C)
+$$
+
