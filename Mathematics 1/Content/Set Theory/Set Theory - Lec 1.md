@@ -112,7 +112,7 @@ $$
 
 ### Union and Intersection Proofs
 Here is a statement:
-"I only cycle in the summer or in the winter when it's warmer than $20^{\circ}  ~\text{Celcius}$ 
+"I only cycle in the summer or in the winter when it's warmer than $20^{\circ}  ~\text{Celcius}$"
 ![[Pasted image 20241101214101.png]]
 $$
 \text{Summer} \cup (\text{Winter} ~ \cap > 20^\circ C)
@@ -121,4 +121,8 @@ Using the [[#Distributive Property]], we can simplify to:
 $$
 \text{(Summer or Winter) and (Summer or} > 20^\circ C)
 $$
-(Summer or Winter) refers to all days so this can be simplifi
+(Summer or Winter) refers to all days so this can be simplified to just:
+$$
+\text{(Summer or} > 20^\circ C)
+$$
+So the stat
