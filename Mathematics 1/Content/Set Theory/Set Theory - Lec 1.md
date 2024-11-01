@@ -143,3 +143,6 @@ $$
 \text{I only wear white or blue shirts}
 $$
 ![[Pasted image 20241101215058.png]]
+$$
+\text{Shirts} \cap (\text{Blue} \cup \text{White})
+$$
