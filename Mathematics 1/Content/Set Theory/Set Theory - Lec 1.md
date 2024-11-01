@@ -187,4 +187,5 @@ Now suppose:
 $$
 x \in (A \cup B) \cap (A \cup C)
 $$
-Then: $x \in (A \cup B)$ 
+Then: $x \in (A \cup B)$ **AND** $x \in (A \cup C)$
+If $x not$
