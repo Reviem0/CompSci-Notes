@@ -110,4 +110,6 @@ $$
 ### Distributive Property
 ![[Pasted image 20241101213619.png]]
 
-### Union and Intersection
+### Union and Intersection Proofs
+Here is a statement:
+"I only cycle in the summer or in the winter when it's warmer than $20^$
