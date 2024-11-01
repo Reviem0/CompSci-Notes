@@ -111,6 +111,7 @@ $$
 ![[Pasted image 20241101213619.png]]
 
 ### Union and Intersection Proofs
+#### Example 1:
 Here is a statement:
 $$
 \text{"I only cycle in the summer or in the winter when it's warmer than $20^{\circ}  ~\text{Celcius}$"}
@@ -136,3 +137,4 @@ can be simplified to:
 $$
 \text{"I cycle any day of the year but only when it's summer or $ >20^{\circ}  ~\text{Celcius}$"}
 $$
+#### Example 2:
