@@ -1,5 +1,5 @@
 Topics of study:
-- [[Set Theory - Lec 1]] (Week 1,2,3,4)
+- [[Set Theory - Basic Definitions and Notations]] (Week 1,2,3,4)
 	- Tutorials (2,3,4,5) - set theory test at the beginning of week 6
 - Propositional and predicate logic (Week 5,6)
 	- Tutorials (weeks 6,7) - logic quiz at week 8 
