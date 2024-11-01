@@ -75,8 +75,8 @@ Examples:
 	- 2 satisfies $\varphi$, 743 does not
 
 
-## Naive Set Theory
-Given a predicate $\varphi$ we can construct a subset of a universe $x$ that contains the elements that satisft $\varphi$
+## Naïve Set Theory
+Given a predicate $\varphi$ we can construct a subset of a universe $x$ that contains the elements that satisfy $\varphi$
 
 The subset of $X$ that contains those elements that satisfy $\varphi$ is usually denoted
 $$\{x|x\in X ~ \& ~ \varphi(x) \}$$
