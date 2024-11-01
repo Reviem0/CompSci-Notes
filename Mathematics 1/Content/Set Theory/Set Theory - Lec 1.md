@@ -125,4 +125,11 @@ $$
 $$
 \text{(Summer or} > 20^\circ C)
 $$
-So the stat
+So the statement:
+$$
+\text{"I only cycle in the summer or in the winter when it's warmer than $20^{\circ}  ~\text{Celcius}$"}
+$$
+can be simplified to:
+$$
+\text{"I cycle any day of the  $20^{\circ}  ~\text{Celcius}$"}
+$$
