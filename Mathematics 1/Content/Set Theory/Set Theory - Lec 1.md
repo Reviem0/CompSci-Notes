@@ -173,5 +173,6 @@ and:
 $$
 (A \cup B) \cap (A \cup C) \subseteq A \cup (B \cap C)
 $$
-Suppose we have an element $x \in A \cup (B \cap C)$
+Suppose we have an element $x \in A \cup (B \cap C)$, then either $x \in A$ or $x \in (B \cap C)$
+
 
