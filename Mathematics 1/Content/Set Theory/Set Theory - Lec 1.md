@@ -107,3 +107,4 @@ $$
 A \cap (B \cup C) = (A \cap B) \cup (A \cap C)
 $$
 ![[Pasted image 20241101213132.png]]
+### Distributive Property
