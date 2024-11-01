@@ -148,5 +148,5 @@ $$
 $$
 Using the [[#Distributive Property]], we can simplify to:
 $$
-(\text{ })
+\text{(Shirts $\cup$ Blue) or (Shirts $cap$) }  
 $$
