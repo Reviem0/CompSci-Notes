@@ -32,11 +32,10 @@ This is the cardinality of $X$
 
 $$|\{0,1,2,3,4,5,6,7,8,9\}| = 10$$
 $$
-\begin{align} \\
-
-
-\end{align} \\
-
+\begin{align}
+|a,b,a,c| = 3 \\
+\text{This set has a cardinality of 3 because it has 3 unique elements}
+\end{align}
 $$
 
 
