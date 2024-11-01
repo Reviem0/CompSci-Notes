@@ -146,3 +146,7 @@ $$
 $$
 \text{Shirts} \cap (\text{Blue} \cup \text{White})
 $$
+Using the [[#Distributive Property]], we can simplify to:
+$$
+(\text{ })
+$$
