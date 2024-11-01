@@ -19,19 +19,19 @@ Dots are sometimes used as shorhand for infinitely many elements
 - $\{0,1,2,...\}$ is a set of positive integers
 - $\{0,2,4,...\}$ is a set of even numbers
 
-When an element $a$ is in a set $B$ we write $a\in B$
-When an element $c$ is **NOT** in a set $B$ we write $a\notin B$
-- $a \in \{b,a,c\}$
-- $0 \in \{0,1\}$
-- $i \notin \{t,e,a,m\}$
+## Membership
+When an element $x$ is in a set $X$ we write $x \in X$
+When an element is **not** in a set $X$ we write $y \not\in X$
+- $A \in \{ b,a,c \}$
+- $0 \in \{ 0,1 \}$
+- $i \not\in \{ t,e,a,m \}$
 
 ## Cardinality (Of finite sets)
 For finite set, write $|X|$ for the number of elements of $X$
 This is the cardinality of $X$
 
 $$|\{0,1,2,3,4,5,6,7,8,9\}| = 10$$
-$$|a,b,a,c| = 3$$ 
-The set $|a,b,a,c| = 3$ has a cardinality of 3 because it has 3 unique elements
+$$|a,b,a,c| = 3 \text{This set has a cardinality of 3 because it has 3 unique elements}$$
 
 
 ## Other Sets from Maths
@@ -41,13 +41,6 @@ $\mathbb{R}$ the reals
 $\mathbb{C}$ the complex numbers
 
 All these are examples of infinite sets
-
-## Membership
-When an element $x$ is in a set $X$ we write $x \in X$
-When an element is **not** in a set $X$ we write $y \not\in X$
-- $A \in \{ b,a,c \}$
-- $0 \in \{ 0,1 \}$
-- $i \not\in \{ t,e,a,m \}$
 ## Empty Set
 If a set does not contain any elements it is called the empty set and is usually denoted $\emptyset$
 
