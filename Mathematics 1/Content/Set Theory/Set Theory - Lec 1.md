@@ -117,4 +117,7 @@ Here is a statement:
 $$
 \text{Summer} \cup (\text{Winter} ~ \cap > 20^\circ C)
 $$
-Using the [[#Distributive Property]] 
+Using the [[#Distributive Property]], we can simplify to:
+$$
+\text{ }
+$$
