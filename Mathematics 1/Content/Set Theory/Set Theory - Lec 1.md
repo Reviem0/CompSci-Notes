@@ -169,3 +169,7 @@ We will show:
 $$
 A \cup (B \cap C) \subseteq (A \cup B) \cap (A \cup C)
 $$
+and:
+$$
+(A \cup B) \cap (A \cup C) \subseteq A \cup (B \cap C)
+$$
