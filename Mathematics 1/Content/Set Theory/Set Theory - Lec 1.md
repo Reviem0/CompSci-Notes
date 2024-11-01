@@ -167,5 +167,7 @@ $$
 Proof:
 We will show:
 $$
-A \cup (B \cap C) \sub 
+A \cup (B \cap C) 
 $$
+
+beg
