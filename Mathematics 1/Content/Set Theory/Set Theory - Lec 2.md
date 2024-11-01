@@ -4,7 +4,7 @@ A set $X$ is a subset of $Y$ when every element of $X$ is also an element of $Y$
 $$X\subseteq Y$$
 
 - Every set satisfies $X \subset X$
-- For eany set $X$ we have $\emptyset \subset X$
+- For any set $X$ we have $\emptyset \subset X$
 We write $X \subset Y$ to mean that $X \subseteq Y$ and there exists $y \in Y$ and $y \not\in X$
 
 To show that sets $X$ and $Y$ are equal is is enough to show:
