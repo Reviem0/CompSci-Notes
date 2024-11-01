@@ -110,7 +110,7 @@ $$
 ### Distributive Property
 ![[Pasted image 20241101213619.png]]
 
-### Union and Intersection Proofs
+### Union and Intersection Simplification
 #### Example 1:
 Here is a statement:
 $$
@@ -158,3 +158,4 @@ So this statement can simplify to:
 $$
 \text{"I only wear blue shirts or white shirts"}
 $$
+### Proofs
