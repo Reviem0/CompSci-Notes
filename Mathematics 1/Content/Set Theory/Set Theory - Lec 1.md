@@ -167,5 +167,5 @@ $$
 Proof:
 We will show:
 $$
-A \cup (B \cap C) \subseteq
+A \cup (B \cap C) \sub 
 $$
