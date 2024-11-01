@@ -158,4 +158,5 @@ So this statement can simplify to:
 $$
 \text{"I only wear blue shirts or white shirts"}
 $$
-### Proofs
+## Proofs of Sets
+### Example 1:
