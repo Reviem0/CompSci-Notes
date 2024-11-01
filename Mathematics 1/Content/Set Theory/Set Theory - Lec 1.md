@@ -190,5 +190,9 @@ $$
 Then, $x \in (A \cup B)$ **AND** $x \in (A \cup C)$
 If $x \not\in A$, then $x \in B$  **AND**  $x \in C$  $\Longrightarrow x \in (B \cap C)$
 Otherwise, $x \in A$
+Therefore $x \in A \cup (B \cap C)$
 
-Therefore $x \in A $
+Hence,
+$$
+(A \cup B) \cap (A \cup C) \subseteq A \cup (B \cap C)
+$$
