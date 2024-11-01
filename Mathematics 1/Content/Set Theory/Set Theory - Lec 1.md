@@ -175,8 +175,8 @@ $$
 $$
 Suppose we have an element: $$x \in A \cup (B \cap C)$$ Then either: $x \in A$ **OR** $x \in (B \cap C)$
 	If $x \in (B \cap C)$:
-		$x \in B$ **AND** $x \in C$
-In either case, $x \in (A \cup B)$ **AND** $x \in (A \cup C)$
+		$x \in B$  **AND** $x \in C$
+In either case, $x \in (A \cup B)$  **AND** $x \in (A \cup C)$
 
 Hence,
 $$
@@ -188,4 +188,4 @@ $$
 x \in (A \cup B) \cap (A \cup C)
 $$
 Then: $x \in (A \cup B)$ **AND** $x \in (A \cup C)$
-If $x \not\in A$, then $x in B \text{A}$
+If $x \not\in A$, then $x \in B$  **AND**  $x \in C$
