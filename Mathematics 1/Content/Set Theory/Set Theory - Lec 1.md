@@ -188,4 +188,4 @@ $$
 x \in (A \cup B) \cap (A \cup C)
 $$
 Then: $x \in (A \cup B)$ **AND** $x \in (A \cup C)$
-If $x not$
+If $x \not\in A$, then $x in B \text{A}$
