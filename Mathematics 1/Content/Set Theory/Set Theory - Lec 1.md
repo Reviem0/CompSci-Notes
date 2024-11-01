@@ -180,3 +180,8 @@ Hence,
 $$
 A \cup (B \cap C) \subseteq (A \cup B) \cap (A \cup C)
 $$
+
+We then need to show:
+$$
+(A \cup B) \cap (A \cup C) \subseteq A \cup (B \cap C)
+$$
