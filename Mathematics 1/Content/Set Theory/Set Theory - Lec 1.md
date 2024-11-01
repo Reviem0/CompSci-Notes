@@ -119,5 +119,5 @@ $$
 $$
 Using the [[#Distributive Property]], we can simplify to:
 $$
-\text{ }
+(\text{(Summer or Winter) and (Summer or} > 20^\circ C))
 $$
