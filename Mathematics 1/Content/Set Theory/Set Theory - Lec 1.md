@@ -42,6 +42,8 @@ $\mathbb{C}$ the complex numbers
 
 All these are examples of infinite sets
 
+## Membership
+When an element 
 ## Empty Set
 If a set does not contain any elements it is called the empty set and is usually denoted $\emptyset$
 
