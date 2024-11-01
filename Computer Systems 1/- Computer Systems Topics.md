@@ -9,6 +9,3 @@
 [[System Architectures]]
 [[Operating System Basics]]
 [[Networking Basics]]
-
-
-YIPPIE
