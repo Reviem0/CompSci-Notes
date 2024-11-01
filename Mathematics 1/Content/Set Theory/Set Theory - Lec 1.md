@@ -44,7 +44,10 @@ All these are examples of infinite sets
 
 ## Membership
 When an element $x$ is in a set $X$ we write $x \in X$
-When an element is **not** in a set $X$ we write $y noti$
+When an element is **not** in a set $X$ we write $y \not\in X$
+- $A \in \{ b,a,c \}$
+- $0 \in \{ 0,1 \}$
+- $i \not\in \{ t,e,a,m \}$
 ## Empty Set
 If a set does not contain any elements it is called the empty set and is usually denoted $\emptyset$
 
