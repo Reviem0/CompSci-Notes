@@ -109,3 +109,5 @@ $$
 ![[Pasted image 20241101213132.png]]
 ### Distributive Property
 ![[Pasted image 20241101213619.png]]
+
+### Union and Intersection
