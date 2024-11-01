@@ -183,7 +183,8 @@ $$
 A \cup (B \cap C) \subseteq (A \cup B) \cap (A \cup C)
 $$
 
-Now suppose
+Now suppose:
 $$
-x \in ()
+x \in (A \cup B) \cap (A \cup C)
 $$
+Then: $x \in (A \cup B)$ 
