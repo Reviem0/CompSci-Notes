@@ -72,7 +72,7 @@ Examples:
 - $\varphi(x) =$ "$x$ is called Michael" probably holds for some people in the world and doesn't for most
 - $\varphi(x) =$ "$x$ is an apple" is a predicate in the universe of fruit
 - $\varphi(x) =$ "$x$ is even" is a predicate about the natural numbers
-	- 2 satisfies $\varphi$, 741 does not
+	- 2 satisfies $\varphi$, 743 does not
 
 
 ## Naive Set Theory
