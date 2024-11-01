@@ -138,3 +138,8 @@ $$
 \text{"I cycle any day of the year but only when it's summer or $ >20^{\circ}  ~\text{Celcius}$"}
 $$
 #### Example 2:
+Here is a statement
+$$
+\text{I only wear white or blue shirts}
+$$
+![[Pasted image 20241101215058.png]]
