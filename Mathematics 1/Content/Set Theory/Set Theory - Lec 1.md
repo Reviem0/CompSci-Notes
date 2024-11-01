@@ -112,4 +112,5 @@ $$
 
 ### Union and Intersection Proofs
 Here is a statement:
-"I only cycle in the summer or in the winter when it's warmer than $20^$
+"I only cycle in the summer or in the winter when it's warmer than $20^{\circ}  ~\text{Celcius}$ 
+![[Pasted image 20241101214101.png]]
