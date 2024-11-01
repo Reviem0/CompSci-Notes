@@ -191,4 +191,4 @@ Then, $x \in (A \cup B)$ **AND** $x \in (A \cup C)$
 If $x \not\in A$, then $x \in B$  **AND**  $x \in C$  $\Longrightarrow x \in (B \cap C)$
 Otherwise, $x \in A$
 
-T
+Therefore $x \in A $
