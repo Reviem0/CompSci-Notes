@@ -169,5 +169,3 @@ We will show:
 $$
 A \cup (B \cap C) 
 $$
-
-beg
