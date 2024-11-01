@@ -31,7 +31,10 @@ For finite set, write $|X|$ for the number of elements of $X$
 This is the cardinality of $X$
 
 $$|\{0,1,2,3,4,5,6,7,8,9\}| = 10$$
-$$|a,b,a,c| = 3 \newline \text{This set has a cardinality of 3 because it has 3 unique elements}$$
+$$|a,b,a,c| = 3$$
+$$
+\text{This set has a cardinality of 3 because it has 3 unique elements}
+$$
 
 
 ## Other Sets from Maths
