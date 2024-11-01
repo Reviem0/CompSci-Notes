@@ -32,7 +32,7 @@ This is the cardinality of $X$
 $$|\{0,1,2,3,4,5,6,7,8,9\}| = 10$$
 $$|a,b,a,c| = 3$$ 
 The set $|a,b,a,c| = 3$ has a cardinality of 3 because it has 3 unique elements
-	
+
 
 ## Other Sets from Maths
 $\mathbb{N} = \{0,1,2,...\}$ the **natural** numbers
@@ -88,5 +88,22 @@ $$X \cap Y = \{z|z\in X ~ and ~ z \in Y\}$$
 - Associative and Commutative
 
 ### Difference
-$$X-Y=\{z|z \in X ~ and ~ z \notin Y\}$$
+$$X-Y=\{z|z \in X ~ ~ \text{and} ~ z \notin Y\}$$
 - Not associative and Not Commutative
+
+### Union and Intersection Cardinality
+$$
+| A \cup B | = |A| + |B| - |A \cap B|
+$$
+$$
+|A \cup B| \leq |A| + |B|
+$$
+### Mixing Unions and Intersections
+$$
+A \cup (B \cap C) = (A \cup B) \cap (A \cap C)
+$$
+![[Pasted image 20241101212605.png]]
+$$
+A \cap (B \cup C) = (A \cap B) \cup (A \cap C)
+$$
+![[Pasted image 20241101213132.png]]
