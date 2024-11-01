@@ -160,3 +160,12 @@ $$
 $$
 ## Proofs of Sets
 ### Example 1:
+Prove the following:
+$$
+A \cup (B \cap C) = (A \cup B) \cap (A \cap C)
+$$
+Proof:
+We will show:
+$$
+A \cap
+$$
