@@ -4,3 +4,5 @@
 - [[4. Set Theory - Products and Sums of Sets]]
 - [[5. Set Theory - Functions Between Sets]]
 - [[6. Set Theory - Operations on Functions]] 
+- [[7. Set Theory - Properties of Functions]]
+- [[8. Set Theory - Relations]]
