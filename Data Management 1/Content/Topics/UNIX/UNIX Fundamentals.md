@@ -38,4 +38,3 @@
 Linux is largely "virus-free"
 - Almost no viruses written for Linux
 - Normal user accounts have limited access to rest of the system making corruption of system binaries much harder
-Modular 
