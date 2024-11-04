@@ -1,12 +1,6 @@
-[[Data-based OS]]
-[[Unix and Unix-Like]]
-- [[Unix Fundementals]]
-- [[Scripting and Data Processing]]
-[[Structured data representation]]
-[[Databases]]
-- [[How they work]]
-- [[What the can do]]
-- [[SQL and NoSQL]]
+[[UNIX]]
+[[Structured data and Relational databases]]
+[[NoSQL databases and key-value stores]]
 
 
 Labs (20& from COMP1300)
