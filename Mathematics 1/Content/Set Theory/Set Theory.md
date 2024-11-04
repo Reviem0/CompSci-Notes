@@ -6,3 +6,6 @@
 - [[6. Set Theory - Operations on Functions]] 
 - [[7. Set Theory - Properties of Functions]]
 - [[8. Set Theory - Relations]]
+- [[9. Set Theory - Equivalence Relations]]
+- [[10. Set Theory - Partial Orders]]
+
