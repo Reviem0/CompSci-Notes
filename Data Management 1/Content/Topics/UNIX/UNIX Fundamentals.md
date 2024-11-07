@@ -15,7 +15,7 @@
 
 1. Make each program do one thing well. To do a new job, build afresh rather than complicate old programs by adding "new features"
 2. Expect the output of every program to become the input of another, as yet unknown, program. Don't clutter output with extraneous information.
-3. Design and build software, even OS, to be tried early, ideally withing weeks
+3. Design and build software, even OS, to be tried early, ideally [within]() weeks
 4. Use tools in preference to unskilled help to lighten a programming task, even if you have to detour  to build the tools and expect to throw some of them out after you've finished using them
 ### Summary
 1. Write programs that do one thing and do it well
@@ -34,7 +34,7 @@
 - Linux kernel created in 1991 by Linux Torvalds while attending the University of Helsinki
 - Has matured to a very popular OS
 
-### Linux provides Sercurity
+### Linux provides Security
 Linux is largely "virus-free"
 - Almost no viruses written for Linux
 - Normal user accounts have limited access to rest of the system making corruption of system binaries much harder
