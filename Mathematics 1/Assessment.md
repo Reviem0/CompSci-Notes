@@ -11,3 +11,12 @@ Online Final Exam worth 90%
 
 Level of difficulty
 - in-lab tests < final exam < advanced tutorial excercises
+
+## Sets
+
+- Set Operations
+- Set memberships
+- Cardinality/size
+- Empty Sets
+- Simple Operations on set: Union, Intersections, Difference
+- 
