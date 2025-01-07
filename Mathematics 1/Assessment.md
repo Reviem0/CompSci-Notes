@@ -19,4 +19,21 @@ Level of difficulty
 - Cardinality/size
 - Empty Sets
 - Simple Operations on set: Union, Intersections, Difference
-- 
+- Associativity and commutativity of binary operations
+- subset relation, set equality
+- ordered pairs
+- cartesian product
+- disjoint sum
+- powerset
+
+## Functions
+- Domain, Codomain,Range, Image
+- Function Equality
+- Nuber of functions between (finite) sets
+- Functions on several variables
+- Operations on functions: composition
+- Associativity of composition
+- Inverses
+- Injective, Surjective and Bijective
+- The isomorphism theorem
+- The identity function
