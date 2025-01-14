@@ -1,5 +1,5 @@
 [[Assesment]]
-[[Brief History of Computers]]
+[[1. Brief History of Computers]]
 [[Computer Arithmetic]]
 [[Digital Electronic Basics]]
 [[CPU Architectures]]
