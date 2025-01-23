@@ -14,7 +14,7 @@
 
 # Assessment
 ## Sets
-- [[2. Set Theory - Operations on Sets | Set Operations]]
+[] [[2. Set Theory - Operations on Sets | Set Operations]]
 - [[8. Set Theory - Relations|Set memberships]]
 - Cardinality/size
 - Empty Sets
@@ -29,7 +29,7 @@
 ## Functions
 - Domain, Codomain,Range, Image
 - Function Equality
-- Nuber of functions between (finite) sets
+- Number of functions between (finite) sets
 - Functions on several variables
 - Operations on functions: composition
 - Associativity of composition
