@@ -14,12 +14,12 @@
 
 # Assessment
 ## Sets
-[] [[2. Set Theory - Operations on Sets | Set Operations]]
-- [[8. Set Theory - Relations|Set memberships]]
-- Cardinality/size
-- Empty Sets
-- Simple Operations on set: Union, Intersections, Difference
-- Associativity and commutativity of binary operations
+- [ ]  [[2. Set Theory - Operations on Sets | Set Operations]]
+- [ ] [[8. Set Theory - Relations|Set memberships]]
+- [ ] Cardinality/size
+- [ ] Empty Sets
+- [ ] Simple Operations on set: Union, Intersections, Difference
+- [ ] Associativity and commutativity of binary operations
 - subset relation, set equality
 - ordered pairs
 - cartesian product
