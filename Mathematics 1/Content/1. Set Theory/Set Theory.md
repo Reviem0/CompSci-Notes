@@ -14,41 +14,41 @@
 
 # Assessment
 ## Sets
-- [ ]  [[2. Set Theory - Operations on Sets | Set Operations]]
-- [ ] [[8. Set Theory - Relations|Set memberships]]
-- [ ] Cardinality/size
-- [ ] Empty Sets
-- [ ] Simple Operations on set: Union, Intersections, Difference
-- [ ] Associativity and commutativity of binary operations
-- [ ] subset relation, set equality
-- [ ] ordered pairs
-- [ ] cartesian product
-- [ ] disjoint sum
-- [ ] powerset
+- [x]  [[2. Set Theory - Operations on Sets | Set Operations]]
+- [x] [[8. Set Theory - Relations|Set memberships]]
+- [x] Cardinality/size
+- [x] Empty Sets
+- [x] Simple Operations on set: Union, Intersections, Difference
+- [x] Associativity and commutativity of binary operations
+- [x] subset relation, set equality
+- [x] ordered pairs
+- [x] cartesian product
+- [x] disjoint sum
+- [x] powerset
 
 ## Functions
-- [ ] Domain, Codomain,Range, Image
+- [x] Domain, Codomain,Range, Image
 - [ ] Function Equality
 - [ ] Number of functions between (finite) sets
 - [ ] Functions on several variables
-- [ ] Operations on functions: composition
-- [ ] Associativity of composition
+- [x] Operations on functions: composition
+- [x] Associativity of composition
 - [ ] Inverses
-- [ ] Injective, Surjective and Bijective
+- [x] Injective, Surjective and Bijective
 - [ ] The isomorphism theorem
 - [ ] The identity function
 
 ## Relations
-- [ ] Between sets
-- [ ] On Sets
+- [x] Between sets
+- [x] On Sets
 - [ ] The identity relation
-- [ ] Relations as graphs
-- [ ] Relation "composition"
-- [ ] Functions as (graphs of) relations
-- [ ] Equivalence Relations
+- [x] Relations as graphs
+- [x] Relation "composition"
+- [x] Functions as (graphs of) relations
+- [x] Equivalence Relations
 	- Reflexivity, Symmetry, Tranitivity
-- [ ] Equivalence Classes
+- [x] Equivalence Classes
 	- Quotient X/~ of a set X with respect to an equivalence class ~
 - [ ] Partitions
-- [ ] Function spaces Proof that the function space $\{0,1\}^{x}$ has tje same size as the powerset $P(X)$
+- [ ] Function spaces Proof that the function space $\{0,1\}^{x}$ has the same size as the powerset $P(X)$
 
