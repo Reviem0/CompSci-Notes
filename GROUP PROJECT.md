@@ -1,4 +1,4 @@
-# The Future of AI in Decision-Making: The Irreversible Consequences of Algorithmic Bias in the Justice System
+# The Future of AI in Decision-Making: The Consequences of Algorithmic Bias in the Justice System
 
 Introduction of AI into judicial systems has promising benefits:
 - streamlining case management
