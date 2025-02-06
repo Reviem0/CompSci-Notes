@@ -15,4 +15,4 @@ Tools like COMPAS ( Correctional Offender Management Profiling for Alternative S
 
 Experts argue that AI can reduce human cognitive bias such as racial prejudice and [anchoring](https://en.wikipedia.org/wiki/Anchoring_effect) and expedite backlogged cases.
 
-However, these systems often inherit historical biases from the training data. For example
+However, these systems often inherit historical biases from the training data. For example, COMPAS disproportionately labelled black defendants as high-risk. Similarly, predictive policing tools like PredPol reinforce 
