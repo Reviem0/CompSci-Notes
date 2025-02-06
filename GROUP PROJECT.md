@@ -17,4 +17,7 @@ Experts argue that AI can reduce human cognitive bias such as racial prejudice a
 
 However, these systems often inherit historical biases from the training data. For example, COMPAS disproportionately labelled black defendants as high-risk. Similarly, predictive policing tools like PredPol reinforce over-policing in minority neighbourhoods by relying on arrest records.
 
-This exemplifies how 
+This exemplifies how AI risks automating and potentially amplifying structural injustiecs.
+
+---
+
