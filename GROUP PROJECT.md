@@ -35,5 +35,5 @@ The ethical implications of AI in justice are dark:
 - **Erosion of Trust:** Communities subjected to algorithmic scrutiny may lose faith in the legitimacy of judicial decisions
 ---
 # Solutions
-1. **Transparency and Audits:** Mandating [algorithmic explainability](https://c3.ai/glossary/machine-learning/explainability/#:~:text=Explainability%20(also%20referred%20to%20as,being%20at%20an%20acceptable%20level.) and  
+1. **Transparency and Audits:** Mandating [algorithmic explainability](https://c3.ai/glossary/machine-learning/explainability/#:~:text=Explainability%20(also%20referred%20to%20as,being%20at%20an%20acceptable%20level.) and third-party audits can demystify AI decisions. The European Ethical Charter on AI in Judicial Systems, for instance, 
 [Source](https://rrjournals.com/index.php/rrijm/article/view/1442)
