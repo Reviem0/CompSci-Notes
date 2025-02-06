@@ -23,3 +23,4 @@ This exemplifies how AI risks automating and potentially amplifying structural i
 
 # Causes of Algorithmic Bias
 Algorithmic bias is caused by three interconnected flaws.
+1. **Historical Data Flaws:** AI systems trained on decades of biased policing and sentencing data may  systemic racism and 
