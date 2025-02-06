@@ -14,3 +14,5 @@ Tools like COMPAS ( Correctional Offender Management Profiling for Alternative S
 - https://jhulr.org/2025/01/01/algorithmic-justice-or-bias-legal-implications-of-predictive-policing-algorithms-in-criminal-justice/
 
 Experts argue that AI can reduce human cognitive bias such as racial prejudice and [anchoring](https://en.wikipedia.org/wiki/Anchoring_effect) and expedite backlogged cases.
+
+
