@@ -8,4 +8,5 @@ However, it's adoption introduces risks from algorithmic bias.
 As AI systems increasingly influence sentencing, their reliance on historical data and vague decision-making processes risks systemic inequalities.
 
 ---
-AI's 
+AI has an undeniable potential to enhance judicial efficiency.
+Tools like COMPAS ( Correctional Offender Management Profiling for Alternative Sanctions) analyses 
