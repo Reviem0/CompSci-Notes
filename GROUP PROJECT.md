@@ -22,3 +22,4 @@ This exemplifies how AI risks automating and potentially amplifying structural i
 ---
 
 # Causes of Algorithmic Bias
+Algorithmic bias is caused by3 
