@@ -36,7 +36,7 @@ The ethical implications of AI in justice are dark:
 ---
 # Solutions
 1. **Transparency and Audits:** Mandating [algorithmic explainability](https://c3.ai/glossary/machine-learning/explainability/#:~:text=Explainability%20(also%20referred%20to%20as,being%20at%20an%20acceptable%20level.) and third-party audits can clarify AI decisions. The European Ethical Charter on AI in Judicial Systems, for instance, emphasizes accountability and human oversight
-2. **Debiasing Techniques:** Methods like [adversarial debiasing](https://holisticai.readthedocs.io/en/latest/getting_started/bias/mitigation/inprocessing/bc_adversarial_debiasing_adversarial_debiasing.**html**) and fairness-aware machine learning can reduce disparities in training data. For example, reweighting datasets to balance racial representation has shown promise in mitigating COMPAS-like biases
+2. **Debiasing Techniques:** Methods like [adversarial debiasing](https://holisticai.readthedocs.io/en/latest/getting_started/bias/mitigation/inprocessing/bc_adversarial_debiasing_adversarial_debiasing.html) and fairness-aware machine learning can reduce disparities in training data. For example, reweighting datasets to balance racial representation has shown promise in mitigating COMPAS-like biases
 3.  **Human-AI Collaboration:** Keeping human judgement in sentencing and parole ensures that contextual factors, such as socioeconomic barriers, are considered. Studies show jurors weigh AI recommendations but prioritize human empathy in nuanced cases.
 [Source 1](https://rrjournals.com/index.php/rrijm/article/view/1442)
 [Source 2](https://www.academia.edu/127253229/Ethics_and_Biases_in_Artificial_Intelligence_AI_Algorithms_related_to_Criminal_Justice)
