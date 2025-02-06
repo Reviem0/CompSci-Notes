@@ -31,4 +31,4 @@ The harm lies in how these biases become institutionalised. Once put in place, t
 ---
 # Ethical and Legal Challenges
 The ethical implications of AI in justice are dark:
-- **Due Process Violations:** AI-driven risk assessment often lack transparency, denying defendants the right to challange 
+- **Due Process Violations:** AI-driven risk assessment often lack transparency, denying defendants the right to challenge evidence. In [State v. Loomis](https://jhulr.org/2025/01/01/algorithmic-justice-or-bias-legal-implications-of-predictive-policing-algorithms-in-criminal-justice/), the Wisconsin Supreme Court upheld the use of COMPAS but warned of 
