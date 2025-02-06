@@ -28,3 +28,5 @@ Algorithmic bias is caused by three interconnected flaws.
 3. **Feedback Loops:** Biased predictions lead to targeted enforcement, generating more data that deepens the cycle.
 The harm lies in how these biases become institutionalised. Once put in place, they shape policies, resource allocation and public trust.
 
+---
+# Ethical and Legal Challenges
