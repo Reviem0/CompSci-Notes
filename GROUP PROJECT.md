@@ -30,4 +30,5 @@ The harm lies in how these biases become institutionalised. Once put in place, t
 
 ---
 # Ethical and Legal Challenges
-The ethical implications of AI in justice are dark
+The ethical implications of AI in justice are dark:
+- **Due Process Violations:** AI-driven risk assessment often lack transparency, denying defendants the right to challange 
