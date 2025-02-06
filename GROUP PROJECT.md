@@ -9,4 +9,4 @@ As AI systems increasingly influence sentencing, their reliance on historical da
 
 ---
 AI has an undeniable potential to enhance judicial efficiency.
-Tools like COMPAS ( Correctional Offender Management Profiling for Alternative Sanctions) analyses 
+Tools like COMPAS ( Correctional Offender Management Profiling for Alternative Sanctions) analyses [recidivism](https://www.merriam-webster.com/dictionary/recidivism)
