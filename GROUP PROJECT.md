@@ -11,7 +11,7 @@ As AI systems increasingly influence sentencing, their reliance on historical da
 AI has an undeniable potential to enhance judicial efficiency.
 Tools like COMPAS ( Correctional Offender Management Profiling for Alternative Sanctions) analyses [recidivism](https://www.merriam-webster.com/dictionary/recidivism) risk, while predictive policing algorithms allocate law enforcement resources based on crime patterns.
 - [Source 1](https://link.springer.com/article/10.1007/s43681-022-00137-9)
-- [https://jhulr.org/2025/01/01/algorithmic-justice-or-bias-legal-implications-of-predictive-policing-algorithms-in-criminal-justice/]
+- [Source 2](https://jhulr.org/2025/01/01/algorithmic-justice-or-bias-legal-implications-of-predictive-policing-algorithms-in-criminal-justice/)
 
 Experts argue that AI can reduce human cognitive bias such as racial prejudice and [anchoring](https://en.wikipedia.org/wiki/Anchoring_effect) and expedite backlogged cases.
 
@@ -35,4 +35,5 @@ The ethical implications of AI in justice are dark:
 - **Erosion of Trust:** Communities subjected to algorithmic scrutiny may lose faith in the legitimacy of judicial decisions
 ---
 # Solutions
-1. **Transparency and Audits:** Mandating [algorithmic explainability](https://c3.ai/glossary/machine-learning/explainability/#:~:text=Explainability%20(also%20referred%20to%20as,being%20at%20an%20acceptable%20level.) and   
+1. **Transparency and Audits:** Mandating [algorithmic explainability](https://c3.ai/glossary/machine-learning/explainability/#:~:text=Explainability%20(also%20referred%20to%20as,being%20at%20an%20acceptable%20level.) and  
+[Source](https://rrjournals.com/index.php/rrijm/article/view/1442)
