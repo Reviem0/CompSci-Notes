@@ -30,3 +30,4 @@ The harm lies in how these biases become institutionalised. Once put in place, t
 
 ---
 # Ethical and Legal Challenges
+The ethical implications of AI in justice are dark
