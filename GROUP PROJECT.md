@@ -43,3 +43,32 @@ The ethical implications of AI in justice are dark:
 
 
 ---
+**Slide 1: Further Problems & Complications in Algorithmic Systems**
+
+**Opening**  
+"Hi, I’ll be discussing critical issues arising from algorithmic bias across sectors, focusing on the **justice system** and **healthcare**. These examples highlight how even well-intentioned technologies can perpetuate inequality if not carefully designed.
+
+**Justice System: COMPAS Case Study**  
+Let’s start with the justice system. Tools like **COMPAS**—a risk assessment algorithm used to predict recidivism—aim to reduce human bias and streamline case processing. However, COMPAS is trained on **historical arrest data**, which reflects systemic racial disparities. Studies show it disproportionately labels Black defendants as ‘high risk,’ even when they don’t reoffend. This isn’t just a technical flaw—it’s a **reinforcement of societal inequities**, affecting sentencing, parole, and lives.
+
+**Healthcare: Diagnostic Algorithms**  
+Moving to healthcare, algorithms used for diagnosing diseases like skin cancer face similar pitfalls. Many are trained on datasets **overrepresented by lighter skin tones**, leading to lower accuracy for darker-skinned patients. Imagine a delayed cancer diagnosis simply because the tool wasn’t designed for diverse populations. This isn’t hypothetical—it’s happening, worsening health disparities for marginalized groups.
+
+**Transition to Slide 2**  
+These examples show how bias in training data leads to real-world harm. Now, let’s explore how algorithms impact **social dynamics, education, and financial equity**."
+
+---
+
+**Slide 2: Algorithmic Bias in Social, Educational, and Financial Systems**
+
+**[Social Media: Echo Chambers & Misinformation]**  
+Social media platforms prioritize **engagement**, creating echo chambers. For instance, if a user interacts with polarizing content—even to criticize it—the algorithm pushes more of it. Young people, for example, might be bombarded with harmful body-image content, deepening mental health crises. This isn’t neutral curation; it’s **profit-driven design** that sacrifices societal well-being.
+
+**[Education: Algorithmic Grading During COVID]**  
+During the pandemic, automated grading systems downgraded students from **underfunded schools**, altering university admissions. These systems relied on historical data that favored privileged institutions, punishing students already disadvantaged by resource gaps.
+
+**[Financial Services: Credit Scoring Biases]**  
+Finally, financial algorithms often use proxies like **zip codes** for creditworthiness. This unfairly penalizes lower-income neighborhoods—often minority communities—denying loans or charging higher rates. It’s a digital redlining that entrenches **economic inequality**.
+
+**[Conclusion & Call to Action]**  
+From courtrooms to classrooms, algorithmic bias isn’t abstract—it’s amplifying existing inequities. Addressing this requires **diverse training data, transparency**, and policies that prioritize equity over efficiency. As future technologists and policymakers, we must ensure tools serve _all_ communities fairly.
