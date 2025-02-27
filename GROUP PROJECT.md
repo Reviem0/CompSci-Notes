@@ -40,3 +40,6 @@ The ethical implications of AI in justice are dark:
 3.  **Human-AI Collaboration:** Keeping human judgement in sentencing and parole ensures that contextual factors, such as socioeconomic barriers, are considered. Studies show jurors weigh AI recommendations but prioritize human empathy in nuanced cases.
 [Source 1](https://rrjournals.com/index.php/rrijm/article/view/1442)
 [Source 2](https://www.academia.edu/127253229/Ethics_and_Biases_in_Artificial_Intelligence_AI_Algorithms_related_to_Criminal_Justice)
+
+
+---
