@@ -65,10 +65,10 @@ These examples show how bias in training data leads to real-world harm. Now, let
 Social media platforms prioritize **engagement**, creating echo chambers. For instance, if a user interacts with polarizing content—even to criticize it—the algorithm pushes more of it. Young people, for example, might be bombarded with harmful body-image content, deepening mental health crises. This isn’t neutral curation; it’s **profit-driven design** that sacrifices societal well-being.
 
 **[Education: Algorithmic Grading During COVID]**  
-During the pandemic, automated grading systems downgraded students from **underfunded schools**, altering university admissions. These systems relied on historical data that favored privileged institutions, punishing students already disadvantaged by resource gaps.
+During the pandemic, automated grading systems downgraded students from **underfunded schools**, altering university admissions. These systems relied on historical data that favoured privileged institutions, punishing students already disadvantaged by resource gaps.
 
 **[Financial Services: Credit Scoring Biases]**  
-Finally, financial algorithms often use proxies like **zip codes** for creditworthiness. This unfairly penalizes lower-income neighborhoods—often minority communities—denying loans or charging higher rates. It’s a digital redlining that entrenches **economic inequality**.
+Finally, financial algorithms often use proxies like **post codes** for creditworthiness. This unfairly penalizes lower-income neighbourhoods—often minority communities—denying loans or charging higher rates. It’s a digital redlining that entrenches **economic inequality**.
 
 **[Conclusion & Call to Action]**  
 From courtrooms to classrooms, algorithmic bias isn’t abstract—it’s amplifying existing inequities. Addressing this requires **diverse training data, transparency**, and policies that prioritize equity over efficiency. As future technologists and policymakers, we must ensure tools serve _all_ communities fairly.
