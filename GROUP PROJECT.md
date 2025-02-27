@@ -46,7 +46,7 @@ The ethical implications of AI in justice are dark:
 **Slide 1: Further Problems & Complications in Algorithmic Systems**
 
 **Opening**  
-"Hi, I’ll be discussing critical issues arising from algorithmic bias across sectors, focusing on the **justice system** and **healthcare**. These examples should highlight how even technologies developed with good intentions can perpetuate inequality if not carefully designed.
+Hi, I’ll be discussing critical issues arising from algorithmic bias across sectors, focusing on the **justice system** and **healthcare**. These examples should highlight how even technologies developed with good intentions can perpetuate inequality if not carefully designed.
 
 **Justice System: COMPAS Case Study**  
 Tools like **COMPAS**—a risk assessment algorithm used to predict recidivism—aim to reduce human bias and streamline case processing. However, COMPAS is trained on **historical arrest data**, which reflects systemic racial disparities. Studies show it disproportionately labels Black defendants as ‘high risk,’ even when they don’t reoffend. This isn’t just a technical flaw—it’s a **reinforcement of societal inequities**, affecting sentencing, parole, and lives.
@@ -54,8 +54,6 @@ Tools like **COMPAS**—a risk assessment algorithm used to predict recidivism�
 **Healthcare: Diagnostic Algorithms**  
 In the healthcare sector, algorithms used for diagnosing diseases like skin cancer face similar pitfalls. Many are trained on datasets **overrepresented by lighter skin tones**, leading to lower accuracy for darker-skinned patients. Imagine a delayed cancer diagnosis simply because the tool wasn’t designed for diverse populations. This isn’t hypothetical—it’s happening, worsening health disparities for marginalized groups.
 
-**Transition to Slide 2**  
-These examples show how bias in training data leads to real-world harm. Now, let’s explore how algorithms impact **social dynamics, education, and financial equity**."
 
 ---
 
