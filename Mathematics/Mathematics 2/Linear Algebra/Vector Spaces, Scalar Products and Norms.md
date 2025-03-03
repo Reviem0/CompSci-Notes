@@ -92,3 +92,47 @@ $$
 
 
 
+**Angle between \( a(x) = x \) and \( b(x) = x^2 \):**
+
+1. **Scalar Product:**
+$$
+\begin{aligned}
+\langle a, b \rangle &= \int_0^1 a(x)b(x) \, dx \\
+&= \int_0^1 x \cdot x^2 \, dx \\
+&= \int_0^1 x^3 \, dx \\
+&= \left[ \frac{1}{4}x^4 \right]_0^1 \\
+&= \frac{1}{4}.
+\end{aligned}
+$$
+
+1. **Norms of \( a(x) \) and \( b(x) \):**
+$$
+\begin{aligned}
+||a|| &= \sqrt{\langle a, a \rangle} \\
+&= \sqrt{\int_0^1 x^2 \, dx} \\
+&= \sqrt{\left[ \frac{1}{3}x^3 \right]_0^1} \\
+&= \sqrt{\frac{1}{3}} = \frac{1}{\sqrt{3}}, \\
+||b|| &= \sqrt{\langle b, b \rangle} \\
+&= \sqrt{\int_0^1 x^4 \, dx} \\
+&= \sqrt{\left[ \frac{1}{5}x^5 \right]_0^1} \\
+&= \sqrt{\frac{1}{5}} = \frac{1}{\sqrt{5}}.
+\end{aligned}
+$$
+
+1. **Compute \( \cos \theta \):**
+
+\begin{aligned}
+\cos \theta &= \frac{\langle a, b \rangle}{||a|| \cdot ||b||} \\
+&= \frac{\frac{1}{4}}{\frac{1}{\sqrt{3}} \cdot \frac{1}{\sqrt{5}}} \\
+&= \frac{\frac{1}{4}}{\frac{1}{\sqrt{15}}} \\
+&= \frac{\sqrt{15}}{4} \approx 0.9682.
+\end{aligned}
+
+
+1. **Find \( \theta \):**
+\[
+\begin{aligned}
+\theta &= \arccos\left( \frac{\sqrt{15}}{4} \right) \\
+&\approx \boxed{15^\circ}.
+\end{aligned}
+\]
