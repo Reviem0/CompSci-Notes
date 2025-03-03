@@ -36,5 +36,5 @@ $$
 $$
 For polynomials it is defined by the integral over $[0,1]$:
 $$
-||a(x)|| = \sqrt{  }
+||a(x)|| = \sqrt{\int dx  }
 $$
