@@ -61,5 +61,6 @@ $$
 \cos \theta = \frac{\langle x,y \rangle}{||x|| \cdot||y||}
 $$
 Orthogonality:
-$x$ and $y$ are orthogonal if $\langle x,y \rangle = 0$ $\Rightarrow$ $x$ and $y$ are perpendicular
-- $x$ and $y$ are perpendiculat when $\langle x,y \rangle = 0$
+$x$ and $y$ are orthogonal if $\langle x,y \rangle = 0$
+- $x$ and $y$ are perpendicular when $\langle x,y \rangle = 0$ because $\cos 90^{\circ} = 0$
+- 
