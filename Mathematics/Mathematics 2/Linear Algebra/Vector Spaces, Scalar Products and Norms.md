@@ -83,4 +83,8 @@ $$
 \hat{x} = \frac{x}{||x||}
 $$
 **Function Spaces:** Basis expansions (e.g. Fourier Series) rely on orthogonality  
-
+$$
+\begin{aligned}
+||x+y|| ^{2}
+\end{aligned}
+$$
