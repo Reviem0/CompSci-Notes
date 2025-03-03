@@ -53,5 +53,6 @@ $$
 
 For polynomials:
 $$
-\langle a(x),b(x) \rangle = \int_{0^{1}}
+\langle a(x),b(x) \rangle = \int_{0}^{1} a(x)b(x) \,dx
 $$
+# Angles & Orthogonality
