@@ -12,5 +12,5 @@ Examples:
 - Traditional: $\mathbb{R}^{n}$
 > [!NOTE|aside-l] $\mathbb{R}^{n}$
 >  $\mathbb{R}^{n}$ represents the set of all ordered $n$-tuples of real numbers:
->  $\mathbb{R}^{n} = \{$
+>  $\mathbb{R}^{n} = \{(x_{1},x_{2},\dots,x_{n}) | x_{i}\}$
 - Abstract: Polynomials of degree $\leq 3$, functions, etc.
