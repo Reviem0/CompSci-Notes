@@ -17,8 +17,10 @@ Examples:
 	- 
 # Matrices
 An $m \times n$ matrix is a rectangular array of coefficients with $m$ rows and $n$ columns
-Transpose $(A^{T})$ swaps rows and columnts
+Transpose $(A^{T})$ swaps rows and columns
 Identity Matrix $I_{n}$ is a Matrix with diagonal entries $1$ and others $0$. Maps vectors to themselves:
 $$
 I_{n}x=x
 $$
+# Matrix-Vector Operations
+- Mu
