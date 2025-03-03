@@ -53,20 +53,5 @@ $$
 5
 \end{bmatrix}
 $$
-$$
-\begin{bmatrix}
-1 & 2 \\
-3 & 1
-\end{bmatrix}
-\begin{bmatrix}
-1 \\
-2
-\end{bmatrix}
-=
-\begin{bmatrix}
-1 \cdot 1 + 2 \cdot 2 \\
-1
-\end{bmatrix}
-$$
 # Matrices as Linear Maps
 Every matrix $A \in \mathbb{R}^{m \times n}$ defines a linear map $\mathbb{R}^{n} \in \mathbb{R}^{m}$ 
