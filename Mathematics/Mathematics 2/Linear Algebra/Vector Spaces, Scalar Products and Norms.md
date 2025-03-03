@@ -23,3 +23,7 @@ Operations:
 $$
 (a+b)(x) = (a_{0}+b_{0})+(a_{1}+b_{1}x) + \dots
 $$
+- **Scalar Multiplication:** Multiply each coefficient by scalar $r$:
+$$
+(r \times)
+$$
