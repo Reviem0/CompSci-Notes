@@ -45,5 +45,5 @@ $$
 # Scalar Dot Product
 In $\mathbb{R}^{n}$:
 $$
-<x,y>
+\langle
 $$
