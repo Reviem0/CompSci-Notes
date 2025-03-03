@@ -93,7 +93,7 @@ $$
 
 # Example
 Angle between $a(x) = x$ and  $b(x) = x^2$ :
-1. **Scalar Product:**
+1. Scalar Product:
 $$
 \begin{aligned}
 \langle a, b \rangle &= \int_0^1 a(x)b(x) \, dx \\
@@ -104,7 +104,7 @@ $$
 \end{aligned}
 $$
 
-1. **Norms of  a(x) \) and \( b(x) :**
+1. Norms of $a(x)$ and $b(x)$:
 $$
 \begin{aligned}
 ||a|| &= \sqrt{\langle a, a \rangle} \\
@@ -118,7 +118,7 @@ $$
 \end{aligned}
 $$
 
-3. **Compute \( \cos \theta \):**
+1. Compute $\cos \theta$:
 $$
 \begin{aligned}
 \cos \theta &= \frac{\langle a, b \rangle}{||a|| \cdot ||b||} \\
