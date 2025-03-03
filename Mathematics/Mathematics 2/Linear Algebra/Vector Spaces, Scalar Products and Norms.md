@@ -58,5 +58,5 @@ $$
 # Angles & Orthogonality
 Angle Formula
 $$
-\cos \theta = \langle  \rangle 
+\cos \theta = \frac{\langle x,y \rangle}{||x|| \cdot||y||}
 $$
