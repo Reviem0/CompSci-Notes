@@ -1,3 +1,5 @@
+What is [[Discrete Maths]]?
+
 Topics of study:
 - [[Set Theory]] (Week 1,2,3,4)
 	- Tutorials (2,3,4,5) - set theory test at the beginning of week 6
