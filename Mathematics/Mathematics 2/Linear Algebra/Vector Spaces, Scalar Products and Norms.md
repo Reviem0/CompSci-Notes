@@ -91,8 +91,8 @@ $$
 **Function Spaces:** Basis expansions (e.g. Fourier Series) rely on orthogonality  
 
 
-
-**Angle between \( a(x) = x \) and \( b(x) = x^2 \):**
+# Example
+Angle between \( a(x) = x \) and \( b(x) = x^2 \):
 
 1. **Scalar Product:**
 $$
@@ -120,19 +120,19 @@ $$
 $$
 
 1. **Compute \( \cos \theta \):**
-
+$$
 \begin{aligned}
 \cos \theta &= \frac{\langle a, b \rangle}{||a|| \cdot ||b||} \\
 &= \frac{\frac{1}{4}}{\frac{1}{\sqrt{3}} \cdot \frac{1}{\sqrt{5}}} \\
 &= \frac{\frac{1}{4}}{\frac{1}{\sqrt{15}}} \\
 &= \frac{\sqrt{15}}{4} \approx 0.9682.
 \end{aligned}
-
+$$
 
 1. **Find \( \theta \):**
-\[
+$$
 \begin{aligned}
 \theta &= \arccos\left( \frac{\sqrt{15}}{4} \right) \\
 &\approx \boxed{15^\circ}.
 \end{aligned}
-\]
+$$
