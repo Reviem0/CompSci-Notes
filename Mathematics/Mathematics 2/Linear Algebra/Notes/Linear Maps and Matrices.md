@@ -7,4 +7,5 @@ $$
 Examples:
 1. Stretching Map $T: \mathbb{R}^{2} \to \mathbb{R}^{2}, T(v) =2v$:
 	- Linear because $T(\alpha v+\beta w) = 2(\alpha v+\beta w) = \alpha T(v)+\beta T(w)$
-2. Squaring map $T:\mathbb{R}^{2}\to$
+2. Squaring map $T:\mathbb{R}^{2}\to\mathbb{R}^{2},T(v_{1},v_{2}) = (v_{1}^{2},v_{2})$
+	- 
