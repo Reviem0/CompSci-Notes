@@ -30,4 +30,5 @@ $$
 - **Zero Vector:** $0(x)=0$
 - **Inverse:** $-a(x) = -a_{0}-a_{1}x - \dots$
 # Norms (Lengths)
-The length of a vector 
+The length of a vector in the $\mathbb{R}^{n}$ domain is defined as:
+$||x|| = \sqrt{ x_{1}^{2} + x_{} }$
