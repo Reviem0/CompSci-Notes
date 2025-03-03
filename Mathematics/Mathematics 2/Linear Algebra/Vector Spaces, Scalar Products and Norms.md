@@ -10,7 +10,7 @@ A vector space must satisfy the following axioms:
 - **Distributivity and compatibly of scalar multiplication**
 Examples:
 - Traditional: $\mathbb{R}^{n}$
-
-$\mathbb{R}^{n}$ represents the set of all ordered $n$-tuples of real numbers:
->  $\mathbb{R}^{n} = \{(x_{1},x_{2},\dots,x_{n}) | x_{i} \in \mathbb{R} \text{ for all } i\}$
+	- $\mathbb{R}^{n}$ represents the set of all ordered $n$-tuples of real numbers: $\mathbb{R}^{n} = \{(x_{1},x_{2},\dots,x_{n}) | x_{i} \in \mathbb{R} \text{ for all } i\}$
+	- E.g.
+		- $\mathbb{R}^{2} = $
 - Abstract: Polynomials of degree $\leq 3$, functions, etc.
