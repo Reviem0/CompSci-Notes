@@ -73,7 +73,8 @@ $$
 $$
 ||x+y|| \leq ||x|| + ||y||
 $$
-Follows From:$$
+Follows From:
+$$
 \begin{aligned}
 ||x+y|| ^{2}  &= \langle x+y,x+6 \rangle \\
 &= \langle x,x \rangle + \langle y,y \rangle + 2\langle x,y \rangle \\
@@ -81,9 +82,7 @@ Follows From:$$
 &= (||x||+||y||)^{2}
 \end{aligned}
 $$
-$$
 
-$$
 # Applications
 **Normalisation** is the conversion of vectors to unit length:
 $$
