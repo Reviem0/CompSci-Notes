@@ -67,5 +67,9 @@ $x$ and $y$ are orthogonal if $\langle x,y \rangle = 0$
 # Key Inequalities
 **Cauchy-Schwarz:**
 $$
-|\langle x,y \rangle |
+|\langle x,y \rangle | \leq ||x|| \cdot ||y||
+$$
+**Triangle Inequality:**
+$$
+||x+y|| \leq ||x|| + ||y||
 $$
