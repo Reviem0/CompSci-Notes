@@ -73,6 +73,10 @@ $$
 $$
 ||x+y|| \leq ||x|| + ||y||
 $$
+Follows From:
+$$
+
+$$
 # Applications
 **Normalisation** is the conversion of vectors to unit length:
 $$
