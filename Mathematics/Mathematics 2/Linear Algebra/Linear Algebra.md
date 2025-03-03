@@ -3,4 +3,5 @@
 3. [[Linear Maps and Matrices]]
 4. [[Solving Linear Systems]]
 5. [[Linear Independence and Basis]]
-6. [[Coordinate Trans]]
+6. [[Coordinate Transformations and Orthonormal Basis]]
+7. [[Deter]]
