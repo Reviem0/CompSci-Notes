@@ -51,7 +51,7 @@ A data language has two parts (**sublanguages**):
 ```
 
 **Data Definition Language** for XML: [[XML#XML Schema|XML Schema]]
-**Data Manipulation Language** for XML: [[2. XPATH | XPATH]]/XQUERY
+**Data Manipulation Language** for XML: [[XPATH| XPATH]]/XQUERY
 
 ## Relational Data Model
 Formalism for data describing and representing data.
