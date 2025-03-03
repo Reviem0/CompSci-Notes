@@ -27,6 +27,7 @@ Multiplication Rule:
 - For $A \in \mathbb{R}^{m \times n},x \in R^{n}$:
 $$
 \begin{align}
-(Ax)_{i}=\sum^{n}_{j=1} a_{ij}x_{j}= \langle r_{i},x \rangle 
+& (Ax)_{i}=\sum^{n}_{j=1} a_{ij}x_{j}= \langle r_{i},x \rangle  \\
+& \text{(Dot product of the } i\text{-th row with} x
 \end{align}
 $$
