@@ -128,7 +128,7 @@ $$
 \end{aligned}
 $$
 
-4. **Find \( \theta \):**
+1. Find $\theta$:
 $$
 \begin{aligned}
 \theta &= \arccos\left( \frac{\sqrt{15}}{4} \right) \\
