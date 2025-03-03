@@ -34,4 +34,7 @@ The length of a vector in the $\mathbb{R}^{n}$ domain is defined as:
 $$
 ||x|| = \sqrt{ x_{1}^{2} + x_{2}^{2} + x_{3}^{2} + \dots + x_{n}^{2} }
 $$
-For polynomials
+For polynomials it is defined by the integral over $[0,1]$:
+$$
+||a(x)|| = \sqrt{  }
+$$
