@@ -15,3 +15,6 @@ Examples:
 		- $T((1,0)+(1,0)) = T(2,0) = (4,0)$
 		- $(2,0)\neq (4,0)$
 	- 
+# Matrices
+An $m \times n$ matrix is a rectangular array of coefficients with $m$ rows and $n$ columns
+Transpose $$
