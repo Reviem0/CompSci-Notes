@@ -1,5 +1,5 @@
 # Vector Spaces
-A vector spcae over the real numbes $\mathbb{R}$ is a non-empty set $V$ with two binary operations (Vecotr addition $+$ and scalar multiplication $\times$ ) 
+A vector space over the real numbers $\mathbb{R}$ is a non-empty set $V$ with two binary operations (Vector addition $+$ and scalar multiplication $\times$ ) 
 - **Associativity** of a vector addition: $u+(v+w)=(u+v)+w$
 - **Commutativity** of a vector addition: $u+v = v+u$
 - **Identity element:** exists $0$ in $V$, such that $v+0=v$
