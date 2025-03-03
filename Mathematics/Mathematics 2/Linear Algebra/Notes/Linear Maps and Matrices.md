@@ -34,7 +34,11 @@ $$
 
 Example:
 $$
-\begin{dmatrix}
-1 & 2
-\end{pmatrix}
+\begin{bmatrix}
+1 & 2 \\
+3 & 1
+\end{bmatrix}
+\begin{bmatrix}
+
+\end{bmatrix}
 $$
