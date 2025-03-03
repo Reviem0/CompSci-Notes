@@ -1,4 +1,6 @@
 1. [[Vectors and Linear Combinations]]
 2. [[Vector Spaces, Scalar Products and Norms]]
 3. [[Linear Maps and Matrices]]
-4. 
+4. [[Solving Linear Systems]]
+5. [[Linear Independence and Basis]]
+6. [[Coordinate Trans]]
