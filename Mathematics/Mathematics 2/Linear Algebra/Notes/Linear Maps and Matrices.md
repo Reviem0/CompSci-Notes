@@ -39,6 +39,18 @@ $$
 3 & 1
 \end{bmatrix}
 \begin{bmatrix}
-
+1 \\
+2
+\end{bmatrix}
+=
+\begin{bmatrix}
+1 \cdot 1 + 2 \cdot 2 \\
+3 \cdot 1 + 1 \cdot 2
+\end{bmatrix}
+=
+\begin{bmatrix}
+5 \\
+5
 \end{bmatrix}
 $$
+
