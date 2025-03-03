@@ -7,4 +7,6 @@ A vector space must satisfy the following axioms:
 - **Inverse element:** for all $v$ exists $(-v)$ in $V$ such that $v + (-v) = 0$
 	- For all $a,b$ in $R$ and $v$ in $V$: $a(b\times v) = (ab)\times v$
 - **Identity element** of scalar multiple: $1\times v=v$
-- 
+- **Distributivity and compatibly of scalar multiplication**
+Examples:
+- Traditional: m
