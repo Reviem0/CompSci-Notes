@@ -1,4 +1,4 @@
-# Vector Spaces
+# Abstract Vector Spaces
 A vector space over the real numbers $\mathbb{R}$ is a non-empty set $V$ with two binary operations (Vector addition $+$ and scalar multiplication $\times$ ) 
 A vector space must satisfy the following axioms:
 - **Associativity** of a vector addition: $u+(v+w)=(u+v)+w$
@@ -16,3 +16,5 @@ Examples:
 		-  $\mathbb{R}^{3}$: 3D space with vectors (x,y,z)
 - Abstract: Polynomials of degree $\leq 3$, functions, etc.
 
+# Polynomial Vector Space
+Elements: $a(x) = a_{0} + a_{1} + a_{2}x^{2}$
