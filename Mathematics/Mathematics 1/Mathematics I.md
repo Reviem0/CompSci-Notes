@@ -9,3 +9,5 @@ Topics of study:
 	- Tutorials (Week 8,9) - Quiz at week 10
 - [[Probability and Statistics]] (Weeks 9,10,11)
 	- Tutorials (Week 10,11) - quiz at week 15
+
+[[MAIN/Mathematics/Mathematics 1/Assessment]]

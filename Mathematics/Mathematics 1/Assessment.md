@@ -10,5 +10,5 @@ Online Final Exam worth 90%
 - past exams available
 
 Level of difficulty
-- in-lab tests < final exam < advanced tutorial excercises
+- in-lab tests < final exam < advanced tutorial exercises
 
