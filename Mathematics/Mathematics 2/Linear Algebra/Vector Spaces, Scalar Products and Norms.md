@@ -74,4 +74,8 @@ $$
 ||x+y|| \leq ||x|| + ||y||
 $$
 # Applications
-**Normalisation** is the conversion of vector
+**Normalisation** is the conversion of vectors to unit length:
+$$
+\hat{x} = \frac{x}{||x||}
+$$
+**Function Spaces:** Basis expansions (e.g. Fouru)  
