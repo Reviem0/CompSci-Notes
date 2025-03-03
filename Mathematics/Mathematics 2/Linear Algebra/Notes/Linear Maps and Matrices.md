@@ -23,4 +23,5 @@ $$
 I_{n}x=x
 $$
 # Matrix-Vector Operations
-- Mu
+- Multiplication Rule:
+	- 
