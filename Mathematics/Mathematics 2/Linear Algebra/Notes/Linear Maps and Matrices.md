@@ -3,4 +3,4 @@ A map $T:V\to W$ between vector spaces is **linear** if it preserves the operati
 $$
 T(ax+by) = aT(x) +bT(y) ~~~ \forall x,y \in V, a,b \in\mathbb{R}
 $$
-- Combining vectors first 
+- Combining vectors first (in $V$) and then applying $T$ yields the same result as applying $T$ first and then combining the outputs
