@@ -85,6 +85,7 @@ $$
 **Function Spaces:** Basis expansions (e.g. Fourier Series) rely on orthogonality  
 $$
 \begin{aligned}
-||x+y|| ^{2}
+||x+y|| ^{2}  &= \langle x+y,x+6 \rangle \\
+&= \langle x \rangle 
 \end{aligned}
 $$
