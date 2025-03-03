@@ -9,5 +9,5 @@ A vector space must satisfy the following axioms:
 - **Identity element** of scalar multiple: $1\times v=v$
 - **Distributivity and compatibly of scalar multiplication**
 Examples:
-- Traditional: $\mathbb{R}^{n}$, the ordered n-tuples of real numbers
+- Traditional: $\mathbb{R}^{n}$
 - Abstract: Polynomials of degree $\leq 3$, functions, etc.
