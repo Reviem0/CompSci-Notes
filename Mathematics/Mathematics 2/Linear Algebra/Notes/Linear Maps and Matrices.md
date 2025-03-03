@@ -6,4 +6,4 @@ $$
 - Combining vectors first (in $V$) and then applying $T$ yields the same result as applying $T$ first and then combining the outputs
 Examples:
 1. Stretching Map $T: \mathbb{R}^{2} \to \mathbb{R}^{2}, T(v) =2v$:
-	- Linear because $T(\alpha v+\beta w)$
+	- Linear because $T(\alpha v+\beta w) = 2(\alpha v+\beta w) = \alpha T(v)+\beta T(w)$
