@@ -11,4 +11,3 @@ A vector space must satisfy the following axioms:
 Examples:
 - Traditional: $\mathbb{R}^{n}$
 - Abstract: Polynomials of degree $\leq 3$, functions, etc.
-- 
