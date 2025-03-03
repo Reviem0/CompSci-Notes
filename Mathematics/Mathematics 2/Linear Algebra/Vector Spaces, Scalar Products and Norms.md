@@ -104,7 +104,7 @@ $$
 \end{aligned}
 $$
 
-1. Norms of $a(x)$ and $b(x)$:
+2. Norms of $a(x)$ and $b(x)$:
 $$
 \begin{aligned}
 ||a|| &= \sqrt{\langle a, a \rangle} \\
@@ -118,7 +118,7 @@ $$
 \end{aligned}
 $$
 
-1. Compute $\cos \theta$:
+1. Compute $\cos \theta$:A
 $$
 \begin{aligned}
 \cos \theta &= \frac{\langle a, b \rangle}{||a|| \cdot ||b||} \\
@@ -128,7 +128,7 @@ $$
 \end{aligned}
 $$
 
-1. Find $\theta$:
+4. Find $\theta$:
 $$
 \begin{aligned}
 \theta &= \arccos\left( \frac{\sqrt{15}}{4} \right) \\
