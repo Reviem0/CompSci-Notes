@@ -73,7 +73,14 @@ $$
 $$
 ||x+y|| \leq ||x|| + ||y||
 $$
-Follows From:
+Follows From:$$
+\begin{aligned}
+||x+y|| ^{2}  &= \langle x+y,x+6 \rangle \\
+&= \langle x,x \rangle + \langle y,y \rangle + 2\langle x,y \rangle \\
+& \leq ||x||^{2} + ||y||^{2} + 2||x||||y|| \\
+&= (||x||+||y||)^{2}
+\end{aligned}
+$$
 $$
 
 $$
@@ -83,11 +90,6 @@ $$
 \hat{x} = \frac{x}{||x||}
 $$
 **Function Spaces:** Basis expansions (e.g. Fourier Series) rely on orthogonality  
-$$
-\begin{aligned}
-||x+y|| ^{2}  &= \langle x+y,x+6 \rangle \\
-&= \langle x,x \rangle + \langle y,y \rangle + 2\langle x,y \rangle \\
-& \leq ||x||^{2} + ||y||^{2} + 2||x||||y||
-&= 
-\end{aligned}
-$$
+
+
+
