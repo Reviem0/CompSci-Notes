@@ -46,8 +46,12 @@ $$
 In $\mathbb{R}^{n}$:
 $$
 \begin{align}
-x \circ y = \langle x,y \rangle ~ \\
+x \circ y = \langle x,y \rangle ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ \\
 \langle x,y \rangle = x_{1}y_{1}+x_{2}y_{2}+\dots+x_{n}y_{n}
 \end{align}
+$$
 
+For polynomials:
+$$
+\langle a(x),b(x) \rangle = \int_{0^{1}}
 $$
