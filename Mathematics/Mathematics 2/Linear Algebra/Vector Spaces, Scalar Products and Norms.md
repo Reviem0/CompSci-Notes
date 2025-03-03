@@ -27,4 +27,6 @@ $$
 $$
 (r \cdot a)(x) = ra_{0}+ra_{1}x + \dots
 $$
-- **Zero Vector:** $l$
+- **Zero Vector:** $0(x)=0$
+- **Inverse:** $-a(x) = -a_{0}-a_{1}x - \dots$
+- 
