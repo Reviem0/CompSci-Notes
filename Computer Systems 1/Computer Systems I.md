@@ -6,5 +6,9 @@
 6. [[Superscalar Processor Architecture]]
 7. [[Computer interfaces to the Real World ADC, DAC]]
 
-[[MAIN/Computer Systems 1/Assessment|Assessment]]
+# Assessment
+- 10% Lab and Homework
+- 10% for COMP1300 labs
+- 80% Final (January)
+## 40% to Pass
 
