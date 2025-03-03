@@ -11,5 +11,6 @@ A vector space must satisfy the following axioms:
 Examples:
 - Traditional: $\mathbb{R}^{n}$
 > [!NOTE|aside-l] $\mathbb{R}^{n}$
-> 
+>  $\mathbb{R}^{n}$ represents the set of all ordered $n$-tuples of real numbers:
+>  $\mathbb{R}^{n} = \{$
 - Abstract: Polynomials of degree $\leq 3$, functions, etc.
