@@ -73,3 +73,5 @@ $$
 $$
 ||x+y|| \leq ||x|| + ||y||
 $$
+# Applications
+**Normalisation** is the conversion of vector
