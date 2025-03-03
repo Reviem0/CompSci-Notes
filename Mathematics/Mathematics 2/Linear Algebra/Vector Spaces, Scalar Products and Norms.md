@@ -45,5 +45,9 @@ $$
 # Scalar Dot Product
 In $\mathbb{R}^{n}$:
 $$
-x \circ y = \langle x,y \rangle = x_{1}y_{1}+x_{2}y_{2}+\dots+x_{n}y_{n}
+\begin{align}
+x \circ y = \langle x,y \rangle ~ \\
+\langle x,y \rangle = x_{1}y_{1}+x_{2}y_{2}+\dots+x_{n}y_{n}
+\end{align}
+
 $$
