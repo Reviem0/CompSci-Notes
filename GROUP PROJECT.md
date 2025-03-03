@@ -4,7 +4,7 @@ Introduction of AI into judicial systems has promising benefits:
 - streamlining case management
 - reducing human bias
 
-However, it's adoption introduces risks from algorithmic bias.
+However, it's adoption introduces risks from algorithmic bias. 
 As AI systems increasingly influence sentencing, their reliance on historical data and vague decision-making processes risks systemic inequalities.
 
 ---
