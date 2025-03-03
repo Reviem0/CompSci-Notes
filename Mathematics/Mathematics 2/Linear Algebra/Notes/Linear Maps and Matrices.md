@@ -54,3 +54,5 @@ $$
 \end{bmatrix}
 $$
 
+# Matrices as Linear Maps
+Every matrix $A \in \mathbb{R}^{m}$
