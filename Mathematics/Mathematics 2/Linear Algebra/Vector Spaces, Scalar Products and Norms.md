@@ -86,6 +86,8 @@ $$
 $$
 \begin{aligned}
 ||x+y|| ^{2}  &= \langle x+y,x+6 \rangle \\
-&= \langle x \rangle 
+&= \langle x,x \rangle + \langle y,y \rangle + 2\langle x,y \rangle \\
+& \leq ||x||^{2} + ||y||^{2} + 2||x||||y||
+&= 
 \end{aligned}
 $$
