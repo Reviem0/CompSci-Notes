@@ -29,4 +29,4 @@ $$
 $$
 - **Zero Vector:** $0(x)=0$
 - **Inverse:** $-a(x) = -a_{0}-a_{1}x - \dots$
-- 
+# Norms (Lengths)
