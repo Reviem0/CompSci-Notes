@@ -26,5 +26,7 @@ $$
 Multiplication Rule:
 - For $A \in \mathbb{R}^{m \times n},x \in R^{n}$:
 $$
-(Ax)_{i}=\sum
+\begin{align}
+(Ax)_{i}=\sum^{n}_{j=1} a_{ij}x_{j}= \langle r_{i},x \rangle 
+\end{align}
 $$
