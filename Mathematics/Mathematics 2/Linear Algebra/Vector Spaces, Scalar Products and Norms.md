@@ -25,5 +25,6 @@ $$
 $$
 - **Scalar Multiplication:** Multiply each coefficient by scalar $r$:
 $$
-(r \times)
+(r \cdot a)(x) = ra_{0}+ra_{1}x + \dots
 $$
+- **Zero Vector:** $l$
