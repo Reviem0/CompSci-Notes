@@ -78,4 +78,4 @@ $$
 $$
 \hat{x} = \frac{x}{||x||}
 $$
-**Function Spaces:** Basis expansions (e.g. Fouru)  
+**Function Spaces:** Basis expansions (e.g. Fourier Series) rely on orthogonality  
