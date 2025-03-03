@@ -38,3 +38,7 @@ For polynomials it is defined by the integral over $[0,1]$:
 $$
 ||a(x)|| = \sqrt{\int_{0}^{1} (a(x))^{2} \, dx  }
 $$
+Example:
+$$
+a(x)=x \to
+$$
