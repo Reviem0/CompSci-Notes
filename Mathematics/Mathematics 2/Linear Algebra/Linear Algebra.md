@@ -4,4 +4,5 @@
 4. [[Solving Linear Systems]]
 5. [[Linear Independence and Basis]]
 6. [[Coordinate Transformations and Orthonormal Basis]]
-7. [[Deter]]
+7. [[Determinants]]
+8. [[Eigenvalues and Eigenvectors]]
