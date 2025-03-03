@@ -15,3 +15,4 @@ Examples:
 		- $\mathbb{R}^{2}$: 2D space with vectors (x,y)
 		-  $\mathbb{R}^{3}$: 3D space with vectors (x,y,z)
 - Abstract: Polynomials of degree $\leq 3$, functions, etc.
+
