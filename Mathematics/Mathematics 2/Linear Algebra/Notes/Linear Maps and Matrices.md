@@ -55,4 +55,4 @@ $$
 $$
 
 # Matrices as Linear Maps
-Every matrix $A \in \mathbb{R}^{m}$
+Every matrix $A \in \mathbb{R}^{m \times n}$ defines a linear map $\mathbb{R}^{n} \in \mathbb{R}^{m}$ 
