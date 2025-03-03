@@ -10,4 +10,4 @@ A vector space must satisfy the following axioms:
 - **Distributivity and compatibly of scalar multiplication**
 Examples:
 - Traditional: $\mathbb{R}^{n}$
-- Abstract: Polynomials of degree $\leq 3$, func
+- Abstract: Polynomials of degree $\leq 3$, functions, etc.
