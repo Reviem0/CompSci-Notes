@@ -23,5 +23,8 @@ $$
 I_{n}x=x
 $$
 # Matrix-Vector Operations
-- Multiplication Rule:
-	- 
+Multiplication Rule:
+- For $A \in \mathbb{R}^{m \times n},x \in R^{n}$:
+$$
+(Ax)_{i}=\sum
+$$
