@@ -10,4 +10,6 @@ Examples:
 	- $T(\alpha v+\beta w) = 2(\alpha v+\beta w) = \alpha T(v)+\beta T(w)$
 2. Squaring map $T:\mathbb{R}^{2}\to\mathbb{R}^{2},T(v_{1},v_{2}) = (v_{1}^{2},v_{2})$
 	- Nonlinear
-	- Counterexample: $T(1,0)+T(1,0) =(1,0)+(1,0)=(2,0) \neq$
+	- Counterexample: 
+		- $T(1,0)+T(1,0) =(1,0)+(1,0)=(2,0) \neq T(2,0)=(4,0)$
+	- 
