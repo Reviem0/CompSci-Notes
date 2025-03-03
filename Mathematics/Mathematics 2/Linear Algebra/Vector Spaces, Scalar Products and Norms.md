@@ -63,4 +63,9 @@ $$
 Orthogonality:
 $x$ and $y$ are orthogonal if $\langle x,y \rangle = 0$
 - $x$ and $y$ are perpendicular when $\langle x,y \rangle = 0$ because $\cos 90^{\circ} = 0$
-- 
+
+# Key Inequalities
+**Cauchy-Schwarz:**
+$$
+|\langle x,y \rangle |
+$$
