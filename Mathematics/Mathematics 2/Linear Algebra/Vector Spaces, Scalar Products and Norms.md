@@ -20,4 +20,6 @@ Examples:
 Elements: $a(x) = a_{0} + a_{1} + a_{2}x^{2} + a_{3}x^{3}$
 Operations:
 - **Addition:** Add coefficients term-wise
-	- 
+$$
+(a+b)(x) = (a_{0}+b_{0})+(a_{1}+b_{1}x) + \dots
+$$
