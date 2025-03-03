@@ -42,3 +42,4 @@ Example:
 $$
 a(x)=x \Rightarrow ||a|| = \sqrt{ \int_{0}^{1} x^{2} \,dx} = \sqrt{ \frac{1}{3} }
 $$
+# Scalar Dot Product
