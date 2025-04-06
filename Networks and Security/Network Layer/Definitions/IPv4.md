@@ -1,0 +1,2 @@
+- Uses 32-bit addresses, written as 'dotted quads'. This allows for aproximately 3.7 billion usable addresses
+- has a variable-size header, with a minimum of 20 bytes. The header includes fields for version, header lenght, DSCP, ECN (for QoS), total lenght, identification, flags. 
