@@ -7,7 +7,7 @@
 - Internetworking
 	- Hides routing and physical network complexity from the transport layer
 - Transmitting Packets
-	- Packetisation into datagrams
+	- ![[Packetisation into datagrams]]
 	- Processing and Routing IP datagrams
 	- Fragmentation
 
