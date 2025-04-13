@@ -34,3 +34,5 @@
 - [[IPv6]]: Fragmentation can only be done by the sending host. [[Path MTU Discovery]] must be used to determine the largest packet size that can be sent without fragmentation. [[IPv6]] networks must support an MTU of at least 1280 bytes. Fragmentation in [[IPv6]] is handled as an optional extention header.
 # Netmasks and Subnets
 Netmasks ([[IPv4]]) and prefix length ([[IPv6]]) specify how many bits identify the network prefix, helping to determine what is local and what isn't.
+- Example IPv6: `2001:63O:d0::/48` (first `48` bits are the network prefix)
+- Example IPv4: `152.78.0.0/16` (first `16` bits are the network prefix), also represented as `255.255.0.1`
