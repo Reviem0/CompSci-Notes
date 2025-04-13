@@ -36,3 +36,7 @@
 Netmasks ([[IPv4]]) and prefix length ([[IPv6]]) specify how many bits identify the [[Network Prefix]], helping to determine what is local and what isn't.
 - Example IPv6: `2001:63O:d0::/48` (first `48` bits are the network prefix)
 - Example IPv4: `152.78.0.0/16` (first `16` bits are the network prefix), also represented as `255.255.0.1`
+
+# Classless Inter Domain Routing (CIDR)
+- [[IPv4]] address were originally allocated in classes (A,B,C) with fixed prefix lenghts. This was inefficient.
+- 
