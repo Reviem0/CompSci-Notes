@@ -40,3 +40,13 @@ Netmasks ([[IPv4]]) and prefix length ([[IPv6]]) specify how many bits identify 
 # Classless Inter Domain Routing (CIDR)
 - [[IPv4]] address were originally allocated in classes (A,B,C) with fixed prefix lenghts. This was inefficient.
 - CIDR, introduced in 1993, allows for variable length prefix, helping to reduce [[IPv4]] address consumption
+# Subnets
+- Subnets logically divide a larger IP allocation to limit Ethernet broadcast traffic and segment hosts
+- For IPv4, subnet size should be based on the number of devices.
+- For IPv6, /64 prefixes are common
+- Subnetting is often done on a per-building or per-department basis.
+
+# Routers
+- A router is needed any time there is a change in address space.
+- A routerneeds an interface for each network segment it connects to.
+- 
