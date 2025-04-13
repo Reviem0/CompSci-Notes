@@ -49,4 +49,4 @@ Netmasks ([[IPv4]]) and prefix length ([[IPv6]]) specify how many bits identify 
 # Routers
 - A router is needed any time there is a change in address space.
 - A router needs an interface for each network segment it connects to.
-- Each interface on a router needs an IP address that is reachable by hosts in that segment. These
+- Each interface on a router needs an IP address that is reachable by hosts in that segment. These can be link-local addresses in
