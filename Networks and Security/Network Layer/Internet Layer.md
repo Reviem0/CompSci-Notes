@@ -39,4 +39,4 @@ Netmasks ([[IPv4]]) and prefix length ([[IPv6]]) specify how many bits identify 
 
 # Classless Inter Domain Routing (CIDR)
 - [[IPv4]] address were originally allocated in classes (A,B,C) with fixed prefix lenghts. This was inefficient.
-- 
+- CIDR, introduced in 1993, allow
