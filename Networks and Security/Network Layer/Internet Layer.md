@@ -49,4 +49,21 @@ Netmasks ([[IPv4]]) and prefix length ([[IPv6]]) specify how many bits identify 
 # Routers
 - A router is needed any time there is a change in address space.
 - A router needs an interface for each network segment it connects to.
-- Each interface on a router needs an IP address that is reachable by hosts in that segment. These can be link-local addresses in
+- Each interface on a router needs an IP address that is reachable by hosts in that segment. These can be link-local addresses in IPv6.
+- Routers use routing tables to determine where to forward packets.
+# [[IPv4]] vs [[IPv6]]
+- Addressing: 32-bit vs 128-bit.
+- Header: 20-byte (variable, 13 fields) vs 40-byte (fixed, 8 fields, simpler).
+- Addresses per host: Typically one vs multiple.
+- Routing: Fragmented vs simplified.
+- NAT usage: Prolific vs end-to-end paradigm restored (NAT avoided).
+
+•
+
+Global Adoption: ~99%+ vs ~45% (of traffic to Google).
+
+IPv4 and IPv6 need to coexist for the foreseeable future
+- Dual stack is a common transition mechanism, where both protocols run side-by-side. This requires managing two networks.
+- IPv6 mostly is an approach where devices capable of IPv6-only operation do so, while others use dual-stack or IPv4 only.
+- NAT64/DNS64 allows IPv6-only hosts to access IPv4-only destinations. Google and Imperial College are examples of organisations using IPv6 mostly.
+- Emerging trends involve "IPv4 as a service" through technologies like carrier-grade NAT (CGNAT) and MACT, where real IPv4 may not be directly used by end devices .
