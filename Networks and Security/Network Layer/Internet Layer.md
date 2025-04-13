@@ -28,7 +28,9 @@
 - [[Quality of Service]] methods can prioritise certain network traffic
 
 # [[Maximum Transmission Unit (MTU)]]  and Fragmentation
-- Physical connections have a [[Maximum Transmission Unit (MTU)]], which is the largest packet size that can be transmitted. For Ethernet, this is typically 1,500 bytes.
+- Physical connections have a Maximum Transmission Unit(MTU) ![[Maximum Transmission Unit (MTU)]].
 - If a Protocol Data Unit is larger than the MTU, it is split into smaller packets through fragmentation to be sent and reassembled later.
 - [[IPv4]]: Packets can be fragmeted at any routing hop and are generally reassembled at the receiving host. Fragmentation details are included in the [[IPv4]] header.
 - [[IPv6]]: Fragmentation can only be done by the sending host. [[Path MTU Discovery]] must be used to determine the largest packet size that can be sent without fragmentation. [[IPv6]] networks must support an MTU of at least 1280 bytes. Fragmentation in [[IPv6]] is handled as an optional extention header.
+# Netmasks and Subnets
+Netmasks ([[IPv4]]) and prefix length ([[IPv6]]) specify how many bits identify the network prefix, helping to determine what is local and what isn't.

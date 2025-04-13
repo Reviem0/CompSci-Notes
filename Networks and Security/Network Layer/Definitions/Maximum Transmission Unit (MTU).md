@@ -1,0 +1,1 @@
+The largest packet size that can be transmitted. For Ethernet, this is typically 1,500 bytes.
