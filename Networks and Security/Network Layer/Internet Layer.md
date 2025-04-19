@@ -57,10 +57,7 @@ Netmasks ([[IPv4]]) and prefix length ([[IPv6]]) specify how many bits identify 
 - Addresses per host: Typically one vs multiple.
 - Routing: Fragmented vs simplified.
 - NAT usage: Prolific vs end-to-end paradigm restored (NAT avoided).
-
-•
-
-Global Adoption: ~99%+ vs ~45% (of traffic to Google).
+- Global Adoption: ~99%+ vs ~45% (of traffic to Google).
 
 IPv4 and IPv6 need to coexist for the foreseeable future
 - Dual stack is a common transition mechanism, where both protocols run side-by-side. This requires managing two networks.
