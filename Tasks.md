@@ -62,3 +62,4 @@
 	- [ ] PKI
 	- [ ] Social Engineering
 	- [ ] Critical Infrastructure
+# Algorithmics
