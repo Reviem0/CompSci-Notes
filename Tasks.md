@@ -1,4 +1,5 @@
 Mathematics
+
 - [ ]  #Mathematics-2 Vectors and Linear Combinations 
 - [ ] #Mathematics-2 Vector Spaces, Scalar Products, and Norms
 - [ ] #Mathematics-2 Linear Maps and Matrices I
@@ -21,4 +22,6 @@ Mathematics
 - [ ] #Mathematics-2 Multivariate Calculus - Part 2
 - [ ] #Mathematics-2 Multivariate Calculus - Part 3
 - [ ] #Mathematics-2 Intro to continuous statistics
-- [ ] #
+- [ ] #Mathematics-2 Normal distribution
+- [ ] #Mathematics-2 Exercises on Normal
+- [ ] 
