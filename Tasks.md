@@ -1,28 +1,28 @@
 Mathematics
 - [ ] Linear Algebra #Mathematics-2 
 	- [ ]  Vectors and Linear Combinations 
-	- [ ] #Mathematics-2 Vector Spaces, Scalar Products, and Norms
-	- [ ] #Mathematics-2 Linear Maps and Matrices I
-	- [ ] #Mathematics-2 Linear Maps and Matrices II
-	- [ ] #Mathematics-2 Solving Systems of Linear Equations
-	- [ ] #Mathematics-2 Linear Independence and Bases
+	- [ ] Vector Spaces, Scalar Products, and Norms
+	- [ ] Linear Maps and Matrices I
+	- [ ] Linear Maps and Matrices II
+	- [ ] Solving Systems of Linear Equations
+	- [ ] Linear Independence and Bases
 	- [ ] Coordinate Transformations and Orthonormal Bases
 	- [ ] Determinants
 	- [ ] Eigenvalues and Eigenvectors
 	- [ ] Reserve slot and interactive problem solving
-- [ ] Calculus
-	- [ ] #Mathematics-2 Introduction to Calculus
-	- [ ] #Mathematics-2 Limits and Continuity - Part 1
-	- [ ] #Mathematics-2 Differential Calculus - Part 1
-	- [ ] #Mathematics-2 Differential Calculus - Part 2
-	- [ ] #Mathematics-2 Differential Calculus - Part 3
-	- [ ] #Mathematics-2 Integral Calculus - Part 1
-	- [ ] #Mathematics-2 Integral Calculus - Part 2
-	- [ ] #Mathematics-2 Integral Calculus - Part 3
-	- [ ] #Mathematics-2 Multivariate Calculus - Part 1
-	- [ ] #Mathematics-2 Multivariate Calculus - Part 2
-	- [ ] #Mathematics-2 Multivariate Calculus - Part 3
-- [ ] Probability and Statistics ✅ 2025-05-03
+- [ ] Calculus #Mathematics-2
+	- [ ] Introduction to Calculus
+	- [ ] Limits and Continuity - Part 1
+	- [ ] Differential Calculus - Part 1
+	- [ ] Differential Calculus - Part 2
+	- [ ] Differential Calculus - Part 3
+	- [ ] Integral Calculus - Part 1
+	- [ ]  Integral Calculus - Part 2
+	- [ ] Integral Calculus - Part 3
+	- [ ] Multivariate Calculus - Part 1
+	- [ ] Multivariate Calculus - Part 2
+	- [ ] Multivariate Calculus - Part 3
+- [ ] Probability and Statistics 📅  2025-05-03 #Mathematics-2 
 	- [ ] #Mathematics-2 Intro to continuous statistics
 	- [ ] #Mathematics-2 Normal distribution
 	- [ ] #Mathematics-2 Exercises on Normal
