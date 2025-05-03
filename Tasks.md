@@ -32,12 +32,12 @@
 	- [ ] p-value and hypothesis testing
 # Network and Security
 
-- [ ] #Network-and-Security  Network Architecture
+- [ ] #Network-and-Security  Kirk
 	- [ ] Internet Architecture
-	- [ ] Network Layer
+	- [ ] DNS
+	- [ ] Network Programming in Python
 	- [ ] Link Layer
-	- [ ] LANs and Ethernet
-	- [ ] WiFi
+	- [ ] Lan's and Ethernet
 - [ ] #Network-and-Security  Routing, Addressing and Transport 
 	- [ ] Routing
 	- [ ] Subnetting & IPV4Nat
