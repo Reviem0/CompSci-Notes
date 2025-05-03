@@ -13,6 +13,7 @@
 - [ ] Calculus #Mathematics-2 📅 2025-05-09 
 	- [ ] Introduction to Calculus
 	- [ ] Limits and Continuity - Part 1
+	- [ ] Limits and Continuity - Part 2
 	- [ ] Differential Calculus - Part 1
 	- [ ] Differential Calculus - Part 2
 	- [ ] Differential Calculus - Part 3
