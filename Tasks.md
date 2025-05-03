@@ -31,4 +31,10 @@
 	- [ ] p-value and hypothesis testing
 # Network and Security
 
-- [ ] #Network-and-Security  Internet Architecture
+- [ ] #Network-and-Security  Network Architecture
+	- [ ] Internet Architecture
+	- [ ] Network Layer
+	- [ ] Link Layer
+	- [ ] LANs and Ethernet
+	- [ ] WiFi
+- [ ] Routing, Addressing and Transport
