@@ -67,8 +67,8 @@
 	- [ ] Big O Notation
 	- [ ] Algorithm Design
 	- [ ] Pointers and References
+	- [ ] Complexity Analysis
 	- [ ] Recursion
-	
 - [ ]  #Algorithmics Data Structures
 	- [ ] Trees
 	- [ ] Balanced Trees
@@ -76,10 +76,10 @@
 	- [ ] Tries and B-Trees
 	- [ ] Hash Tables
 	- [ ] Disjoint Sets, Union-find
-- [ ] 
-- [ ] Complexity Analysis
-- [ ] Sorting Algorithms
-- [ ] Advanced Sorting
+- [ ] #Algorithmics Sorting and Searching
+	- [ ] Sorting Algorithms
+	- [ ] Advanced Sorting
+- [ ] #Algorithmics Graph Algorithms
 - [ ] Graph Traversal
 - [ ] MSTs; Kruskal/Prim
 - [ ] Shortest Paths
