@@ -64,4 +64,4 @@
 	- [ ] Critical Infrastructure
 # Algorithmics
 - [ ] Big O Notation
-- [ ] 
+- [ ] Algorithm Design
