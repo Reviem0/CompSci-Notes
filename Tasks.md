@@ -54,4 +54,9 @@
 	- [ ] Application Layer Protocols
 	- [ ] WiFi
 	- [ ] WiFi Security
-	- [ ] IPSEC and DNSS
+	- [ ] IPSEC and DNSSEC
+- [ ] #Network-and-Security BooJoong
+	- [ ] Access Control
+	- [ ] Principles of Cryptography
+	- [ ] User Authentication and Privacy
+	- [ ] 
