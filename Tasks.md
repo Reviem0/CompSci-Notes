@@ -63,3 +63,5 @@
 	- [ ] Social Engineering
 	- [ ] Critical Infrastructure
 # Algorithmics
+- [ ] Big O Notation
+- [ ] 
