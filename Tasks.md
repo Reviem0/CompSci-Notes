@@ -9,4 +9,8 @@ Mathematics
 - [ ] #Mathematics-2 Determinants
 - [ ] #Mathematics-2 Eigenvalues and Eigenvectors
 - [ ] #Mathematics-2 Reserve slot and interactive problem solving
+- [ ] #Mathematics-2 Introduction to Calculus
+- [ ] #Mathematics-2 Limits and Continuity - Part 1
+- [ ] #Mathematics-2 Differential Calculus - Part 1
+- [ ] #Mathematics-2 Differential Calculus - Part 2
 - [ ] 
