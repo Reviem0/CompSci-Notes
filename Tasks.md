@@ -87,4 +87,5 @@
 - [ ] Linear Programming I 
 - [ ] Linear Programming II
 - [ ] Approximating Algorithms
-- [ ] B
+- [ ] Backtracking and SAT
+- [ ] Branch and Bound
