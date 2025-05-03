@@ -72,4 +72,13 @@
 - [ ] Heaps and Queues
 - [ ] Tries and B-Trees
 - [ ] Hash Tables
-- [ ] Disjoint 
+- [ ] Disjoint Sets, Union-find
+- [ ] Complexity Analysis
+- [ ] Sorting Algorithms
+- [ ] Advanced Sorting
+- [ ] Graph Traversal
+- [ ] MSTs; Kruskal/Prim
+- [ ] Shortest Paths
+- [ ] Greedy Algorithm
+- [ ] Dynamic Programming 1
+- [ ] Dynamic Programming 1⏫ 
