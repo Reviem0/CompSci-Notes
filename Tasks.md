@@ -1,4 +1,4 @@
-Mathematics
+# Mathematics
 - [ ] Linear Algebra #Mathematics-2  📅 2025-05-06 
 	- [ ]  Vectors and Linear Combinations 
 	- [ ] Vector Spaces, Scalar Products, and Norms
@@ -29,3 +29,6 @@ Mathematics
 	- [ ] sampling -> confidence interval
 	- [ ] confidence interval
 	- [ ] p-value and hypothesis testing
+# Network and Security
+
+- [ ] #Network-and-Security  Baka 
