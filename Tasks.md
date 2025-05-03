@@ -98,6 +98,6 @@
 
 # Exams
 - [ ] #Exam Programming II 📅 2025-05-29 
-- [ ] #Exam Algorithmics 📅  2025-05-23
-- [ ] #Exam Networks and Security ⏳ 2025-05-27
-- [ ] #Exam Mathematics 2 ⏳ 2025-05-23
+- [ ] #Exam Algorithmics 📅 2025-05-23
+- [ ] #Exam Networks and Security 📅 2025-05-27
+- [ ] #Exam Mathematics 2 📅 2025-05-30
