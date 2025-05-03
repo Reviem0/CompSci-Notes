@@ -23,7 +23,7 @@ Mathematics
 	- [ ] Multivariate Calculus - Part 2
 	- [ ] Multivariate Calculus - Part 3
 - [ ] Probability and Statistics 📅  2025-05-03 #Mathematics-2 
-	- [ ] #Mathematics-2 Intro to continuous statistics
+	- [ ] Intro to continuous statistics
 	- [ ] #Mathematics-2 Normal distribution
 	- [ ] #Mathematics-2 Exercises on Normal
 - [ ] 
