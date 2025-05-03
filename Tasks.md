@@ -1,5 +1,5 @@
 Mathematics
-- [ ]  #Mathematics-2 Vectors and Linear Combinations
+- [ ]  #Mathematics-2 Vectors and Linear Combinations 
 - [ ] #Mathematics-2 Vector Spaces, Scalar Products, and Norms
 - [ ] #Mathematics-2 Linear Maps and Matrices I
 - [ ] #Mathematics-2 Linear Maps and Matrices II
@@ -8,4 +8,5 @@ Mathematics
 - [ ] #Mathematics-2 Coordinate Transformations and Orthonormal Bases
 - [ ] #Mathematics-2 Determinants
 - [ ] #Mathematics-2 Eigenvalues and Eigenvectors
+- [ ] #Mathematics-2 Reserve slot and interactive problem solving
 - [ ] 
