@@ -38,8 +38,10 @@
 	- [ ] Network Programming in Python
 	- [ ] Link Layer
 	- [ ] Lan's and Ethernet
-- [ ] #Network-and-Security  Routing, Addressing and Transport 
-	- [ ] Routing
-	- [ ] Subnetting & IPV4Nat
+- [ ] #Network-and-Security  Graeme
+	- [ ] Network Layer
 	- [ ] Transport Layer
+	- [ ] Routing
+	- [ ] Subnetting & IPv4 NAT
+- [ ] 
 	- [ ] I
