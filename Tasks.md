@@ -80,16 +80,18 @@
 	- [ ] Sorting Algorithms
 	- [ ] Advanced Sorting
 - [ ] #Algorithmics Graph Algorithms
-- [ ] Graph Traversal
-- [ ] MSTs; Kruskal/Prim
-- [ ] Shortest Paths
-- [ ] Greedy Algorithm
-- [ ] Dynamic Programming I
-- [ ] Dynamic Programming II
-- [ ] Dynamic Programming III
-- [ ] Dynamic Programming IV
-- [ ] Linear Programming I 
-- [ ] Linear Programming II
-- [ ] Approximating Algorithms
-- [ ] Backtracking and SAT
-- [ ] Branch and Bound
+	- [ ] Graph Traversal
+	- [ ] MSTs; Kruskal/Prim
+	- [ ] Shortest Paths
+- [ ] #Algorithmics Algorithm Paradigms
+	- [ ] Greedy Algorithm
+	- [ ] Dynamic Programming I
+	- [ ] Dynamic Programming II
+	- [ ] Dynamic Programming III
+	- [ ] Dynamic Programming IV
+	- [ ] Linear Programming I 
+	- [ ] Linear Programming II
+- [ ] #Algorithmics Advanced Topics 
+	- [ ] Approximating Algorithms
+	- [ ] Backtracking and SAT
+	- [ ] Branch and Bound
