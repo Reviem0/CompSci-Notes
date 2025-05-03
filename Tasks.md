@@ -39,4 +39,6 @@
 	- [ ] WiFi
 - [ ] #Network-and-Security  Routing, Addressing and Transport 
 	- [ ] Routing
-	- [ ] Subnetting &
+	- [ ] Subnetting & IPV4Nat
+	- [ ] Transport Layer
+	- [ ] I
