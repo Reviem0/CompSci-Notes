@@ -13,4 +13,5 @@ Mathematics
 - [ ] #Mathematics-2 Limits and Continuity - Part 1
 - [ ] #Mathematics-2 Differential Calculus - Part 1
 - [ ] #Mathematics-2 Differential Calculus - Part 2
+- [ ] #Mathematics-2 Differential Calculus - Part 3
 - [ ] 
