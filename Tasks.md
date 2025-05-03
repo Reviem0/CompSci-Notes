@@ -31,7 +31,6 @@
 	- [ ] confidence interval
 	- [ ] p-value and hypothesis testing
 # Network and Security
-
 - [ ] #Network-and-Security  Kirk
 	- [ ] Internet Architecture
 	- [ ] DNS
