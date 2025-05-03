@@ -1,3 +1,5 @@
 Mathematics
-- [ ]  #Mathematics-2 Bitch 📅 2025-05-06 
-- [ ] #Mathematics-2 ⏳ 2025-05-05 Badsa
+- [ ]  #Mathematics-2 Vectors and Linear Combinations
+- [ ] #Mathematics-2 Vector Spaces, Scalar Products, and Norms
+- [ ] #Mathematics-2 Linear Maps and Matrices I
+- [ ] 
