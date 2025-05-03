@@ -14,4 +14,8 @@ Mathematics
 - [ ] #Mathematics-2 Differential Calculus - Part 1
 - [ ] #Mathematics-2 Differential Calculus - Part 2
 - [ ] #Mathematics-2 Differential Calculus - Part 3
-- [ ] 
+- [ ] #Mathematics-2 Integral Calculus - Part 1
+- [ ] #Mathematics-2 Integral Calculus - Part 2
+- [ ] #Mathematics-2 Integral Calculus - Part 3
+- [ ] #Mathematics-2 Multivariate Calculus - Part 1
+- [ ] #Mathematics-2 Multivariate Calculus - Part 1#2
