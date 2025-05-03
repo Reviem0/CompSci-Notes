@@ -43,5 +43,9 @@
 	- [ ] Transport Layer
 	- [ ] Routing
 	- [ ] Subnetting & IPv4 NAT
-- [ ] 
-	- [ ] I
+- [ ] #Network-and-Security Leonardo
+	- [ ] Basic Security Concepts
+	- [ ] Cyber Actors
+	- [ ] Attack Lifecycle
+	- [ ] Cyber Attacks
+	- [ ] Corpo
