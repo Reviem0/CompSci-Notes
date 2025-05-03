@@ -97,3 +97,6 @@
 	- [ ] Branch and Bound
 
 # Exams
+- [ ] #Exam Programming II ⏳ 2025-05-19
+- [ ] #Exam Algorithmics ⏳ 2025-05-23
+- [ ] #
