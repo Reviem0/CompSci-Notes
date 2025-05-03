@@ -65,3 +65,11 @@
 # Algorithmics
 - [ ] Big O Notation
 - [ ] Algorithm Design
+- [ ] Pointers and References
+- [ ] Recursion
+- [ ] Trees
+- [ ] Balanced Trees
+- [ ] Heaps and Queues
+- [ ] Tries and B-Trees
+- [ ] Hash Tables
+- [ ] Disjoint 
