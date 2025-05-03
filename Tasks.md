@@ -1,5 +1,5 @@
 Mathematics
-- [ ] Linear Algebra #Mathematics-2 
+- [ ] Linear Algebra #Mathematics-2  📅 2025-05-06 
 	- [ ]  Vectors and Linear Combinations 
 	- [ ] Vector Spaces, Scalar Products, and Norms
 	- [ ] Linear Maps and Matrices I
@@ -10,7 +10,7 @@ Mathematics
 	- [ ] Determinants
 	- [ ] Eigenvalues and Eigenvectors
 	- [ ] Reserve slot and interactive problem solving
-- [ ] Calculus #Mathematics-2
+- [ ] Calculus #Mathematics-2 📅 2025-05-09 
 	- [ ] Introduction to Calculus
 	- [ ] Limits and Continuity - Part 1
 	- [ ] Differential Calculus - Part 1
@@ -22,7 +22,7 @@ Mathematics
 	- [ ] Multivariate Calculus - Part 1
 	- [ ] Multivariate Calculus - Part 2
 	- [ ] Multivariate Calculus - Part 3
-- [ ] Probability and Statistics #Mathematics-2 
+- [ ] Probability and Statistics #Mathematics-2 📅 2025-05-06 
 	- [ ] Intro to continuous statistics
 	- [ ] Normal distribution
 	- [ ] Exercises on Normal
