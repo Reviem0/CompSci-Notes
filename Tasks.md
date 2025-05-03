@@ -1,5 +1,5 @@
 # Mathematics
-- [ ] Linear Algebra #Mathematics-2  📅 2025-05-06 
+- [ ] #Mathematics-2  Linear Algebra  📅 2025-05-06 
 	- [ ]  Vectors and Linear Combinations 
 	- [ ] Vector Spaces, Scalar Products, and Norms
 	- [ ] Linear Maps and Matrices I
@@ -10,7 +10,7 @@
 	- [ ] Determinants
 	- [ ] Eigenvalues and Eigenvectors
 	- [ ] Reserve slot and interactive problem solving
-- [ ] Calculus #Mathematics-2 📅 2025-05-09 
+- [ ] #Mathematics-2 Calculus  📅 2025-05-09 
 	- [ ] Introduction to Calculus
 	- [ ] Limits and Continuity - Part 1
 	- [ ] Limits and Continuity - Part 2
@@ -23,7 +23,7 @@
 	- [ ] Multivariate Calculus - Part 1
 	- [ ] Multivariate Calculus - Part 2
 	- [ ] Multivariate Calculus - Part 3
-- [ ] Probability and Statistics #Mathematics-2 📅 2025-05-12 
+- [ ] #Mathematics-2 Probability and Statistics  📅 2025-05-12 
 	- [ ] Intro to continuous statistics
 	- [ ] Normal distribution
 	- [ ] Exercises on Normal
@@ -59,4 +59,7 @@
 	- [ ] Access Control
 	- [ ] Principles of Cryptography
 	- [ ] User Authentication and Privacy
-	- [ ] 
+	- [ ] Anonymity
+	- [ ] PKI
+	- [ ] Social Engineering
+	- [ ] Critical Infrastructure
