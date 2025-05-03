@@ -48,4 +48,10 @@
 	- [ ] Cyber Actors
 	- [ ] Attack Lifecycle
 	- [ ] Cyber Attacks
-	- [ ] Corpo
+	- [ ] Corporate Security
+- [ ] #Network-and-Security  Celine
+	- [ ] Network Design and Operations
+	- [ ] Application Layer Protocols
+	- [ ] WiFi
+	- [ ] WiFi Security
+	- [ ] IPSEC and DNSS
