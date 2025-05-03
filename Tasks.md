@@ -1,28 +1,28 @@
 Mathematics
 - [ ] Linear Algebra
-- [ ] 
-- [ ]  #Mathematics-2 Vectors and Linear Combinations 
-- [ ] #Mathematics-2 Vector Spaces, Scalar Products, and Norms
-- [ ] #Mathematics-2 Linear Maps and Matrices I
-- [ ] #Mathematics-2 Linear Maps and Matrices II
-- [ ] #Mathematics-2 Solving Systems of Linear Equations
-- [ ] #Mathematics-2 Linear Independence and Bases
-- [ ] #Mathematics-2 Coordinate Transformations and Orthonormal Bases
-- [ ] #Mathematics-2 Determinants
-- [ ] #Mathematics-2 Eigenvalues and Eigenvectors
-- [ ] #Mathematics-2 Reserve slot and interactive problem solving
-- [ ] #Mathematics-2 Introduction to Calculus
-- [ ] #Mathematics-2 Limits and Continuity - Part 1
-- [ ] #Mathematics-2 Differential Calculus - Part 1
-- [ ] #Mathematics-2 Differential Calculus - Part 2
-- [ ] #Mathematics-2 Differential Calculus - Part 3
-- [ ] #Mathematics-2 Integral Calculus - Part 1
-- [ ] #Mathematics-2 Integral Calculus - Part 2
-- [ ] #Mathematics-2 Integral Calculus - Part 3
-- [ ] #Mathematics-2 Multivariate Calculus - Part 1
-- [ ] #Mathematics-2 Multivariate Calculus - Part 2
-- [ ] #Mathematics-2 Multivariate Calculus - Part 3
-- [ ] #Mathematics-2 Intro to continuous statistics
-- [ ] #Mathematics-2 Normal distribution
-- [ ] #Mathematics-2 Exercises on Normal
+	- [ ]  #Mathematics-2 Vectors and Linear Combinations 
+	- [ ] #Mathematics-2 Vector Spaces, Scalar Products, and Norms
+	- [ ] #Mathematics-2 Linear Maps and Matrices I
+	- [ ] #Mathematics-2 Linear Maps and Matrices II
+	- [ ] #Mathematics-2 Solving Systems of Linear Equations
+	- [ ] #Mathematics-2 Linear Independence and Bases
+	- [ ] #Mathematics-2 Coordinate Transformations and Orthonormal Bases
+	- [ ] #Mathematics-2 Determinants
+	- [ ] #Mathematics-2 Eigenvalues and Eigenvectors
+	- [ ] #Mathematics-2 Reserve slot and interactive problem solving
+- [ ] Calculus
+	- [ ] #Mathematics-2 Introduction to Calculus
+	- [ ] #Mathematics-2 Limits and Continuity - Part 1
+	- [ ] #Mathematics-2 Differential Calculus - Part 1
+	- [ ] #Mathematics-2 Differential Calculus - Part 2
+	- [ ] #Mathematics-2 Differential Calculus - Part 3
+	- [ ] #Mathematics-2 Integral Calculus - Part 1
+	- [ ] #Mathematics-2 Integral Calculus - Part 2
+	- [ ] #Mathematics-2 Integral Calculus - Part 3
+	- [ ] #Mathematics-2 Multivariate Calculus - Part 1
+	- [ ] #Mathematics-2 Multivariate Calculus - Part 2
+	- [ ] #Mathematics-2 Multivariate Calculus - Part 3
+	- [ ] #Mathematics-2 Intro to continuous statistics
+	- [ ] #Mathematics-2 Normal distribution
+	- [ ] #Mathematics-2 Exercises on Normal
 - [ ] 
