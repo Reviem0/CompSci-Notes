@@ -2,4 +2,10 @@ Mathematics
 - [ ]  #Mathematics-2 Vectors and Linear Combinations
 - [ ] #Mathematics-2 Vector Spaces, Scalar Products, and Norms
 - [ ] #Mathematics-2 Linear Maps and Matrices I
+- [ ] #Mathematics-2 Linear Maps and Matrices II
+- [ ] #Mathematics-2 Solving Systems of Linear Equations
+- [ ] #Mathematics-2 Linear Independence and Bases
+- [ ] #Mathematics-2 Coordinate Transformations and Orthonormal Bases
+- [ ] #Mathematics-2 Determinants
+- [ ] #Mathematics-2 Eigenvalues and Eigenvectors
 - [ ] 
