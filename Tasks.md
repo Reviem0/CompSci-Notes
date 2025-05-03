@@ -80,5 +80,11 @@
 - [ ] MSTs; Kruskal/Prim
 - [ ] Shortest Paths
 - [ ] Greedy Algorithm
-- [ ] Dynamic Programming 1
-- [ ] Dynamic Programming 1⏫ 
+- [ ] Dynamic Programming I
+- [ ] Dynamic Programming II
+- [ ] Dynamic Programming III
+- [ ] Dynamic Programming IV
+- [ ] Linear Programming I 
+- [ ] Linear Programming II
+- [ ] Approximating Algorithms
+- [ ] B
