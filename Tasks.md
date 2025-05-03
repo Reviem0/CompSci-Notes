@@ -63,16 +63,20 @@
 	- [ ] Social Engineering
 	- [ ] Critical Infrastructure
 # Algorithmics
-- [ ] Big O Notation
-- [ ] Algorithm Design
-- [ ] Pointers and References
-- [ ] Recursion
-- [ ] Trees
-- [ ] Balanced Trees
-- [ ] Heaps and Queues
-- [ ] Tries and B-Trees
-- [ ] Hash Tables
-- [ ] Disjoint Sets, Union-find
+- [ ] #Algorithmics Fundamentals 
+	- [ ] Big O Notation
+	- [ ] Algorithm Design
+	- [ ] Pointers and References
+	- [ ] Recursion
+	
+- [ ]  #Algorithmics Data Structures
+	- [ ] Trees
+	- [ ] Balanced Trees
+	- [ ] Heaps and Queues
+	- [ ] Tries and B-Trees
+	- [ ] Hash Tables
+	- [ ] Disjoint Sets, Union-find
+- [ ] 
 - [ ] Complexity Analysis
 - [ ] Sorting Algorithms
 - [ ] Advanced Sorting
