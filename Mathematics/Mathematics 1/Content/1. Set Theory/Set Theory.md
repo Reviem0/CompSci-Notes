@@ -14,7 +14,7 @@
 
 # Assessment
 ## Sets
-- [x]  [[2. Set Theory - Operations on Sets | Set Operations]]
+- [ ]  [[2. Set Theory - Operations on Sets | Set Operations]]
 - [x] [[8. Set Theory - Relations|Set memberships]]
 - [x] Cardinality/size
 - [x] Empty Sets
