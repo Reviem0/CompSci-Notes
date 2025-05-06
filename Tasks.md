@@ -1,6 +1,6 @@
 # Mathematics
 - [ ] #Mathematics-2  Linear Algebra  📅 2025-05-06 
-	- [ ]  Vectors and Linear Combinations 
+	- [x]  Vectors and Linear Combinations  @completed(2025-05-06T14:44:32+01:00)
 	- [ ] Vector Spaces, Scalar Products, and Norms
 	- [ ] Linear Maps and Matrices I
 	- [ ] Linear Maps and Matrices II
