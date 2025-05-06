@@ -1,9 +1,9 @@
 # Mathematics
 - [ ] #Mathematics-2  Linear Algebra  📅 2025-05-06 
 	- [x]  Vectors and Linear Combinations  @completed(2025-05-06T14:44:32+01:00)
-	- [ ] Vector Spaces, Scalar Products, and Norms
-	- [ ] Linear Maps and Matrices I
-	- [ ] Linear Maps and Matrices II
+	- [x] Vector Spaces, Scalar Products, and Norms @completed(2025-05-06T15:18:38+01:00)
+	- [x] Linear Maps and Matrices I @completed(2025-05-06T15:18:39+01:00)
+	- [x] Linear Maps and Matrices II @completed(2025-05-06T15:18:39+01:00)
 	- [ ] Solving Systems of Linear Equations
 	- [ ] Linear Independence and Bases
 	- [ ] Coordinate Transformations and Orthonormal Bases
