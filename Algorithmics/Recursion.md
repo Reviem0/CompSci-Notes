@@ -26,4 +26,5 @@ public static double power(double x, long n) {
 }
 ```
 2^4
-2^
+power(2,4)
+power(2,)
