@@ -28,3 +28,5 @@ Disadvantages:
 	- Disadvantages: Slow for mid-list operations as it requires traversal
 - Doubly Linked List (Java `LinkedList<T>`)
 	- Nodes have a `next` and a `previous`
+	- Supports `O(1)` add/remove at both ends.
+	- Uses a dummy header node for edge 
