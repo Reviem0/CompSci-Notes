@@ -39,4 +39,5 @@ Disadvantages:
 	- Requires **tail pointer** for `O(1)` enqueue
 	- Dequeue: `O(1)` 
 # Skip Lists
-Purpose: Enable O(log n)
+Purpose: Enable O(log n) search in ordered lists
+Structure: Hie
