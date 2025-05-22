@@ -2,3 +2,5 @@
 2. [[Links]]
 3. [[Recursion]]
 4. [[Trees]]
+5. [[Balanced Trees]]
+6. 
