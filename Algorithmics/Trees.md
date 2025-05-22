@@ -35,3 +35,22 @@ To iterate through the elements we start in the left-most branch.
 To find the successor of the current node we follow two rules
 	1. If right child exists, Go right, then leftmost.
 	2. Else: move up to the first ancestor where current node is a left child
+```java
+// Node Class
+public class Node<T> {
+    private T element;
+    private Node<T> left, right, parent;
+}
+
+// BST search
+private Node<E> getNode(Object obj) {
+    Node<E> e = root;
+    while (e != null) {
+        int comp = ((Comparable)obj).compareTo(e.element);
+        if (comp == 0) return e;
+        else if (comp < 0) e = e.left;
+        else e = e.right;
+    }
+    return null;
+}
+```
