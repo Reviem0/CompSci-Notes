@@ -10,6 +10,7 @@ Disadvantages:
 **Dynamic Arrays**
 - Resizing (doubling) leads to **amortized** `O(1)` cost for `add()`
 - Example: Adding `100` elements with initial capacity `10` $\to$ $\text{copies} = 10 +20 +40+80 = 150$ elements
+	- 
 
 # Linked Lists
 - Singly Linked List:
