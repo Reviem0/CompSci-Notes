@@ -29,4 +29,9 @@ Disadvantages:
 - Doubly Linked List (Java `LinkedList<T>`)
 	- Nodes have a `next` and a `previous`
 	- Supports `O(1)` add/remove at both ends.
-	- Uses a dummy header node for edge 
+	- Uses a dummy header node for edge-case simplification
+# Stacks and Queues
+- Stack
+	- Implemented via linked list:
+		- `push()`: Add to head `O(1)`
+		- pop
