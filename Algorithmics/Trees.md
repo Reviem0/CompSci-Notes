@@ -22,5 +22,4 @@
 ![[Pasted image 20250522220149.png]]
 - **Time Complexity**
 	- Search/Insert: $O(h)$ where $h = \text{ tree height}$
-	- Search/Insert: $O(h)$, where $h = \text{tree height}$
-	- 
+	- Worst case (skewed tree): $O(n)$; best case (balanced): $O(\log n)$
