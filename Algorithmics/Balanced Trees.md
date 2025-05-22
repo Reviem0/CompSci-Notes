@@ -23,3 +23,7 @@
 	- If imbalance (`|balance| > 1`), perform rotations:
 		- Left-Left or Right-Eight
 		- Left-Right or Right-Left
+	- Stop rebalancing once a subtree's balance factor is `0`
+- Performance:
+	- Insertion/deletion/search: $0(\log n)$ due to enforced balance
+	- Ge
