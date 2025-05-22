@@ -8,4 +8,5 @@ Disadvantages:
 - Insertion/deletion in the middle: `O(n)` time.
 
 **Dynamic Arrays**
-Resizing (doubling) leads t
+- Resizing (doubling) leads to **amortized** `O(1)` cost for `add()`
+- Example: Adding 100
