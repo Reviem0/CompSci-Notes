@@ -5,4 +5,6 @@
 	- Height: Number of levels (e.g. height 3 -> levels 0,1,2)
 
 # Binary Trees
-- Structure: Each node has 
+- Structure: Each node has $\leq$ 2 children (`left/right`)
+- Nodes at level $l: 2^{l}$
+- Total nodes in full tree of height $h$
