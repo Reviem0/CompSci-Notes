@@ -23,4 +23,6 @@ Disadvantages:
 	- Key Methods
 		- `add(element)`: `O(1)` adds to head
 		- `removeHead()`: `O(1)`
-		- `contains(elem`
+		- `contains(obj)`: `O(n)` traversal
+		- `get(int i)`: `O(n)` no random access
+	- Disadvantages: Slow for mid-list operations as it require
