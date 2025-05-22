@@ -43,3 +43,4 @@ Purpose: Enable O(log n) search in ordered lists
 Structure: Hierarchy of linked lists with "express lanes"
 - Higher levels skip more elements (similar to binary search)
 Use case: Faster than binary trees for concurrent access.
+![[Pasted image 20250522181642.png]]
