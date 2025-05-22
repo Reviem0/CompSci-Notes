@@ -2,4 +2,5 @@
 - Definition: Solving a problem by breaking it into smaller, self-similar subproblems until reaching a trivial base case.
 - Structure:
 	- **Base Case**: Simple, non-recursive solution (`O! = 1`)
-	- **Recursive Clause**: Self-referential step (e.g. $n! = n \times n(-1)!$) 
+	- **Recursive Clause**: Self-referential step (e.g. $n! = n \times n(-1)!$)
+- Relation to induction: Recursive algorithms mirror mathematical induction (base case verification + inductive )
