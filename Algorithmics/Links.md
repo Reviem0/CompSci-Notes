@@ -51,3 +51,4 @@ Use case: Faster than binary trees for concurrent access.
 - Avoid:
 	- Random access or frequent mid-list operations (use arrays or trees).
 	- Sorted lists
+
