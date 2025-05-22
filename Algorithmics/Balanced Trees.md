@@ -17,4 +17,7 @@
 ![[Pasted image 20250522231244.png]]
 ![[Pasted image 20250522231814.png]]
 # AVL Trees
-Balance Factor: $\text{height}(\text{left subtree}) - \text{height}(\text{right subtree}))$. Must be `-1` 
+- **Balance Factor**: $\text{height}(\text{left subtree}) - \text{height}(\text{right subtree}))$. Must be `-1`, `0` or `1`
+- Rebalancing:
+	- After insertion/deletion, update balance factors upward
+	- If imbalance 
