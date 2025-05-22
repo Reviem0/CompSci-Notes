@@ -10,3 +10,7 @@
 	- Nodes at level $l: 2^{l}$
 	- Total nodes in full tree of height $h: 2^{h} - 1$
 - **Applications**: Expression trees (e.g. $(4+y)*(2*(2+x))$)
+
+# Binary Search Trees (BST)
+- Properties:
+	- Left subtree < root < right subtree (recursively)
