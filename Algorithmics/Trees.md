@@ -22,5 +22,5 @@
 ![[Pasted image 20250522220149.png]]
 - **Time Complexity**
 	- Search/Insert: $O(h)$ where $h = \text{ tree height}$
-	- 
+	- Search/Insert: $O(h)$, where $h = \text{tree height}$
 	- 
