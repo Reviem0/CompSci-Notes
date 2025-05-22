@@ -4,4 +4,6 @@
 - Two Children:
 	1. Find the successor
 	2. Replace the node's value with the successor's value.
-	3. Delete the successor
+	3. Delete the successor (which will be a leaf or have one child)
+# Balancing Trees with Rotations
+- Purpose: Maintain logarithmic
