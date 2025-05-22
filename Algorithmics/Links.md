@@ -40,4 +40,6 @@ Disadvantages:
 	- Dequeue: `O(1)` 
 # Skip Lists
 Purpose: Enable O(log n) search in ordered lists
-Structure: Hie
+Structure: Hierarchy of linked lists with "express lanes"
+- Higher levels skip more elements (similar to binary search)
+Use case: Faster than binary trees for concurrent access.
