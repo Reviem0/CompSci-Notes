@@ -3,4 +3,5 @@
 - One Child: Replace the node with its child and update parent-child links
 - Two Children:
 	1. Find the successor
-	2. Replace the node's 
+	2. Replace the node's value with the successor's value.
+	3. Delete the successor
