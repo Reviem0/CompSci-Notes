@@ -3,4 +3,9 @@
 - Structure:
 	- **Base Case**: Simple, non-recursive solution (`O! = 1`)
 	- **Recursive Clause**: Self-referential step (e.g. $n! = n \times n(-1)!$)
-- Relation to induction: Recursive algorithms mirror mathematical induction (base case verification + inductive )
+- Relation to induction: Recursive algorithms mirror mathematical induction (base case verification + inductive step)
+# Recursive Programming Examples
+**Factorial**
+```java
+
+```
