@@ -26,5 +26,8 @@
 # Implementing a Set with BST
 - Set ADT: Stores unique elements, no order.
 - BST Advantages: Fast membership checks (Using BST properties)
-- Java Implementation:
-	- 
+
+# Tree Iterators
+- InOrder Traversal:
+	- Recursive: Easy but uses implicit call stack
+	- Iterative: Explicit stack to track nodes (avoids recursion limits)
