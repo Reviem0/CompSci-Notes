@@ -31,3 +31,6 @@
 - InOrder Traversal:
 	- Recursive: Easy but uses implicit call stack
 	- Iterative: Explicit stack to track nodes (avoids recursion limits)
+- Successor Rules:
+	1. If right child exists, Go right, then leftmost.
+	2. Else: move up to the first ancestor where current node is a left 
