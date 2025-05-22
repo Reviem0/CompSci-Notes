@@ -3,4 +3,4 @@
 3. [[Recursion]]
 4. [[Trees]]
 5. [[Balanced Trees]]
-6. 
+6. [[Heaps]]
