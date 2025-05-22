@@ -13,4 +13,12 @@ Disadvantages:
 
 # Linked Lists
 - Singly Linked List:
-- 
+	- Node structure:
+```java
+class Node<T> {
+	T element;
+	Node<T> next;
+}
+```
+	- Key
+	- 
