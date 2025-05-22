@@ -6,6 +6,7 @@
 
 # Binary Trees
 - Structure: Each node has $\leq$ 2 children (`left/right`)
-- Nodes at level $l: 2^{l}$
-- Total nodes in full tree of height $h: 2^{h} - 1$
-- 
+- Key Formulas
+	- Nodes at level $l: 2^{l}$
+	- Total nodes in full tree of height $h: 2^{h} - 1$
+- **Applications**: Expression trees (e.g. $(4+y)*(2*(2+x))$)
