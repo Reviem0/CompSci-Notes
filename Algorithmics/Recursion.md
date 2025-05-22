@@ -25,8 +25,6 @@ public static double power(double x, long n) {
     }
 }
 ```
-2^4
-power(2,4)
-power(2,2)
-power(2,1) = 
-1
+
+**GCD Euclid's Algorithm**
+
