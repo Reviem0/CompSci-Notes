@@ -17,5 +17,6 @@
 	- No duplicates allowed
 - Operations:
 	- Search: Start at root, compare and traverse left/right
-	- Insert
+	- Insert: Navigate to correct position, add new leaf
 	- Inorder Traversal
+![[Pasted image 20250522220149.png]]
