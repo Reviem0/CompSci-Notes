@@ -7,3 +7,5 @@ Disadvantages:
 - Fixed size (resizing requires copying `O(n)`)
 - Insertion/deletion in the middle: `O(n)` time.
 
+**Dynamic Arrays**
+Resizing (doubling) leads t
