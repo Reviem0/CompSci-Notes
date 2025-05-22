@@ -13,4 +13,5 @@
 - Double Rotation:
 	- Left-Right: Rotate left child left, then node right
 	- Right-Left: Rotate right child right, then node left
+- When to rotate: Detect imbalance via balance factors and apply rotations to restore balance.
 ![[Pasted image 20250522231244.png]]
