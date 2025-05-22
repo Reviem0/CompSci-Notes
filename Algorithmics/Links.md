@@ -45,3 +45,9 @@ Structure: Hierarchy of linked lists with "express lanes"
 Use case: Faster than binary trees for concurrent access.
 ![[Pasted image 20250522181642.png]]
 # When to Use Linked Lists
+- Use Cases
+	- Frequent insertions/deletions at **ends**
+	- Line editors
+- Avoid:
+	- Random access or frequent mid-list operations (use arrays or trees).
+	- Sorted lists
