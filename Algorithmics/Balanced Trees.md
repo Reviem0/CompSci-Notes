@@ -6,4 +6,5 @@
 	2. Replace the node's value with the successor's value.
 	3. Delete the successor (which will be a leaf or have one child)
 # Balancing Trees with Rotations
-- Purpose: Maintain logarithmic
+- Purpose: Maintain logarithmic height for efficient operations.
+- Single Rotations
