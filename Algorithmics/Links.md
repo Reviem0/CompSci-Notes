@@ -1,0 +1,3 @@
+# Arrays
+Advantages:
+- Contiguous Memory -> 
