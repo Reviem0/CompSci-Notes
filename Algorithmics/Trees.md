@@ -18,5 +18,5 @@
 - Operations:
 	- Search: Start at root, compare and traverse left/right
 	- Insert: Navigate to correct position, add new leaf
-	- Inorder Traversal
+	- Inorder Traversal: Visit nodes in sorted order (left $\to$ right)
 ![[Pasted image 20250522220149.png]]
