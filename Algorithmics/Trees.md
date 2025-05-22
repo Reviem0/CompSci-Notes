@@ -14,3 +14,8 @@
 # Binary Search Trees (BST)
 - Properties:
 	- Left subtree < root < right subtree (recursively)
+	- No duplicates allowed
+- Operations:
+	- Search: Start at root, compare and traverse left/right
+	- Insert
+	- Inorder Traversal
