@@ -4,4 +4,6 @@ Advantages:
 - Efficient memory use (low overhead)
 - Best for frequent read operations
 Disadvantages:
-- Fixed siz
+- Fixed size (resizing requires copying `O(n)`)
+- Insertion/deletion in the middle: `O(n)` time.
+
