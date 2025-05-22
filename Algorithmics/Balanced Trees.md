@@ -17,4 +17,4 @@
 ![[Pasted image 20250522231244.png]]
 ![[Pasted image 20250522231814.png]]
 # AVL Trees
-Balance Factor
+Balance Factor: $\text{height}(\text{left subtree}) - \text{height}(\text{right subtree}))$. Must be `-1` 
