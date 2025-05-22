@@ -7,5 +7,21 @@
 # Recursive Programming Examples
 **Factorial**
 ```java
-
+public static long factorial(long n) {
+    if (n == 0) return 1; // Base case
+    return n * factorial(n - 1); // Recursive step
+}
+```
+Time Complexity: `O(n)` linear due to `n` multiplications
+**Integer Power**
+```java
+public static double power(double x, long n) {
+    if (n == 0) return 1;
+    if (n % 2 == 0) {
+        double half = power(x, n/2);
+        return half * half;
+    } else {
+        return x * power(x, n - 1);
+    }
+}
 ```
