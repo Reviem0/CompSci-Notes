@@ -34,4 +34,7 @@ Disadvantages:
 - Stack
 	- Implemented via linked list:
 		- `push()`: Add to head `O(1)`
-		- pop
+		- `pop()`: Removes from head `O(1)` 
+- Queue
+	- Requires **tail pointer** for `O(1)` enqueue
+	- Dequeue: `O(1)` 
