@@ -21,6 +21,6 @@ Disadvantages:
 	}
 	```
 	- Key Methods
-```java
-a
-```
+		- `add(element)`: `O(1)` adds to head
+		- `removeHead()`: `O(1)`
+		- `contains(elem`
