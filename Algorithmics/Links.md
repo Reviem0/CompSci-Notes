@@ -25,4 +25,6 @@ Disadvantages:
 		- `removeHead()`: `O(1)`
 		- `contains(obj)`: `O(n)` traversal
 		- `get(int i)`: `O(n)` no random access
-	- Disadvantages: Slow for mid-list operations as it require
+	- Disadvantages: Slow for mid-list operations as it requires traversal
+- Doubly Linked List (Java `LinkedList<T>`)
+	- Nodes have a `next` and a `previous`
