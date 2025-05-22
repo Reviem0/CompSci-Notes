@@ -13,3 +13,4 @@
 - Double Rotation:
 	- Left-Right: Rotate left child left, then node right
 	- Right-Left: Rotate right child right, then node left
+![[Pasted image 20250522231244.png]]
