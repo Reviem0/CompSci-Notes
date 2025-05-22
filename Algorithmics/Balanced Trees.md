@@ -30,4 +30,5 @@
 
 # TreeSet and TreeMap
 - TreeSet: implements a sorted set using a red-black tree (balanced BST). Supports ordered iteration.
-- TreeMap: Implements a sorted map ()
+- TreeMap: Implements a sorted map (key-value pairs) using a red-black tree. Keys are ordered.
+- Use Cases: When ordered data or fast lookups (logarithmic time) are required
