@@ -27,4 +27,11 @@ public static double power(double x, long n) {
 ```
 
 **GCD Euclid's Algorithm**
+```java
+public static long gcd(long a, long b) {
+    if (b == 0) return a; // Base case
+    return gcd(b, a % b); // Recursive step
+}
+```
+
 
