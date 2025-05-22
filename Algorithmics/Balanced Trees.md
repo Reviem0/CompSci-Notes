@@ -11,4 +11,5 @@
 	- Left Rotation: Fixes right-heavy imbalance
 	- Right Rotation: Fixes left-heavy imbalance
 - Double Rotation:
-	- Rotate left child left, then
+	- Left-Right: Rotate left child left, then node right
+	- Right-Left: Rotate right child right, then node left
