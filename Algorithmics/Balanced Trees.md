@@ -20,4 +20,6 @@
 - **Balance Factor**: $\text{height}(\text{left subtree}) - \text{height}(\text{right subtree}))$. Must be `-1`, `0` or `1`
 - Rebalancing:
 	- After insertion/deletion, update balance factors upward
-	- If imbalance 
+	- If imbalance (`|balance| > 1`), perform rotations:
+		- Left-Left or Right-Eight
+		- Left-Right or Right-Left
