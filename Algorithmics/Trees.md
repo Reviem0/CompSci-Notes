@@ -23,3 +23,8 @@
 - **Time Complexity**
 	- Search/Insert: $O(h)$ where $h = \text{ tree height}$
 	- Worst case (skewed tree): $O(n)$; best case (balanced): $O(\log n)$
+# Implementing a Set with BST
+- Set ADT: Stores unique elements, no order.
+- BST Advantages: Fast membership checks (Using BST properties)
+- Java Implementation:
+	- 
