@@ -27,4 +27,7 @@
 - Performance:
 	- Insertion/deletion/search: $0(\log n)$ due to enforced balance
 	- Height is $O(\log n)$ 
-- 
+
+# TreeSet and TreeMap
+- TreeSet: implements a sorted set using a red-black tree (balanced BST). Supports ordered iteration.
+- TreeMap: Implements a sorted map ()
