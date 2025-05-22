@@ -9,8 +9,17 @@ Disadvantages:
 
 **Dynamic Arrays**
 - Resizing (doubling) leads to **amortized** `O(1)` cost for `add()`
-- Example: Adding `100` elements with initial capacity `10` $\to$ $\text{copies} = 10 +20 +40+80 = 150$ elements
-	- 
+- Example: 
+	- Adding `100` elements with initial capacity `10` $\to$ $\text{copies} = 10 +20 +40+80 = 150$ elements
+	- Assume an array starts with capacity 10 and doubles when full:
+		- **Add 10 elements**: No resize needed.
+		- **Add 11th element**: Resize to 20 (copy 10 elements).
+		- **Add 21st element**: Resize to 40 (copy 20 elements).
+		- **Add 41st element**: Resize to 80 (copy 40 elements).
+		- **Add 81st element**: Resize to 160 (copy 80 elements).
+	- **Total copies** = 10 + 20 + 40 + 80 = **150 copies** for 100 elements.  
+	- **Total operations** = 100 adds + 150 copies = **250 operations**.  
+	- **Amortized cost per `add()`** = 250 / 100 = **2.5 operations** (constant time).
 
 # Linked Lists
 - Singly Linked List:
