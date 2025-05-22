@@ -26,4 +26,5 @@
 	- Stop rebalancing once a subtree's balance factor is `0`
 - Performance:
 	- Insertion/deletion/search: $0(\log n)$ due to enforced balance
-	- Ge
+	- Height is $O(\log n)$ 
+- 
