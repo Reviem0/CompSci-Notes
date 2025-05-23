@@ -25,4 +25,6 @@ minimum, etc.
 	- Compactified to remove one-way branches
 - Operations:
 	- Insertion: Builds paths character-by-character
-	- Search:$O(k)$ time for a work length k
+	- Search:$O(k)$ time for a work length $k$
+- Advantages: Faster than hash tables/binary trees for string operations
+- Disadvantages: High memory usage. Solutions include hybrid structures (e.g. binary tries for bit-level decision)
