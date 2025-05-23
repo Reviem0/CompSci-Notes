@@ -11,5 +11,5 @@ minimum, etc.
 	- Root has $2$ to $M$ children
 	- Non-root nodes have $\left\lceil  \frac{M}{2}  \right\rceil$ to $M$ children.
 	- All leaves at the same depth
-- B-Tree vs B+ Tree:
+- B-Tree vs B+Tree:
 - 
