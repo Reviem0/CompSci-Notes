@@ -9,4 +9,7 @@ minimum, etc.
 	- Example: For $n = 10^{7}$, a B-Tree with $M = 200$ reduces depth ~$8$x vs a binary tree
 - Rules:
 	- Root has $2$ to $M$ children
-	- Non-root nodes have $\left\lceil  \frac{M}{2}  \right\rceil$ to $M$ children
+	- Non-root nodes have $\left\lceil  \frac{M}{2}  \right\rceil$ to $M$ children.
+	- All leaves at the same depth
+- B-Tree vs B+ Tree:
+- 
