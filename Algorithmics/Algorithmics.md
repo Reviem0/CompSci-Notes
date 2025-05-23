@@ -4,3 +4,4 @@
 4. [[Trees]]
 5. [[Balanced Trees]]
 6. [[Heaps]]
+7. [[Multiway]]
