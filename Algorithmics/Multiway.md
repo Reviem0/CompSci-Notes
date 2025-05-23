@@ -4,4 +4,6 @@ minimum, etc.
 - Structure:
 	- Each node can have up to $M - 1$ keys and $M$ children
 	- Minimizes disk I/O by storing related data close (aligned with disk block size)
-- Perfo
+- Performance:
+	- Height: $\log_{M}(n)$, significantly reduces depth compared to binary trees $\log_{2}(n)$
+	- Example: f
