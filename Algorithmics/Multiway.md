@@ -21,4 +21,8 @@ minimum, etc.
 - Purpose: Multiway trees for storing strings (e.g. spell checkers, autocomplete)
 - Structure:
 	- Each node represents a character. Paths from root to leaf spell words.
-	- Ends with a special symbol (e.g., %)
+	- Ends with a special symbol (e.g., $)
+	- Compactified to remove one-way branches
+- Operations:
+	- Insertion: Builds paths character-by-character
+	- Search:$O(k)$ time for a work length k
