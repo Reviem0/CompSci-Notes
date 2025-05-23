@@ -18,4 +18,7 @@ minimum, etc.
 	- ![[Pasted image 20250523013621.png]]
 
 # Tries
-- Purpose: M
+- Purpose: Multiway trees for storing strings (e.g. spell checkers, autocomplete)
+- Structure:
+	- Each node represents a character. Paths from root to leaf spell words.
+	- Ends with a special symbol (e.g., %)
