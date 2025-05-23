@@ -19,6 +19,7 @@ minimum, etc.
 
 # Tries
 - Purpose: Multiway trees for storing strings (e.g. spell checkers, autocomplete)
+![[Pasted image 20250523015640.png]]
 - Structure:
 	- Each node represents a character. Paths from root to leaf spell words.
 	- Ends with a special symbol (e.g., $)
