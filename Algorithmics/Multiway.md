@@ -13,4 +13,4 @@ minimum, etc.
 	- All leaves at the same depth
 - B-Tree vs B+ Tree:
 	- B-Tree: Data in all nodes. No sequential access.
-	- B+ Tree: Data only in leaves, leaves linked for sequential accress
+	- B+ Tree: Data only in leaves, leaves linked for sequential access. Faster searches and easier insertions/deletions
