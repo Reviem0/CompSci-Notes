@@ -6,4 +6,4 @@ minimum, etc.
 	- Minimizes disk I/O by storing related data close (aligned with disk block size)
 - Performance:
 	- Height: $\log_{M}(n)$, significantly reduces depth compared to binary trees $\log_{2}(n)$
-	- Example: f
+	- Example: For $n = 10^{7}$, a B-Tree with $M = 200$ reduces depth ~$8$x vs a binary tree
