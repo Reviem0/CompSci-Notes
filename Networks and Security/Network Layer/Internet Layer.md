@@ -86,4 +86,9 @@
 	3. Combines prefix + identifier to form full IPv6 address
 - Privacy Extensions (RFC 4941)
 	- Generates temporary, random addresses for outbound traffic
-	- Stable SLAAC address 
+	- Stable SLAAC address retained for inbound connections
+
+# Multicast
+- IPv4:
+	- Address range: `224.0.0.0/4` 
+	- Comm
