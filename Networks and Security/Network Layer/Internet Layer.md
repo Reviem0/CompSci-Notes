@@ -55,7 +55,7 @@
 	- IPv6: ICMPv6 expands functionality to include **[[Neighbour Discovery Protocol (NDP)]]** and [[Router Advertisement]]
 - Key ICMPv6 Packet Types:
 	- Router Solicitation (RS): Host requests router info
-	- [[Router Advertisement]]: Router sends network prefix, MTU. and addressing modes
+	- [[Router Advertisement]]: Router sends network prefix, MTU. and addressing modes ([[Internet Layer#]]/DHCPv6)
 	- Neighbour Solicitation (NS): Maps IPv6 to MAC (Maps IPv6 to MAC)
 	- Neighbour Advertisement (NA): Response to NS
 	- Redirect: Informs hosts of better routes
@@ -76,3 +76,5 @@
 | **Process**            | DISCOVER $\to$ OFFER $\to$ REQUEST $\to$ ACK | SOLICIT $\to$ ADVERTISE $\to$ REQUEST $\to$ REPLY |
 | **Integration**        | Standalone                                   | Requires Router Advertisements                    |
 | **Unique Identifier**  | Uses MAC address                             | Uses DHCP Unique Identifier                       |
+
+# SLAAC (Stateless Address Autoconfiguration)
