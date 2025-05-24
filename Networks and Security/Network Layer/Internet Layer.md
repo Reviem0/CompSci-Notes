@@ -37,3 +37,8 @@
 - Routers: Connect subnets; each interface has an IP address in its subnet.
 - Routing Tables: Determine next-hop paths (e.g. `netstat -nr` in Linux)
 	- Default Gateway: Routes packets destined for external networks
+
+# Key Protocols
+- ICMP/ICMPv6: Diagnostics
+- ARP (IPv4): Maps IP addresses to MAC addresses
+- NDP (IPv6): Replaces 
