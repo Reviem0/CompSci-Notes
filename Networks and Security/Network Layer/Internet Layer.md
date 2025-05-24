@@ -115,4 +115,6 @@
 - Use Case: Home networks with multiple subnets
 
 # IPv6 Address Types:
-- Link-Local 
+- Link-Local: `fe80::/10` (non-routable, used for local communication)
+- Global Unicast: `2000::/3` (publicly routable)
+- Unique Local: `fc00::`
