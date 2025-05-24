@@ -19,3 +19,4 @@
 | **Address Scopes** | Limited to public/private addresses        | Link-local (`fe80::/10`), global unicast (`2000::/3`), ULA (`fc00::/7`) |
 | **NAT Usage**      | Ubiquitous (address exhaustion)            | Rare (end-to-end connectivity restored)                                 |
 | **Adoption**       | ~99%+                                      | ~45% growing                                                            |
+# Fragmentation 
