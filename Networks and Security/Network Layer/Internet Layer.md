@@ -99,4 +99,5 @@
 
 # IPv6 Deployment
 - Benefits:
-- 
+	- Eliminates NAT (restores end-to-end connectivity)
+	- Simplified headers (fixed 40 bytes vs IPv4's variable)
