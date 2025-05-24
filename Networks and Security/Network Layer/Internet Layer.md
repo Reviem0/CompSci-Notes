@@ -62,9 +62,9 @@
 
 # ARDP vs NDP
 
-| Feature   | ARP(IPv4) | NDP (IPv6) |
-| --------- | --------- | ---------- |
-| Purpose   |           |            |
-| Mechanism |           |            |
-|           |           |            |
-|           |           |            |
+| Feature           | ARP(IPv4)               | NDP (IPv6)                             |
+| ----------------- | ----------------------- | -------------------------------------- |
+| **Purpose**       | Maps IPv4 to MAC        | Maps IPv6 to MAC + router discovery    |
+| **Mechanism**     | Broadcasts "Who has X?" | Multicasts to solicited-node addresses |
+| **Encapsulation** |                         |                                        |
+| **Security**      |                         |                                        |
