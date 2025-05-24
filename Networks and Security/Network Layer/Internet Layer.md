@@ -50,6 +50,9 @@
 - NAT64/DNS64: Allows IPv6-only hosts to access IPv4 resources (used in "IPv6 mostly" deployments)  
 
 # ICMP & ICMPv6
-Purpose: Diagnostics, error reporting, and network management.
-- IPv4: ICMP handles messages like `ping` (echo request/reply) and error notifications (e.g. "Destination Unreachable")
-- IPv6: ICMPv6 expands functionality to include **[[Neighbour Discovery Protocol (NDP)]]** and [[Router Advertisement]]
+- Purpose: Diagnostics, error reporting, and network management.
+	- IPv4: ICMP handles messages like `ping` (echo request/reply) and error notifications (e.g. "Destination Unreachable")
+	- IPv6: ICMPv6 expands functionality to include **[[Neighbour Discovery Protocol (NDP)]]** and [[Router Advertisement]]
+- Key ICMPv6 Packet Types:
+	- Router Solicitation (RS): Host requests router info
+	- [[Router Advertisement]]
