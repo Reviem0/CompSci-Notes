@@ -44,4 +44,8 @@
 - NDP (IPv6): Replaces ARP; includes neighbour discovery
 - DHCP/DHCPv6: Assigns IP addresses dynamically
 - IGMP: Manages IPv4 multicast groups
-- IPSEC: Prov
+- IPSEC: Provides encryption/authentication (built into IPv6)
+
+# Transition Mechanisms
+- Dual-Stack: Run IPv4 and IPv6 simultaneously
+- NAT64/DNS64: Allows IPV
