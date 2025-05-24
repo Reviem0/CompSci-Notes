@@ -78,3 +78,7 @@
 | **Unique Identifier**  | Uses MAC address                             | Uses DHCP Unique Identifier                       |
 
 # SLAAC (Stateless Address Autoconfiguration)
+- Process:
+	1. Host receives RA with network prefix (e.g. `2001:db8::/64`)
+	2. Generates interface identifier:
+		1. RFC
