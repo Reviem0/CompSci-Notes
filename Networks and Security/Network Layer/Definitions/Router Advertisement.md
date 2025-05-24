@@ -1,0 +1,1 @@
+IPV6 RA provides a method for local IPV6 hosts to automatically configure their own IP address (and other settings such as a preferred DNS server) based on information advertised by switches/routers operating on the network.
