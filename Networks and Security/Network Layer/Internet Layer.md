@@ -70,6 +70,9 @@
 | **Security**      | Vulnerable to spoofing      | Includes SeND (Secure Neighbour Discovery) |
 # DHCPv4 vs DHCPv6
 
-| Feature                | DHCPv4 | DHCPv6 |
-| ---------------------- | ------ | ------ |
-| **Address Assignment** |        |        |
+| Feature                | DHCPv4                      | DHCPv6                             |
+| ---------------------- | --------------------------- | ---------------------------------- |
+| **Address Assignment** | Assigns IPv4 addresses      | Assigns IPv6 Addresses or prefixes |
+| **Process**            | DISCOVER $\to$ OFFER $\to$  |                                    |
+| **Integration**        |                             |                                    |
+| **Unique Identifier**  |                             |                                    |
