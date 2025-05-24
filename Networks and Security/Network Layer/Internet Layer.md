@@ -34,4 +34,5 @@
 	- Reduces address waste (e.g. allocating `/28` instead of a full `/24`)
 
 # Routing
-- Routers: Connect subnets; each interface has an IP address in it
+- Routers: Connect subnets; each interface has an IP address in its subnet.
+- Routing Tables: Determine next-hop paths
