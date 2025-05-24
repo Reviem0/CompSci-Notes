@@ -58,4 +58,13 @@
 	- [[Router Advertisement]]: Router sends network prefix, 
 	- Neighbour Solicitation (NS): Maps IPv6 to MAC (Maps IPv6 to MAC)
 	- Neighbour Advertisement (NA): Response to NS
-	- Redirect: Infortm
+	- Redirect: Informs hosts of better routes
+
+# ARDP vs NDP
+
+| Feature   | ARP(IPv4) | NDP (IPv6) |
+| --------- | --------- | ---------- |
+| Purpose   |           |            |
+| Mechanism |           |            |
+|           |           |            |
+|           |           |            |
