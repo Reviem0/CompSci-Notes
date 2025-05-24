@@ -32,7 +32,7 @@
 	- [ ] p-value and hypothesis testing
 # Network and Security
 - [ ] #Network-and-Security  Kirk
-	- [ ] Internet Architecture
+	- [x] Internet Architecture ✅ 2025-05-24
 	- [ ] DNS
 	- [ ] Network Programming in Python
 	- [ ] Link Layer
