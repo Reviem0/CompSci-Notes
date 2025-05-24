@@ -91,4 +91,7 @@
 # Multicast
 - IPv4:
 	- Address range: `224.0.0.0/4` 
-	- Comm
+	- Common addresses: `224.0.0.1` (all hosts), `224.0.0.2` (all routers)
+- IPv6:
+	- Address range: `ff00::/8`
+	- 
