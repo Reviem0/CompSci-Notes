@@ -74,5 +74,5 @@
 | ---------------------- | -------------------------------------------- | ------------------------------------------------- |
 | **Address Assignment** | Assigns IPv4 addresses                       | Assigns IPv6 Addresses or prefixes                |
 | **Process**            | DISCOVER $\to$ OFFER $\to$ REQUEST $\to$ ACK | SOLICIT $\to$ ADVERTISE $\to$ REQUEST $\to$ REPLY |
-| **Integration**        |                                              |                                                   |
-| **Unique Identifier**  |                                              |                                                   |
+| **Integration**        | Standalone                                   | Requires Router Advertisements                    |
+| **Unique Identifier**  | Uses MAC address                             | Uses DHCP Unique Identifier                       |
