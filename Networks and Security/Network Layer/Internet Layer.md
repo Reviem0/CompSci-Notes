@@ -1,4 +1,3 @@
-
 # Internet Layer Functions
 - Internetworking: Hides routing complexity from the Transport Layer; connects heterogenous networks (LANs via routers)
 - **Packet Transmission**:
@@ -53,4 +52,4 @@
 # ICMP & ICMPv6
 Purpose: Diagnostics, error reporting, and network management.
 - IPv4: ICMP handles messages like `ping` (echo request/reply) and error notifications (e.g. "Destination Unreachable")
-- IPv6: ICMPv6 expands functionality to include **[[Neighbour Discovery Protocol (NDP)]]** and **Router Advertisement**
+- IPv6: ICMPv6 expands functionality to include **[[Neighbour Discovery Protocol (NDP)]]** and [[Router Advertisement**]]

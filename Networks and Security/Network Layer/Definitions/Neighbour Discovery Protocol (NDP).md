@@ -1,0 +1,1 @@
+The Neighbour Discovery Protocol (NDP) is a vital part of Internet Protocol version 6 (IPv6) that handles tasks like finding neighbours, resolving addresses, and managing local network configurations
