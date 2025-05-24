@@ -8,3 +8,5 @@
 - **Packet Reception:**
 	- Error Checking: Header checksum verification
 	- Reassembly: Reconstructs packets at the destination
+
+# IPv4 vs IPv6
