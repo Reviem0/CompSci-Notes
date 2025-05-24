@@ -117,4 +117,5 @@
 # IPv6 Address Types:
 - Link-Local: `fe80::/10` (non-routable, used for local communication)
 - Global Unicast: `2000::/3` (publicly routable)
-- Unique Local: `fc00::`
+- Unique Local: `fc00::/7` (private, internal use)
+- Multicast: `ff00::/8` (one-to-many)
