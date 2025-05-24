@@ -55,4 +55,4 @@
 	- IPv6: ICMPv6 expands functionality to include **[[Neighbour Discovery Protocol (NDP)]]** and [[Router Advertisement]]
 - Key ICMPv6 Packet Types:
 	- Router Solicitation (RS): Host requests router info
-	- [[Router Advertisement]]
+	- [[Router Advertisement]]: Router sends network prefix, 
