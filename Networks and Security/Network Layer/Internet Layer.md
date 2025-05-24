@@ -104,4 +104,4 @@
 	- Built-in security (IPSec)
 - Barriers
 	- Legacy hardware (no IPv6 support)
-	- ISP
+	- ISP/content provider "chicken-and-egg" delays
