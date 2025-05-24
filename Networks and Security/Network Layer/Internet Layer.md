@@ -20,4 +20,6 @@
 | **NAT Usage**      | Ubiquitous (address exhaustion)            | Rare (end-to-end connectivity restored)                                 |
 | **Adoption**       | ~99%+                                      | ~45% growing                                                            |
 # Fragmentation & MTU
-- **M**aximum **T**ransmission **U**nit: Maximum packet size a link can transmit
+- **M**aximum **T**ransmission **U**nit: Maximum packet size a link can transmit (e.g. Ethernet MTU = 1500bytes)
+- **IPv4 Fragmentation**:
+	- Routers fragments if needed; reassembly at destination or intermediate routers
