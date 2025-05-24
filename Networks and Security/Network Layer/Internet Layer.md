@@ -25,4 +25,6 @@
 	- Routers fragments if needed; reassembly at destination or intermediate routers
 - **IPv6 Fragmentation:**
 	- Only the source host fragments after discovering Path MTU
-- 
+
+# Subnetting & CIDR
+- Subnet Masks (IPv4): Defines net work vs host bits (`255.255`)
