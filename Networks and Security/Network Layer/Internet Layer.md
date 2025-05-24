@@ -41,4 +41,7 @@
 # Key Protocols
 - ICMP/ICMPv6: Diagnostics
 - ARP (IPv4): Maps IP addresses to MAC addresses
-- NDP (IPv6): Replaces 
+- NDP (IPv6): Replaces ARP; includes neighbour discovery
+- DHCP/DHCPv6: Assigns IP addresses dynamically
+- IGMP: Manages IPv4 multicast groups
+- IPSEC: Prov
