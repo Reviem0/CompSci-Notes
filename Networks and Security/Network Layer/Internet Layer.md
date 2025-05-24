@@ -35,4 +35,5 @@
 
 # Routing
 - Routers: Connect subnets; each interface has an IP address in its subnet.
-- Routing Tables: Determine next-hop paths
+- Routing Tables: Determine next-hop paths (e.g. `netstat -nr` in Linux)
+	- Default Gateway: Routes packets destined for external networks
