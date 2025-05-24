@@ -83,4 +83,7 @@
 	2. Generates interface identifier:
 		1. RFC4862 (EUI-64): Embeds MAC address
 		2. RFC7217: Privacy-focused, uses hash (prefix + secret key) for stable addresses
-	3. Combines prefix + identifier to form fill 
+	3. Combines prefix + identifier to form full IPv6 address
+- Privacy Extensions (RFC 4941)
+	- Generates temporary, random addresses for outbound traffic
+	- Stable SLAAC address 
