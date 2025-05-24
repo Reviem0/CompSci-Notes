@@ -48,4 +48,4 @@
 
 # Transition Mechanisms
 - Dual-Stack: Run IPv4 and IPv6 simultaneously
-- NAT64/DNS64: Allows IPV
+- NAT64/DNS64: Allows IPv6-only hosts to access IPv4 resources (used in "IPv6 mostly" deployments)  
