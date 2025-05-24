@@ -110,4 +110,6 @@
 - Purpose: Allows ISPs to delegate IPv6 prefixes (e.g. `/56`) to customers.
 - Process:
 	1. Customer router requests prefix via DHCPv6
-	2. ISP assigns a block ()
+	2. ISP assigns a block (e.g. `2001:db8:1234::/48`)
+	3. Customer subnet further (e.g. `/64` per LAN)
+- Use Case: Home networks with multip
