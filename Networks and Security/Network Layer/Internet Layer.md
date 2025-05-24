@@ -81,4 +81,6 @@
 - Process:
 	1. Host receives RA with network prefix (e.g. `2001:db8::/64`)
 	2. Generates interface identifier:
-		1. RFC
+		1. RFC4862 (EUI-64): Embeds MAC address
+		2. RFC7217: Privacy-focused, uses hash (prefix + secret key) for stable addresses
+	3. Combines prefix + identifier to form fill 
