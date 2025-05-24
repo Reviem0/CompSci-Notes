@@ -97,3 +97,6 @@
 	- Common addresses: `ff02::1` (all nodes), `ff02:2` (all routers), `ff02::fb` (mDNS)
 - Uses: Live streaming, service discovery (mDNS/LLMNR), router advertisements.
 
+# IPv6 Deployment
+- Benefits:
+- 
