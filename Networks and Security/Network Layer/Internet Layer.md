@@ -31,4 +31,7 @@
 - Prefix Length (IPv6): Specifies network prefix (e.g. `2001:630:d0::/48`)
 - CIDR (Classless Inter-Domain Routing):
 	- Replaced classful addressing (A/B/C) with variable-length prefixes.
-	- Redu
+	- Reduces address waste (e.g. allocating `/28` instead of a full `/24`)
+
+# Routing
+- Routers: Connect subnets; each interface has an IP address in it
