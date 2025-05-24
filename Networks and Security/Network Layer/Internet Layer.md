@@ -23,3 +23,6 @@
 - **M**aximum **T**ransmission **U**nit: Maximum packet size a link can transmit (e.g. Ethernet MTU = 1500bytes)
 - **IPv4 Fragmentation**:
 	- Routers fragments if needed; reassembly at destination or intermediate routers
+- **IPv6 Fragmentation:**
+	- Only the source host fragments after discovering Path MTU
+- 
