@@ -52,4 +52,5 @@
 
 # ICMP & ICMPv6
 Purpose: Diagnostics, error reporting, and network management.
-- IPv4
+- IPv4: ICMP handles messages like `ping` (echo request/reply) and error notifications (e.g. "Destination Unreachable")
+- IPv6: ICMPv6 expands functionality to include **Neighbout **
