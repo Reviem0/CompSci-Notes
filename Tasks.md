@@ -63,27 +63,27 @@
 	- [ ] Social Engineering
 	- [ ] Critical Infrastructure
 # Algorithmics
-- [ ] #Algorithmics Fundamentals 
+- [x] #Algorithmics Fundamentals  ✅ 2025-05-24
 	- [ ] Big O Notation
 	- [ ] Algorithm Design
 	- [ ] Pointers and References
 	- [ ] Complexity Analysis
 	- [ ] Recursion
-- [ ]  #Algorithmics Data Structures
+- [x]  #Algorithmics Data Structures ✅ 2025-05-24
 	- [ ] Trees
 	- [ ] Balanced Trees
 	- [ ] Heaps and Queues
 	- [ ] Tries and B-Trees
 	- [ ] Hash Tables
 	- [ ] Disjoint Sets, Union-find
-- [ ] #Algorithmics Sorting and Searching
+- [x] #Algorithmics Sorting and Searching ✅ 2025-05-24
 	- [ ] Sorting Algorithms
 	- [ ] Advanced Sorting
-- [ ] #Algorithmics Graph Algorithms
+- [x] #Algorithmics Graph Algorithms ✅ 2025-05-24
 	- [ ] Graph Traversal
 	- [ ] MSTs; Kruskal/Prim
 	- [ ] Shortest Paths
-- [ ] #Algorithmics Algorithm Paradigms
+- [x] #Algorithmics Algorithm Paradigms ✅ 2025-05-24
 	- [ ] Greedy Algorithm
 	- [ ] Dynamic Programming I
 	- [ ] Dynamic Programming II
@@ -91,13 +91,13 @@
 	- [ ] Dynamic Programming IV
 	- [ ] Linear Programming I 
 	- [ ] Linear Programming II
-- [ ] #Algorithmics Advanced Topics 
+- [x] #Algorithmics Advanced Topics  ✅ 2025-05-24
 	- [ ] Approximating Algorithms
 	- [ ] Backtracking and SAT
 	- [ ] Branch and Bound
 
 # Exams
 - [x] #Exam Programming II 📅 2025-05-29  ✅ 2025-05-21
-- [ ] #Exam Algorithmics 📅 2025-05-23
+- [x] #Exam Algorithmics 📅 2025-05-23 ✅ 2025-05-24
 - [ ] #Exam Networks and Security 📅 2025-05-27
 - [ ] #Exam Mathematics 2 📅 2025-05-30
