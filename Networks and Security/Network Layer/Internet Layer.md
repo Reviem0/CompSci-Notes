@@ -28,4 +28,7 @@
 
 # Subnetting & CIDR
 - Subnet Masks (IPv4): Defines net work vs host bits (e.g. `255.255.255.0` = `/24`)
-- Prefix Length (IPv6): Specifies network prefix (e.g. `2001:630:d0` )
+- Prefix Length (IPv6): Specifies network prefix (e.g. `2001:630:d0::/48`)
+- CIDR (Classless Inter-Domain Routing):
+	- Replaced classful addressing (A/B/C) with variable-length prefixes.
+	- Redu
