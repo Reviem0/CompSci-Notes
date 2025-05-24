@@ -10,3 +10,12 @@
 	- Reassembly: Reconstructs packets at the destination
 
 # IPv4 vs IPv6
+
+| Feature          | IPv4 | IPv6 |
+| ---------------- | ---- | ---- |
+| **Address Size** |      |      |
+| **Header**       |      |      |
+| **Fragm**        |      |      |
+|                  |      |      |
+|                  |      |      |
+|                  |      |      |
