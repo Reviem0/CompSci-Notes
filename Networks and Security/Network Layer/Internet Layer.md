@@ -106,4 +106,7 @@
 	- Legacy hardware (no IPv6 support)
 	- ISP/content provider "chicken-and-egg" delays
 
-# DHCP
+# DHCPv6-PD (Prefix Delegation)
+- Purpose: Allows ISPs to delegate IPv6 prefixes (e.g. `/56`) to customers.
+- Process:
+	1.
