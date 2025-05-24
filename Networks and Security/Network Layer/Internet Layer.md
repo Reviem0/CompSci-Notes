@@ -105,3 +105,5 @@
 - Barriers
 	- Legacy hardware (no IPv6 support)
 	- ISP/content provider "chicken-and-egg" delays
+
+# DHCP
