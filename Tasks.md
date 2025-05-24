@@ -33,12 +33,12 @@
 # Network and Security
 - [ ] #Network-and-Security  Kirk
 	- [x] Internet Architecture ✅ 2025-05-24
-	- [ ] DNS
-	- [ ] Network Programming in Python
+	- [x] DNS ✅ 2025-05-24
+	- [x] Network Programming in Python ✅ 2025-05-24
 	- [ ] Link Layer
 	- [ ] Lan's and Ethernet
 - [ ] #Network-and-Security  Graeme
-	- [ ] Network Layer
+	- [x] Network Layer ✅ 2025-05-24
 	- [ ] Subnetting, IPv4 NAT, Routing
 	- [ ] Transport Layer
 - [ ] #Network-and-Security Leonardo
