@@ -11,11 +11,11 @@
 
 # IPv4 vs IPv6
 
-| Feature            | IPv4                                       | IPv6                                            |
-| ------------------ | ------------------------------------------ | ----------------------------------------------- |
-| **Address Size**   | 32-bit (dotted quad, e.g. `152.78.64.100`) | 128-bit (colon-hex, e.g. `2001:630:d0::64`)     |
-| **Header**         | Variable (min 20 bytes, 13 fields)         | Fixed 40 bytes, 8 fields (simpler routing)      |
-| **Fragmentation**  | Any router can fragment                    | Only source fragments (uses Path MTU Discovery) |
-| **Address Scopes** | Limited to public/private addresses        | Link-local (`fe80::/10`)                        |
-| **NAT Usage**      |                                            |                                                 |
-| **Adoption**       |                                            |                                                 |
+| Feature            | IPv4                                       | IPv6                                                                    |
+| ------------------ | ------------------------------------------ | ----------------------------------------------------------------------- |
+| **Address Size**   | 32-bit (dotted quad, e.g. `152.78.64.100`) | 128-bit (colon-hex, e.g. `2001:630:d0::64`)                             |
+| **Header**         | Variable (min 20 bytes, 13 fields)         | Fixed 40 bytes, 8 fields (simpler routing)                              |
+| **Fragmentation**  | Any router can fragment                    | Only source fragments (uses Path MTU Discovery)                         |
+| **Address Scopes** | Limited to public/private addresses        | Link-local (`fe80::/10`), global unicast (`2000::/3`), ULA (`fc00::/7`) |
+| **NAT Usage**      | Ubiquitous (address exhaustion)            | Rare (end-to-end connectivity restored)                                 |
+| **Adoption**       |                                            |                                                                         |
