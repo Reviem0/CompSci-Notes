@@ -112,4 +112,7 @@
 	1. Customer router requests prefix via DHCPv6
 	2. ISP assigns a block (e.g. `2001:db8:1234::/48`)
 	3. Customer subnet further (e.g. `/64` per LAN)
-- Use Case: Home networks with multip
+- Use Case: Home networks with multiple subnets
+
+# IPv6 Address Types:
+- Link-Local 
