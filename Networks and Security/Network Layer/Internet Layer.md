@@ -94,4 +94,5 @@
 	- Common addresses: `224.0.0.1` (all hosts), `224.0.0.2` (all routers)
 - IPv6:
 	- Address range: `ff00::/8`
-	- 
+	- Common addresses: `ff02::1` (all nodes), `ff02:2` (all routers), `ff02::fb` (mDNS)
+- Uses: Live streaming, service discovery (mDNS/LLMNR)
