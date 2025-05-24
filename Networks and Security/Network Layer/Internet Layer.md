@@ -11,11 +11,11 @@
 
 # IPv4 vs IPv6
 
-| Feature          | IPv4 | IPv6 |
-| ---------------- | ---- | ---- |
-| **Address Size** |      |      |
-| **Header**       |      |      |
-| **Fragm**        |      |      |
-|                  |      |      |
-|                  |      |      |
-|                  |      |      |
+| Feature            | IPv4                                       | IPv6    |
+| ------------------ | ------------------------------------------ | ------- |
+| **Address Size**   | 32-bit (dotted quad, e.g. `152.78.64.100`) | 128-bit |
+| **Header**         |                                            |         |
+| **Fragmentation**  |                                            |         |
+| **Address Scopes** |                                            |         |
+| **NAT Usage**      |                                            |         |
+| **Adoption**       |                                            |         |
