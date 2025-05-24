@@ -39,9 +39,8 @@
 	- [ ] Lan's and Ethernet
 - [ ] #Network-and-Security  Graeme
 	- [ ] Network Layer
+	- [ ] Subnetting, IPv4 NAT, Routing
 	- [ ] Transport Layer
-	- [ ] Routing
-	- [ ] Subnetting & IPv4 NAT
 - [ ] #Network-and-Security Leonardo
 	- [ ] Basic Security Concepts
 	- [ ] Cyber Actors
