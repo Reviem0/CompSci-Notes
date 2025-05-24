@@ -27,4 +27,5 @@
 	- Only the source host fragments after discovering Path MTU
 
 # Subnetting & CIDR
-- Subnet Masks (IPv4): Defines net work vs host bits (`255.255`)
+- Subnet Masks (IPv4): Defines net work vs host bits (e.g. `255.255.255.0` = `/24`)
+- Prefix Length (IPv6): Specifies network prefix (e.g. `2001:630:d0` )
