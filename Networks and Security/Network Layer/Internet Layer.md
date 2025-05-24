@@ -20,4 +20,4 @@
 | **NAT Usage**      | Ubiquitous (address exhaustion)            | Rare (end-to-end connectivity restored)                                 |
 | **Adoption**       | ~99%+                                      | ~45% growing                                                            |
 # Fragmentation & MTU
-- **M**aximum **T**ransmission **U**nit 
+- **M**aximum **T**ransmission **U**nit: Maximum packet size a link can transmit
