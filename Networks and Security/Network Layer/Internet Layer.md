@@ -68,3 +68,4 @@
 | **Mechanism**     | Broadcasts "Who has X?"     | Multicasts to solicited-node addresses     |
 | **Encapsulation** | Directly in Ethernet frames | Uses ICMPv6 messages                       |
 | **Security**      | Vulnerable to spoofing      | Includes SeND (Secure Neighbour Discovery) |
+# DHCPv4
