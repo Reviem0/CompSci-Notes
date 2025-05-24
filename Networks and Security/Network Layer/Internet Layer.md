@@ -56,3 +56,4 @@
 - Key ICMPv6 Packet Types:
 	- Router Solicitation (RS): Host requests router info
 	- [[Router Advertisement]]: Router sends network prefix, 
+	- Neighbour Solicitation (NS)
