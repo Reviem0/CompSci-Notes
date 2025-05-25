@@ -11,7 +11,7 @@
 
 | Type      | Description                                   |
 | --------- | --------------------------------------------- |
-| **A**     | IPv4 address                                  |
+| **A**     | IPv4 address (3)                              |
 | **AAAA**  | IPv6 address                                  |
 | **MX**    | Mail server for the domain                    |
 | **NS**    | Authoritative nameserver for the zone         |
@@ -20,7 +20,8 @@
 | **TXT**   | Text records (SPF, DKIM, domain verification) |
 | **SOA**   | Start of Authority (zone admin details)       |
 | **SRV**   | Service location (e.g. VoIP, LDAP)            |
-|           |                                               |
+| **HINFO** | Host information                              |
+
 ![[Pasted image 20250525214541.png]]
 # DNS Structure and Hierarchy
 - Hierarchy Example:
