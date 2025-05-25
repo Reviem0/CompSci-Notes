@@ -15,8 +15,10 @@
 | **AAAA**  | IPv6 address                                  |
 | **MX**    | Mail server for the domain                    |
 | **NS**    | Authoritative nameserver for the zone         |
-| **CNAME** | Alias                                         |
+| **CNAME** | Alias (points to another name)                |
 | **PTR**   | Reverse DNS (IP $\to$ domain)                 |
 | **TXT**   | Text records (SPF, DKIM, domain verification) |
 | **SOA**   | Start of Authority (zone admin details)       |
-| **SRV**   |                                               |
+| **SRV**   | Service location (e.g. VoIP, LDAP)            |
+# DNS Structure and Hierarchy
+- Hierarchy Example:
