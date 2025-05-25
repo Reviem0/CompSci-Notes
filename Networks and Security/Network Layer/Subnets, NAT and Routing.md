@@ -51,4 +51,4 @@ $$
 - Mechanism:
 	- Sends packets with increasing TTL; each hop returns an ICMP Time Exceeded
 	- Windows uses ICMP (`tracert`), Linux uses UDP
-- Limitations: Asymmetric route, transient paths
+- Limitations: Asymmetric route, transient paths 
