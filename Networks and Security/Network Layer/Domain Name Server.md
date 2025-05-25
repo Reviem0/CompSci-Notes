@@ -38,6 +38,10 @@
 		- Each zone has an associated set of name servers
 	- Delegation: Parent zones delegate subzones via NS records
 	- ![[Pasted image 20250525215157.png]]
+# Anycast
+- Allows a client to reach the nearest instance of a service
+- You can advertise the same IP, or small IP block, at multiple points on the Internet
+- Routers then learn of the nearest instance, topologically, via the routing system
 # DNS Queries and Tools
 - Resolver Types:
 	- Recursive where it responds from local cache or resolves the query before replying to the client
