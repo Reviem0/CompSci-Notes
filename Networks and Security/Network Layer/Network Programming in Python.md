@@ -75,3 +75,6 @@ asyncio.get_event_loop().run_forever()
 ```
 
 # RPC
+- Allows you to call a function on another machine
+- Each machine has to run an RPC server
+- Client calls functions
