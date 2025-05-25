@@ -67,9 +67,8 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 	- Congestion Avoidance: Additive increase after reaching a threshold
 	- Packet loss triggers multiplicative decrease (window halved)
 
-# Application Examples
-- TCP:
-	- Web streaming (YouTube buffers via HTTP/TCP)
-	- Email (SMTP), file transfer (FTP)
-- UDP
-	- Line video
+# Sockets API
+- Primitives:
+- `socket()`: Create endpoint
+- `bind()`: Assign address/port
+- `listen()/accept()`: A
