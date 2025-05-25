@@ -21,9 +21,9 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 - 20-bit header.
 - Sequence number: tracking seq packets through connection.
 - Acknowledgement number: Implicit acknowledgements when data passed on.
-- Window size: 
+- Window size: Flow control, how many bytes we can receives.
 ![[Pasted image 20250525084613.png]]
-
+- Three-way Handshake: 
 
 
 
