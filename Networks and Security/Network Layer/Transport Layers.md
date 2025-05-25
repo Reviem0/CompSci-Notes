@@ -55,4 +55,7 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 | Header Size | `20+ bytes`                                   | `8 bytes`                       |
 | Use Cases   | Web (HTTP), email (SMTP), file transfer (FTP) | VoIP, live streaming, DNS, SNMP |
 # Key Mechanisms
-- Three-Way Handshak
+- Three-Way Handshake (TCP):
+	1. Client sends SYN with random sequence number
+	2. Server responds with SYN-ACK (acknowledges SYN, sends its own SYN)
+	3. Client sends ACK to es
