@@ -63,4 +63,6 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 	- Receiver advertises available buffer space via window size
 	- Sender adjusts transmission rate to avoid overwhelming the receiver
 - Congestion Control
-- 
+	- Slow Start: Congestion window starts small and doubles per RTT (round-trip time)
+	- Congestion Avoidance: Additive increase after reaching a threshold
+	- Packet loss triggers multiplicative decrease (window halv)
