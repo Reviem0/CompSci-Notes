@@ -45,4 +45,6 @@ The UDP header is much simpler than TCP
 Checksum is optional
 Can multicast (one to many)
 
-
+# UDP Loss
+- Lossy/congested links can drop packets
+	-  Higher protocols can send a reques
