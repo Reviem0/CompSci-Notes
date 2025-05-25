@@ -49,10 +49,11 @@ print(response.text)
 
 # WebSockets
 - Features: Persistent, bidirectional, low latency (used in chat, games).
-- Server (Async with `websockets`)
+- Server (async with `websockets`)
 ``` python
 async def handler(websocket, path):
     data = await websocket.recv()
     await websocket.send(f"Received: {data}")
 start_server = websockets.serve(handler, "localhost", 8000)
 ```
+- Client
