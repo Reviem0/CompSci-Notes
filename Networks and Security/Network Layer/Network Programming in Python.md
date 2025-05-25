@@ -29,4 +29,17 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 	- No `connect()` or `close()` required
 # IP Address Handling
 - Resolve DNS to IP = `ip = socket.gethostbyname('www.example.com')`
-- 
+
+# Error Handling
+- Use try-except blocks for socket operations:
+``` python
+try:
+    server_socket.bind(('localhost', 65432))
+except socket.error as e:
+    print(f'Socket error: {e}')
+```
+
+# HTTP with `requests` Library
+- Simple GET request:
+``` pyt
+```
