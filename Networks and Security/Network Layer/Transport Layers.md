@@ -40,11 +40,13 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 
 
 # UDP
-Allows sending of datagrams without establishing connection
+- Connectionless: 
 The UDP header is much simpler than TCP
 Checksum is optional
 Can multicast (one to many)
 
 # UDP Loss
 - Lossy/congested links can drop packets
-	-  Higher protocols can send a reques
+	-  Higher protocols can send a request back to source if needed.
+- Lower bandwidth links may drop packets as their buffers fill up
+	- Applications could detect this an
