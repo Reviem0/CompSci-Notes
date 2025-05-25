@@ -3,10 +3,10 @@
 - Layer above network layer.
 - Sends segments (TCP) or datagrams (UDP) via network layer.
 - Uses **port numbers** (16-bit, 0-65535) to deliver data to the correct application 
-- Provides l
+- Provides logical communication between application (process-to-process)
 Port Number: 16-bit number, connection end point on host. higher the numbers, more private and niche the ports:
 - Port 0 - Reserved in TCP, 'no port' in UDP.
-- 0-1023 - Well-known.
+- 0-1023 (`2`) - Well-known.
 - 1024-49151 - Registered.
 - 49152-65535 - Dynamic or private.
 	- IANA maintains list of well-known and registered (0-49151)
