@@ -61,4 +61,5 @@
 	- Cloudflare (`1.1.1.1`, `2606:4700:4700::1111`)
 - Caching: Reduces external queries; TTL (Time-To-Live) determines cache duration (1-72 hours)
 
-# DNS 
+# DNS Security & Privacy
+- Attacks: DNS is a critical targer for DDoS, spoofing
