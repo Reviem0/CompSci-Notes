@@ -11,8 +11,8 @@
 
 | Type      | Description                                   |
 | --------- | --------------------------------------------- |
-| **A**     | IPv4 address (3)                              |
-| **AAAA**  | IPv6 address                                  |
+| **A**     | IPv4 address (32-bit address)                 |
+| **AAAA**  | IPv6 address (128-bit address)                |
 | **MX**    | Mail server for the domain                    |
 | **NS**    | Authoritative nameserver for the zone         |
 | **CNAME** | Alias (points to another name)                |
