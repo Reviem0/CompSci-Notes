@@ -18,7 +18,9 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 - Receiver in TCP rearranges segments in correct order.
 - **Segments and fragments at internet layer not the same. Segments can get fragmented.**
 - performance and reliability on otherwise unreliable IP.
-- 20-bit header, 
+- 20-bit header.
+- Sequence number: tracking seq packets through connection.
+- Acknowledgement number:
 
 
 
