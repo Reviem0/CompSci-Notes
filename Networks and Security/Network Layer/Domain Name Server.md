@@ -40,6 +40,7 @@
 	- ![[Pasted image 20250525215157.png]]
 # DNS Queries and Tools
 - Resolver Types:
-	- Recursive where it responds from local cache or resolv
+	- Recursive where it responds from local cache or resolves the query before replying to the client
 		- Resolver fetches the answer (e.g. home router)
-	- Iterative: Server refers client to another server (e.g. root servers)
+		- Can be thought of as having a DNS server side and a resolver side.
+	- Iterative: Server responds with a referral to another server (e.g. root servers)
