@@ -58,4 +58,7 @@
 - Clients: Configured via DHCP/SLAAC or manually
 - Public DSN Server:
 	- Google DNS (`8.8.8.8`, `2001:4860:4860::8888`)
-	- Cloudflare (`1.1.1.1`, `2606:`)
+	- Cloudflare (`1.1.1.1`, `2606:4700:4700::1111`)
+- Caching: Reduces external queries; TTL (Time-To-Live) determines cache duration (1-72 hours)
+
+# DNS 
