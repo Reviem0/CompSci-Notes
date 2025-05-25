@@ -10,6 +10,7 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 - 1024-49151 - Registered.
 - 49152-65535 - Dynamic or private.
 	- IANA maintains list of well-known and registered )0-49151)
+- Most browsers recognise the most well-known port number ownerships, hence when you type in https://google.com, the browser does not make you look for a port.
 - 
 
 
