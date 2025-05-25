@@ -41,5 +41,11 @@ except socket.error as e:
 
 # HTTP with `requests` Library
 - Simple GET request:
-``` pyt
+``` python
+import requests
+response = requests.get('https://example.com')
+print(response.text)
 ```
+
+# WebSockets
+- Features: 
