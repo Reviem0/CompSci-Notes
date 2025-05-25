@@ -62,4 +62,7 @@
 - Caching: Reduces external queries; TTL (Time-To-Live) determines cache duration (1-72 hours)
 
 # DNS Security & Privacy
-- Attacks: DNS is a critical targer for DDoS, spoofing
+- Attacks: DNS is a critical target for DDoS, spoofing
+- Resilience: Root servers use anycast to distribute load
+- Privacy Risks:
+	- Third parties can log queries 
