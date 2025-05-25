@@ -29,7 +29,9 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 # TCP Reliability
 - Based on acknowledgements sent be receiver.
 - Sender must detect lost packets by not receiving acknowledgements. Can be lack of acknowledgement or issue with data that needs acknowledging.
-# UDP
+# UDP (User Datagram Protocol)
+- Connectionless 'send and forget' format.
+- Retransmission is not part of the system, and it is in the realsm of the apllication if it wants to include it. You and t
 
 
 
