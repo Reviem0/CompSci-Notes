@@ -66,5 +66,8 @@
 - Resilience: Root servers use anycast to distribute load
 
 # mDNS (Multicast DNS)
-- Purpose: Local name resolution without a DNS server. Not every network needs a full DNS infrastructure such a a small home netowork
+- Purpose: Local name resolution without a DNS server. Not every network needs a full DNS infrastructure such a a small home network
 - Mechanism: 
+	- Essentially a local DNS without a DNS server
+	- Works by sending multicast packets to `ff02::fb`  or `224.0.0.251` on UDP port `5353`
+	- 
