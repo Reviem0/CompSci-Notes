@@ -33,4 +33,6 @@
 	- Use anycast for resilience (`1730+` global instances)
 - Zones:
 	- A zone is a contiguous part of the DNS namespace (`soton.ac.uk`)
+		- Complete tree, subtree or single node
+		- Each zone has an associated set of name servers
 	- Delegation: Parent zones 
