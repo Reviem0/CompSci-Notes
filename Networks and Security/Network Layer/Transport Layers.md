@@ -65,4 +65,11 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 - Congestion Control
 	- Slow Start: Congestion window starts small and doubles per RTT (round-trip time)
 	- Congestion Avoidance: Additive increase after reaching a threshold
-	- Packet loss triggers multiplicative decrease (window halv)
+	- Packet loss triggers multiplicative decrease (window halved)
+
+# Application Examples
+- TCP:
+	- Web streaming (YouTube buffers via HTTP/TCP)
+	- Email (SMTP), file transfer (FTP)
+- UDP
+	- Line video
