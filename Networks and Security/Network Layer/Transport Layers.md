@@ -9,7 +9,7 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 - 0-1023 - Well-known.
 - 1024-49151 - Registered.
 - 49152-65535 - Dynamic or private.
-	- IANA maintains list of well-known and registered )0-49151)
+	- IANA maintains list of well-known and registered (0-49151)
 - Most browsers recognise the most well-known port number ownerships, hence when you type in https://google.com, the browser does not make you input a port number.
 # TCP (Transmission Control Protocol)
 - Connection and communication orientated and managed.
@@ -17,7 +17,7 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 - Adjust sending rate over time to account for varying network conditions, like high congestion.
 - Receiver in TCP rearranges segments in correct order.
 - **Segments and fragments at internet layer not the same. Segments can get fragmented.**
-- performance and reliabiality on otherwise unreliable IP.
+- performance and reliability on otherwise unreliable IP.
 - 
 
 
