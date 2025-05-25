@@ -52,4 +52,9 @@
 - Tools:
 	- `nslookup`: Basic DNS queries
 	- `dig`: Detailed DNS queries
-	- APIs: `getaddrinfo()` in Python
+	- APIs: `getaddrinfo()` in Python/C for programmatic lookups
+
+# DNS Configuration
+- Clients: Configured via DHCP/SLAAC or manually
+- Public DSN Server:
+	- Google DNS (`8.8.8.8`)
