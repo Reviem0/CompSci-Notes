@@ -58,4 +58,9 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 - Three-Way Handshake (TCP):
 	1. Client sends SYN with random sequence number
 	2. Server responds with SYN-ACK (acknowledges SYN, sends its own SYN)
-	3. Client sends ACK to es
+	3. Client sends ACK to establish connection
+- Sliding window (Flow Control):
+	- Receiver advertises available buffer space via window size
+	- Sender adjusts transmission rate to avoid overwhelming the receiver
+- Congestion Control
+- 
