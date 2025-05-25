@@ -49,11 +49,28 @@ print(response.text)
 
 # WebSockets
 - Features: Persistent, bidirectional, low latency (used in chat, games).
-- Server (async with `websockets`)
+- Server (async with `websockets` and `asyncIO` to run the task)
 ``` python
+import asyncio
+
+import websockets
+
+# create handler for each connection
+
 async def handler(websocket, path):
-    data = await websocket.recv()
-    await websocket.send(f"Received: {data}")
+
+    data = await websocket.recv()
+
+    reply = f"Data recieved as: {data}!"
+
+    await websocket.send(reply)
+
+  
 start_server = websockets.serve(handler, "localhost", 8000)
+
+  
+asyncio.get_event_loop().run_until_complete(start_server)
+
+asyncio.get_event_loop().run_forever()
 ```
 - Client
