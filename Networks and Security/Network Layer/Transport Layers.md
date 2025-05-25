@@ -47,6 +47,10 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 
 # TCP vs UDP
 
-| Fea |     |
-| --- | --- |
-|     |     |
+| Feature     | TCP                           | UDP            |
+| ----------- | ----------------------------- | -------------- |
+| Connection  | Connection-oriented           | Connectionless |
+| Reliability | Guaranteed delivery with ACKs | No guarantees  |
+| Ordering    | Data arr                      |                |
+|             |                               |                |
+|             |                               |                |
