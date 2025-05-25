@@ -40,10 +40,9 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 
 
 # UDP
-- Connectionless: 
-The UDP header is much simpler than TCP
-Checksum is optional
-Can multicast (one to many)
+- Connectionless: No handshake
+- Lightweight: 8-bytes header (vs TCP's 20+ bytes)
+- No reliab
 
 # UDP Loss
 - Lossy/congested links can drop packets
