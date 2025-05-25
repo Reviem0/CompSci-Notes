@@ -28,7 +28,8 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 	- Both sides must have a common understanding of where the other is in the data stream.
 # TCP Reliability
 - Based on acknowledgements sent be receiver.
-- Sender must detect lost packets by not receiving acknowledgements.
+- Sender must detect lost packets by not receiving acknowledgements. Can be lack of acknowledgement or issue with data that needs acknowledging.
+# UDP
 
 
 
