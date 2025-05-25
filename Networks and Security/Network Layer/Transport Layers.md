@@ -25,7 +25,8 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 ![[Pasted image 20250525084613.png]]
 - Three-way Handshake: Client has to sent SYN to server, Server sends back a SYN-ACK, client has to ACK. Any point in chain breaks, info cannot be transmitted.
 	- Used to discard repeat packets, and resend lost ones.
-	- Both sides must have a common understanding of where the other 
+	- Both sides must have a common understanding of where the other is in the data stream.
+# TCP R
 
 
 
