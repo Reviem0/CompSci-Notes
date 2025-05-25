@@ -64,5 +64,6 @@
 # DNS Security & Privacy
 - Attacks: DNS is a critical target for DDoS, spoofing
 - Resilience: Root servers use anycast to distribute load
-- Privacy Risks:
-	- Third parties can log queries 
+
+# mDNS (Multicast DNS)
+- Purpose: Local name resolution with
