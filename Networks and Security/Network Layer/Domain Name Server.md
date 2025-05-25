@@ -40,5 +40,6 @@
 	- ![[Pasted image 20250525215157.png]]
 # DNS Queries and Tools
 - Resolver Types:
-	- Recursive: Resolver fetches the answer (e.g. home router)
+	- Recursive where it responds from local cache or resolv
+		- Resolver fetches the answer (e.g. home router)
 	- Iterative: Server refers client to another server (e.g. root servers)
