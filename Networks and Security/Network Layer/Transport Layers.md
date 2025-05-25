@@ -71,4 +71,8 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 - Primitives:
 - `socket()`: Create endpoint
 - `bind()`: Assign address/port
-- `listen()/accept()`: A
+- `listen()/accept()`: Server waits for connections
+- `connect()`: Client initiates connection
+- `send()` / `receive()`: Data transfer
+- `close()`: Terminate connetion
+- 
