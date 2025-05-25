@@ -31,7 +31,7 @@
 	- Currently 13 {a-m}.root-servers.net
 	- Operated by 12 independent organisations
 	- Queried when local name servers can't resolve a name
-	- Use anycast for resilience (`1730+` global instances)
+	- Use [[Domain Name Server#Anycast|anycast]] for resilience (`1730+` global instances)
 - Zones:
 	- A zone is a contiguous part of the DNS namespace (`soton.ac.uk`)
 		- Complete tree, subtree or single node
@@ -49,3 +49,4 @@
 		- Can be thought of as having a DNS server side and a resolver side.
 	- Iterative: Server responds with a referral to another server (e.g. root servers)
 - A forwarder sends queries to a different DNS server, even if the RD bit is set. Think DNS proxy
+- 
