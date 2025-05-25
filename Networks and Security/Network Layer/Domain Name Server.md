@@ -5,7 +5,7 @@
 - Key Features
 	- Distributed & Hierarchical: Managed by multiple authorities (ICANN -> TLDs -> domain owners)
 	- Port 53/UDP: Most queries use UDP; TCP for large responses (e.g. zone transfers).
-	- Delegation: e.g,  `.uk` $\to$ `.ac.uk` (JISC) $\to$ `soton.ac.uk` 
+	- Delegation: e.g.,  `.uk` $\to$ `.ac.uk` (JISC) $\to$ `soton.ac.uk` 
 
 # DNS Record Types
 
@@ -20,6 +20,8 @@
 | **TXT**   | Text records (SPF, DKIM, domain verification) |
 | **SOA**   | Start of Authority (zone admin details)       |
 | **SRV**   | Service location (e.g. VoIP, LDAP)            |
+|           |                                               |
+![[Pasted image 20250525214541.png]]
 # DNS Structure and Hierarchy
 - Hierarchy Example:
 	- `grim.ecs.soton.ac.uk` $\to$ `.uk` $\to$ `.ac.uk` $\to$ `soton.ac.uk` $\to$ `ecs.soton.ac.uk`
