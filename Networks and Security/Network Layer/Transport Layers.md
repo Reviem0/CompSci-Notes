@@ -42,7 +42,8 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 # UDP
 - Connectionless: No handshake
 - Lightweight: 8-bytes header (vs TCP's 20+ bytes)
-- No reliab
+- No reliability: No ACKs, retransmissions, or ordering; handled by the application layer
+- Use cases: Real-time applications (VoIP, video streaming), DNS, DHCP
 
 # UDP Loss
 - Lossy/congested links can drop packets
