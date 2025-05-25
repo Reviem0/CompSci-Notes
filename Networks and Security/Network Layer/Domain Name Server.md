@@ -30,3 +30,6 @@
 	- Currently 13 {a-m}.root-servers.net
 	- Operated by 12 independent organisations
 	- Queried when local name servers can't resolve a name
+	- Use anycast for resilience (`1730+` global instances)
+- Zones:
+	- A zone is a contiguouse part 
