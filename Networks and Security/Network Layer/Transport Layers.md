@@ -43,6 +43,6 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 Allows sending of datagrams without establishing connection
 The UDP header is much simpler than TCP
 Checksum is optional
-Can multica
+Can multicast (one to many)
 
 
