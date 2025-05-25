@@ -8,7 +8,8 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 - Port 0 - Reserved in TCP, 'no port' in UDP.
 - 0-1023 - Well-known.
 - 1024-49151 - Registered.
-- 
+- 49152-65535 - Dynamic or private.
+	- IANA maintains list of wel-known and re
 
 
 
