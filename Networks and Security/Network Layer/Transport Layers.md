@@ -33,10 +33,12 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 - Sender must detect lost packets by not receiving acknowledgements. Can be lack of acknowledgement or issue with data that needs acknowledging.
 # UDP (User Datagram Protocol)
 - Connectionless 'send and forget' format.
+	- Acknowledgment is not sent back
 - Retransmission is not part of the system, and it is in the realm of the application (at the app layer) if it wants to include it. You and the transport layer have no idea if the information has gotten to receiver or not.
 - Fixed-bit rate is common: no flow control whatsoever. Example video streaming services.
 - Low overhead due to lack of connection management. Lesser header bandwidth.
-- 
 
+
+# UD
 
 
