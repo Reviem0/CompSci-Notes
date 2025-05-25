@@ -9,14 +9,14 @@
 
 # DNS Record Types
 
-| Type      | Description                           |
-| --------- | ------------------------------------- |
-| **A**     | IPv4 address                          |
-| **AAAA**  | IPv6 address                          |
-| **MX**    | Mail server for the domain            |
-| **NS**    | Authoritative nameserver for the zone |
-| **CNAME** | Alias                                 |
-| **PTR**   | Reverse DNS (IP $\to$ domain)         |
-|           |                                       |
-|           |                                       |
-|           |                                       |
+| Type      | Description                                   |
+| --------- | --------------------------------------------- |
+| **A**     | IPv4 address                                  |
+| **AAAA**  | IPv6 address                                  |
+| **MX**    | Mail server for the domain                    |
+| **NS**    | Authoritative nameserver for the zone         |
+| **CNAME** | Alias                                         |
+| **PTR**   | Reverse DNS (IP $\to$ domain)                 |
+| **TXT**   | Text records (SPF, DKIM, domain verification) |
+| **SOA**   | Start of Authority (zone admin details)       |
+| **SRV**   |                                               |
