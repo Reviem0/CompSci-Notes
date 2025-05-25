@@ -54,4 +54,6 @@ $$
 - Limitations: Asymmetric route, transient paths, speed variations.
 # Routing Summary
  - LAN/subnets use default routers.
- - Enterprises use R
+ - Enterprises use Routing Protocol
+ - Internet sits between, uses set of connected autonomous systems.
+ - 
