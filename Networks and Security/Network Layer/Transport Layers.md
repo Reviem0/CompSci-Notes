@@ -2,9 +2,8 @@
 - Communication layer.
 - Layer above network layer.
 - Sends segments (TCP) or datagrams (UDP) via network layer.
-- Passes packet's payload to correct app.
-- Host-specific port numbers.
-- TCP/UDP main protocols.
+- Uses **port numbers** (16-bit, 0-65535) to deliver data to the correct application 
+- Provides l
 Port Number: 16-bit number, connection end point on host. higher the numbers, more private and niche the ports:
 - Port 0 - Reserved in TCP, 'no port' in UDP.
 - 0-1023 - Well-known.
