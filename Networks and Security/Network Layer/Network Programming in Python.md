@@ -26,4 +26,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 - UDP (Connectionless)
 	- Sever: `sock = socket.socket(AF_INET, SOCK_DGRAM); sock.bind((IP, PORT))`
 	- Client: `sock.sendto(data, (IP, PORT))`
-	- No 
+	- No `connect()` or `close()` required
+# IP Address Handling
+- Resolve DNS to IP = `ip = socket.gethostbyname('www.example.com')`
+- 
