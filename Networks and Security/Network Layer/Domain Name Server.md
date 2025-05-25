@@ -57,4 +57,5 @@
 # DNS Configuration
 - Clients: Configured via DHCP/SLAAC or manually
 - Public DSN Server:
-	- Google DNS (`8.8.8.8`)
+	- Google DNS (`8.8.8.8`, `2001:4860:4860::8888`)
+	- Cloudflare (`1.1.1.1`, `2606:`)
