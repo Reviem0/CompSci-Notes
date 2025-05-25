@@ -23,3 +23,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
     s.sendall(b'Hello')
     data = s.recv(1024)
 ```
+- UDP (Connectionless)
+	- Sever: `sock = socket.socket(AF_INET, SOCK_DGRAM); sock.bind((IP, PORT))`
+	- Client: `sock.sendto(data, (IP, PORT))`
+	- No 
