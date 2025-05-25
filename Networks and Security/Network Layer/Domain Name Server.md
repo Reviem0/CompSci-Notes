@@ -49,4 +49,7 @@
 		- Can be thought of as having a DNS server side and a resolver side.
 	- Iterative: Server responds with a referral to another server (e.g. root servers)
 - A forwarder sends queries to a different DNS server, even if the RD bit is set. Think DNS proxy
-- 
+- Tools:
+	- `nslookup`: Basic DNS queries
+	- `dig`: Detailed DNS queries
+	- APIs: `getaddrinfo()` in Python
