@@ -12,7 +12,7 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 	- IANA maintains list of well-known and registered (0-49151)
 - Most browsers recognise the most well-known port number ownerships, hence when you type in https://google.com, the browser does not make you input a port number.
 # TCP (Transmission Control Protocol)
-- Connection and communication orientated and managed.
+- Connection and communication orientated and managed:
 	- Uses three-way handshake (`SYN -> SYN-ACK -> ACK`)
 - Reliable:
 	- Acknowledging and retransmission routes, and provides flow and congestion control. 
@@ -29,7 +29,7 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 	- Used to discard repeat packets, and resend lost ones.
 	- Both sides must have a common understanding of where the other is in the data stream.
 # TCP Reliability
-- Based on acknowledgements sent be receiver.
+- Based on acknowledgements sent by receiver.
 - Sender must detect lost packets by not receiving acknowledgements. Can be lack of acknowledgement or issue with data that needs acknowledging.
 # UDP (User Datagram Protocol)
 - Connectionless 'send and forget' format.
