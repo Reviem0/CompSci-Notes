@@ -1,0 +1,8 @@
+# The DNS
+- A Domain Name Server maps host/domain names to IP address (A/AAAAA records) and vice versa (PTR records).
+
+- DNS replaced the centralized `HOSTS.TXT` file due to scalability, traffic, and redundancy issues.
+- Key Features
+	- Distributed & Hierarchical: Managed by multiple authorities (ICANN -> TLDs -> domain owners)
+	- Port 53/UDP: Most queries use UDP; TCP for large responses (e.g. zone transfers).
+	- Delegation: e.g,  `.uk` $\to$ `.ac.uk` (JISC) $\to$ `soton.ac.uk` 
