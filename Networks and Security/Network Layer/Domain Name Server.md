@@ -22,3 +22,6 @@
 | **SRV**   | Service location (e.g. VoIP, LDAP)            |
 # DNS Structure and Hierarchy
 - Hierarchy Example:
+	- `grim.ecs.soton.ac.uk` $\to$ `.uk` $\to$ `.ac.uk` $\to$ `soton.ac.uk` $\to$ `ecs.soton.ac.uk`
+- Root Servers
+	- 13 root
