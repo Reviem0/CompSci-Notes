@@ -32,4 +32,5 @@
 	- Queried when local name servers can't resolve a name
 	- Use anycast for resilience (`1730+` global instances)
 - Zones:
-	- A zone is a contiguouse part 
+	- A zone is a contiguous part of the DNS namespace (`soton.ac.uk`)
+	- Delegation: Parent zones 
