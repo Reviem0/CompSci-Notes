@@ -45,8 +45,8 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 - No reliability: No ACKs, retransmissions, or ordering; handled by the application layer
 - Use cases: Real-time applications (VoIP, video streaming), DNS, DHCP
 
-# UDP Loss
-- Lossy/congested links can drop packets
-	-  Higher protocols can send a request back to source if needed.
-- Lower bandwidth links may drop packets as their buffers fill up
-	- Applications could detect this an
+# TCP vs UDP
+
+| Fea |     |
+| --- | --- |
+|     |     |
