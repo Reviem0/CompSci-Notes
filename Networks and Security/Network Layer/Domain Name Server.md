@@ -37,4 +37,7 @@
 		- Each zone has an associated set of name servers
 	- Delegation: Parent zones delegate subzones via NS records
 	- ![[Pasted image 20250525215157.png]]
-# DNS Queries
+# DNS Queries and Tools
+- Resolver Types:
+	- Recursive: Resolver fetches the answer (e.g. home router)
+	- Iterative: Server refers client to another server (e.g. root servers)
