@@ -6,3 +6,17 @@
 	- Distributed & Hierarchical: Managed by multiple authorities (ICANN -> TLDs -> domain owners)
 	- Port 53/UDP: Most queries use UDP; TCP for large responses (e.g. zone transfers).
 	- Delegation: e.g,  `.uk` $\to$ `.ac.uk` (JISC) $\to$ `soton.ac.uk` 
+
+# DNS Record Types
+
+| Type  | Description  |
+| ----- | ------------ |
+| **A** | IPv4 address |
+|       |              |
+|       |              |
+|       |              |
+|       |              |
+|       |              |
+|       |              |
+|       |              |
+|       |              |
