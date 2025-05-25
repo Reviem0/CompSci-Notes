@@ -26,4 +26,7 @@
 - Hierarchy Example:
 	- `grim.ecs.soton.ac.uk` $\to$ `.uk` $\to$ `.ac.uk` $\to$ `soton.ac.uk` $\to$ `ecs.soton.ac.uk`
 - Root Servers
-	- 13 root
+	- "root" zone.
+	- Currently 13 {a-m}.root-servers.net
+	- Operated by 12 independent organisations
+	- Queried when local name servers can't resolve a name
