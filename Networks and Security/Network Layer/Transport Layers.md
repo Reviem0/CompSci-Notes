@@ -12,8 +12,10 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 	- IANA maintains list of well-known and registered )0-49151)
 - Most browsers recognise the most well-known port number ownerships, hence when you type in https://google.com, the browser does not make you input a port number.
 # TCP (Transmission Control Protocol)
-- Connection and communication orientated.
+- Connection and communication orientated and managed.
 - Acknowledging and retransmission routes, and provides flow and congestion control. 
+- Adjust sending rate over time to account for varying network conditions, like high congestion.
+- Receiver in TCP rearranges segmen
 
 
 
