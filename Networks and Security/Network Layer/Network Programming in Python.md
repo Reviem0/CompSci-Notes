@@ -78,3 +78,15 @@ asyncio.get_event_loop().run_forever()
 - Allows you to call a function on another machine
 - Each machine has to run an RPC server
 - Client calls functions
+- Server:
+```python
+from xmlrpc.server import SimpleXMLRPCServer
+server = SimpleXMLRPCServer(("localhost", 8000))
+server.register_instance(RPCServer())  # Exposes methods like add(), subtract()
+server.serve_forever()
+```
+- Client:
+```python
+with xmlrpc.client.ServerProxy("http://localhost:8000/") as proxy:
+    print(proxy.add(5, 3))  # Calls remote method
+```
