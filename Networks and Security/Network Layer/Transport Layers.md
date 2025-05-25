@@ -14,6 +14,9 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 # TCP (Transmission Control Protocol)
 - Connection and communication orientated and managed:
 	- Uses three-way handshake (`SYN -> SYN-ACK -> ACK`)
+	- Client has to sent SYN to server, Server sends back a SYN-ACK, client has to ACK. Any point in chain breaks, info cannot be transmitted.
+	-  Used to discard repeat packets, and resend lost ones.
+	- Both sides must have a common understanding of where the other is in the data stream
 - Reliable:
 	- Acknowledging and retransmission routes, and provides flow and congestion control. 
 - Adjust sending rate over time to account for varying network conditions, like high congestion.
@@ -25,9 +28,6 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 - Acknowledgement number: Implicit acknowledgements when data passed on.
 - Window size: Flow control, how many bytes we can receives.
 ![[Pasted image 20250525084613.png]]
-- Three-way Handshake: Client has to sent SYN to server, Server sends back a SYN-ACK, client has to ACK. Any point in chain breaks, info cannot be transmitted.
-	- Used to discard repeat packets, and resend lost ones.
-	- Both sides must have a common understanding of where the other is in the data stream.
 # TCP Reliability
 - Based on acknowledgements sent by receiver.
 - Sender must detect lost packets by not receiving acknowledgements. Can be lack of acknowledgement or issue with data that needs acknowledging.
