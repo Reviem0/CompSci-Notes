@@ -35,4 +35,6 @@
 	- A zone is a contiguous part of the DNS namespace (`soton.ac.uk`)
 		- Complete tree, subtree or single node
 		- Each zone has an associated set of name servers
-	- Delegation: Parent zones 
+	- Delegation: Parent zones delegate subzones via NS records
+	- ![[Pasted image 20250525215157.png]]
+# DNS Queries
