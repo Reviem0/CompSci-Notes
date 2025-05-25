@@ -37,10 +37,10 @@
 	- [x] Network Programming in Python ✅ 2025-05-24
 	- [ ] Link Layer
 	- [ ] Lan's and Ethernet
-- [ ] #Network-and-Security  Graeme
+- [x] #Network-and-Security  Graeme ✅ 2025-05-25
 	- [x] Network Layer ✅ 2025-05-24
-	- [ ] Subnetting, IPv4 NAT, Routing
-	- [ ] Transport Layer
+	- [x] Subnetting, IPv4 NAT, Routing ✅ 2025-05-25
+	- [x] Transport Layer ✅ 2025-05-25
 - [ ] #Network-and-Security Leonardo
 	- [ ] Basic Security Concepts
 	- [ ] Cyber Actors

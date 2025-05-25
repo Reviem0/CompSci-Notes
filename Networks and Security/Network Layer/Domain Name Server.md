@@ -70,4 +70,4 @@
 - Mechanism: 
 	- Essentially a local DNS without a DNS server
 	- Works by sending multicast packets to `ff02::fb`  or `224.0.0.251` on UDP port `5353`
-	- 
+	- Implemented by Bonjour (Apple), Avahi (open source) and in Windows
