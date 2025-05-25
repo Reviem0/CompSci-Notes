@@ -39,6 +39,10 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 - Low overhead due to lack of connection management. Lesser header bandwidth.
 
 
-# UD
+# UDP
+Allows sending of datagrams without establishing connection
+The UDP header is much simpler than TCP
+Checksum is optional
+Can multica
 
 
