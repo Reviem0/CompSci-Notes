@@ -24,7 +24,7 @@ Port Number: 16-bit number, connection end point on host. higher the numbers, mo
 - Window size: Flow control, how many bytes we can receives.
 ![[Pasted image 20250525084613.png]]
 - Three-way Handshake: Client has to sent SYN to server, Server sends back a SYN-ACK, client has to ACK. Any point in chain breaks, info cannot be transmitted.
-	- Used to discard repeat packets
+	- Used to discard repeat packets, and resend lost ones.
 
 
 
