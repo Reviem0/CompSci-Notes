@@ -46,7 +46,7 @@ The Equifax breach illustrates a multi-step attack with an initial intrusion fol
 - **Exploitation**: exploit that vulnerability to execute the malicious payload 
 - **Installation**: install 30 web shells
 - **C&C**: remote connection through the web shells
-- **Action** on objectives: data exfiltration
+- **Action on objectives**: data exfiltration
 
 **Second Iteration: Lateral Movement & Data Exfiltration** After the initial intrusion, attackers moved laterally within Equifax's network. This phase can be analysed as another iteration of the Kill Chain:
 - **Reconnaissance (Internal)**: Attackers scanned systems connected to the initially compromised online dispute portal. They found a data repository with personally identifiable information (PII) and, crucially, unencrypted usernames and passwords.
