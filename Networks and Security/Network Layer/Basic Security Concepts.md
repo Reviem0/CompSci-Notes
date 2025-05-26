@@ -5,3 +5,8 @@
 	- Breach = unauthorised modification
 - **Availability**: Ensuring timely access. 
 	- Breach = disruption (DDoS attack)
+- Related Concepts:
+	- Authenticity: Verifying identities / data sources
+	- Accountability: Tracing actions to entities
+
+# Security Model Components
