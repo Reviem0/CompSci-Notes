@@ -22,4 +22,4 @@
 - **Risk**: Function of impact and likelihood of a threat
 
 # Attack Classifications
-
+- **By Impact**
