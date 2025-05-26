@@ -75,7 +75,8 @@
 - Automatic Repeat reQuest (ARQ):
 	1. **Stop-and-Wait**: Send 1 frame, wait for ACK
 		- Inefficient if ACKs are lost or frames are damaged. 
-	2. **Go-Back-N**: Send multiple frames, retransmit all frames that occur after a missed ACK
+	2. **Go-Back-N**: Sends multiple frames (pipelining) using sequence numbers. 
+		-  If an ACK is missed, it retransmits from that frame onwards.
 	3. **Selective Repeat**: Retransmit only lost frames
 - Acknowledgment models:
 	- Connectionless (no ACKs, e.g. Ethernet)
@@ -84,7 +85,9 @@
 		- Used in technologies like WiFi
 	- Acknowledged, Connection-oriented (e.g. satellite links)
 		- For long-delay, unreliable links (e.g., satellite).
-
+- Error Detection:
+	- **Parity Bit**: Simplest method; checks if the number of 1s is even or odd. Doesn't catch all errors.
+    - **Cyclic Redundancy Check (CRC)**: A more robust method. The result is stored in the frame's "checksum" field. Calculated by both sender and receiver; results are compared. Checksums can also occur at other layers (e.g., IPv4 has one, IPv6 does not).
 
 
 # Key Concepts
