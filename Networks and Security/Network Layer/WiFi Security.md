@@ -37,38 +37,29 @@ These vulnerabilities highlight the need for robust security mechanisms.
 	    - **IV extended to 48 bits**.
 	- **Vulnerabilities**:
 	    - Still reliant on **RC4 encryption**, which has known weaknesses.
-	
 	    - WPA-PSK depends on a shared password, making it vulnerable to **brute-force attacks** and **dictionary attacks**. The time to brute-force a password depends on its length and complexity (see table on slide 13).
-        
 
----
-
-#### **WPA2 (Wi-Fi Protected Access II)**
-
-- **Goal**: Introduced in 2004 as the successor to WPA.
-    
-- **Key Improvement**:
-    - Replaced RC4 with **AES (Advanced Encryption Standard)** using **CCMP (Counter Mode Cipher Block Chaining Message Authentication Code Protocol)** for authenticated encryption. This is a much stronger encryption method.
-        
-- **Vulnerabilities**:
-    - **KRACK (Key Reinstallation Attack)**: Discovered in 2017, this vulnerability could allow attackers to force a device to reinstall an already used key, potentially leading to data decryption or injection of malicious traffic. Patches were released by manufacturers to address this.
-        
-    - **Krook**: Discovered in 2019, this vulnerability affected WPA2 encryption in many Wi-Fi devices (approx. 1 billion), allowing an attacker to decrypt data packets. It was fixed by software updates.
-        
-    - Despite these, WPA2 (if patched) is considered to offer high security.
-        
-
----
+-  **WPA2 (Wi-Fi Protected Access II)**
+	- **Goal**: Introduced in 2004 as the successor to WPA.
+	- **Key Improvement**:
+	    - Replaced RC4 with **AES (Advanced Encryption Standard)** using **CCMP (Counter Mode Cipher Block Chaining Message Authentication Code Protocol)** for authenticated encryption. This is a much stronger encryption method.
+	- **Vulnerabilities**:
+	    - **KRACK (Key Reinstallation Attack)**: Discovered in 2017, this vulnerability could allow attackers to force a device to reinstall an already used key, potentially leading to data decryption or injection of malicious traffic. Patches were released by manufacturers to address this.
+	    - **Krook**: Discovered in 2019, this vulnerability affected WPA2 encryption in many Wi-Fi devices (approx. 1 billion), allowing an attacker to decrypt data packets. It was fixed by software updates.
+	    - Despite these, WPA2 (if patched) is considered to offer high security.
 
 #### **WPA3 (Wi-Fi Protected Access 3)**
-
 - **Goal**: Introduced in 2018 as the successor to WPA2, offering enhanced security.
-    
 - **Key Improvements**:
     - Continues to use **AES encryption**, similar to WPA2.
-        
     - Replaces PSK (Pre-Shared Key) with **SAE (Simultaneous Authentication of Equals)** for more robust authentication, making it more resistant to offline dictionary attacks.
-        
     - Offers **128-bit or 192-bit encryption keys**.
-        
     - Considered to provide **high security**.
+# Quick Summary Table 📊
+
+|Feature|WEP|WPA|WPA2|WPA3|
+|:--|:--|:--|:--|:--|
+|**Encryption Method**|RC4|TKIP+RC4|AES|AES|
+|**Key Management**|Static|PSK|PSK|SAE|
+|**Encryption Key**|64/128 bits|128 bits|128 bits|128/192 bits|
+|**Security**|Very low|Low|High (if patched), vulnerable to KRACK otherwise|High|
