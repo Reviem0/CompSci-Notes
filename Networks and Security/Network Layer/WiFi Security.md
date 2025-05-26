@@ -57,9 +57,9 @@ These vulnerabilities highlight the need for robust security mechanisms.
 	    - Considered to provide **high security**.
 # Quick Summary Table 📊
 
-|Feature|WEP|WPA|WPA2|WPA3|
-|:--|:--|:--|:--|:--|
-|**Encryption Method**|RC4|TKIP+RC4|AES|AES|
-|**Key Management**|Static|PSK|PSK|SAE|
-|**Encryption Key**|64/128 bits|128 bits|128 bits|128/192 bits|
-|**Security**|Very low|Low|High (if patched), vulnerable to KRACK otherwise|High|
+| Feature               | WEP         | WPA      | WPA2                                             | WPA3         |
+| :-------------------- | :---------- | :------- | :----------------------------------------------- | :----------- |
+| **Encryption Method** | RC4         | TKIP+RC4 | AES                                              | AES          |
+| **Key Management**    | Static      | PSK      | PSK                                              | SAE          |
+| **Encryption Key**    | 64/128 bits | 128 bits | 128 bits                                         | 128/192 bits |
+| **Security**          | Very low    | Low      | High (if patched), vulnerable to KRACK otherwise | High         |
