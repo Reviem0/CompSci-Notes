@@ -8,6 +8,7 @@ Several types of attacks can compromise Wi-Fi networks:
 - **Man-in-the-Middle (MitM) Attack**: An attacker intercepts communications between two parties, potentially altering them without either party knowing. (See slide 5 for an illustration).
 - **Deauthentication Attack**: This attack forces Wi-Fi devices to disconnect from a network.
 - **Evil Twin Attack**: An attacker sets up a rogue access point that appears to be a legitimate one to trick users into connecting, allowing the attacker to intercept data.
-    
 
 These vulnerabilities highlight the need for robust security mechanisms.
+
+# Evolution of Wi-Fi Security Protocols
