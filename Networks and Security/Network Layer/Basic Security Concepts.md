@@ -20,10 +20,14 @@
 - **Attacks**: Materialised threats (e.g. phishing, ransomware)
 - **Countermeasures**: Detection, prevention, mitigation and recovery
 - **Risk**: Function of impact and likelihood of a threat
+![[Pasted image 20250526141443.png]]
 
 # Attack Classifications
 - **By Impact**:
 	- Active: Alters assets (e.g. data tampering)
 	- Passive: Gathers information (e.g. eavesdropping)
 - **By Origin**:
-	- Inside attack: By authorised user (e.g. ep)
+	- Inside attack: By authorised user (e.g. employee leaking data)
+	- Outside attack: By unauthorised entity (e.g. hacker)
+
+
