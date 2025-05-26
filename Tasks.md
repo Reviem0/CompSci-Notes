@@ -44,7 +44,7 @@
 - [ ] #Network-and-Security Leonardo
 	- [x] Basic Security Concepts ✅ 2025-05-26
 	- [x] Cyber Actors ✅ 2025-05-26
-	- [ ] Attack Lifecycle
+	- [x] Attack Lifecycle ✅ 2025-05-27
 	- [ ] Cyber Attacks
 	- [ ] Corporate Security
 - [x] #Network-and-Security  Celine ✅ 2025-05-26
