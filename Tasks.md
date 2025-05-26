@@ -49,7 +49,7 @@
 	- [ ] Corporate Security
 - [ ] #Network-and-Security  Celine
 	- [ ] Network Design and Operations
-	- [ ] Application Layer Protocols
+	- [x] Application Layer Protocols ✅ 2025-05-26
 	- [ ] WiFi
 	- [ ] WiFi Security
 	- [ ] IPSEC and DNSSEC
