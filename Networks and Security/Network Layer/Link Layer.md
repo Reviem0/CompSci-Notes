@@ -28,9 +28,9 @@
 	- Parity bit:
 		- Is number of 1's even or odd (e.g. `10101011` even parity `1`)
 		- Clearly will not reveal all errors
-	- **CRC** (Cyclic Redundancy Check) in Ethernet; parity bit (less robust)
-	- Result is held in the “checksum” field of the frame
-	- Calculated by sender and receiver, and result compared
+	- **CRC** (Cyclic Redundancy Check) in Ethernet
+		- Result is held in the “checksum” field of the frame
+		- Calculated by sender and receiver, and result compared
 3. Flow Control:
 	- Rarely used here; handled more at higher layers
 4. Media Access Control (MAC)
