@@ -25,7 +25,10 @@
 	- Delimits start/end of frames (e.g. using flag bytes with escaping).
 	- Ethernet frame structure: **MAC header (14B)** | **Payload (46-1500B)** | **CRC (4B)**
 2. Error Detection:
-	- CRC (Cyclic Redundancy Check) in Ethernet; parity bit (less robust)
+	- Parity bit:
+		- Is number of 1's even or odd (e.g. `10101011` even parity `1`)
+		- Clearly will not reveal all errors
+	- **CRC** (Cyclic Redundancy Check) in Ethernet; parity bit (less robust)
 	- Result is held in the “checksum” field of the frame
 	- Calculated by sender and receiver, and result compared
 3. Flow Control:
