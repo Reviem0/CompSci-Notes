@@ -14,4 +14,6 @@
 
 # Building Ethernet Networks
 - Hosts typically connect to a port on an Ethernet switch
-- Desktop speeds are often 1Gbit/s or 2.5
+- Desktop speeds are often `1Gbit/s` or `2.5 Gbit/s`, while servers and backbones use `10 Gbit/s` or higher.
+- Ethernet Switches:
+	- Receive Ethernet frames and decide whether 
