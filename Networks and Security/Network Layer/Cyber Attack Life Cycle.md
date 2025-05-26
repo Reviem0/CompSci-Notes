@@ -11,15 +11,10 @@ The main model discussed is the **Lockheed Martin Kill Chain model**.
 This model describes the phases of an intrusion, particularly for Advanced Persistent Threats (APTs), to enable intelligence-driven computer network defence. The learning outcome is to be able to explain this model and its phases. It consists of seven phases:
 
 1. **Reconnaissance**: This is the information gathering phase where attackers research and select targets.
-    
     - **What they do**: Harvest email addresses, identify vulnerabilities, or map networks.
-        
     - **Examples**: Crawling websites, network scans, and probes to identify security measures. In the Equifax breach, attackers looked for vulnerable Apache Struts 2 servers and found Equifax's.
-        
 2. **Weaponization**: Attackers develop a cyber weapon (e.g., a malicious payload paired with an exploit) tailored to the target's vulnerabilities.
-    
-    - **What they do**: Create malware, obtain exploits, or set up C&C infrastructure.
-        
+    - **What they do**: Create malware, obtain exploits, or set up C&C infrastructure.       
     - **Examples**: Crafting PDF or Microsoft Office documents with embedded malicious scripts, using a Remote Access Trojan (RAT), or preparing a phishing email. For Equifax, this involved obtaining an exploit for the Apache Struts vulnerability (CVE-2017-5638), and developing/configuring web shells.
         
 3. **Delivery**: The weaponized payload is transmitted to the target system.
