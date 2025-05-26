@@ -8,3 +8,6 @@
 	- An optional `802.1Q` tag can be used for VLAN ID and frame priority.
 	- The **Maximum Transmission Unit (MTU)** is usually 1500 bytes; larger messages are fragmented and reassembled.
 	- The payload has a minimum size of 42 bytes. An octet is a byte.
+- Mac Addresses:
+	- These are link layer addresses, currently `48` bits (extensible to `64`)
+	- They
