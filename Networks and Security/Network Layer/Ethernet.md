@@ -11,4 +11,7 @@
 - Mac Addresses:
 	- These are link layer addresses, currently `48` bits (extensible to `64`)
 	- They need to be unique. The first 24 bits are for vendor allocation (Organizationally Unique Identifier - OUI), and the last 24 bits are assigned by the vector
-- 
+
+# Building Ethernet Networks
+- Hosts typically connect to a port on an Ethernet switch
+- Desktop speeds are often 1Gbit/s or 2.5
