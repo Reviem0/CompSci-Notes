@@ -52,3 +52,5 @@
 	- Connection-oriented (e.g. satellite links)
 
 # Physical Media Types
+- Coaxial cable, twisted pair, fibre optic, wireless (WiFi), power line
+- Standards: IEEE 802.3 (Ethernet), IEEE 802.11 (WiFi)
