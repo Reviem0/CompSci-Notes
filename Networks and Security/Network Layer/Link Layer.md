@@ -62,4 +62,6 @@
 - Framing Methods: Flag bytes with escaping to handle data containing flags
 
 # Comparisons
-- Ethernet uses 
+- Ethernet uses Carrier Sense Multiple Action with Collision Detection (CSMA/CD)
+- Wifi uses Collision Avoidance (CSMA/CA)
+- 
