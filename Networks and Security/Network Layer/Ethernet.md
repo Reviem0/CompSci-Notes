@@ -19,4 +19,6 @@
 	- Receive Ethernet frames and decide whether and where to forward them
 	- They perform `smart` forwarding by learning the MAC addresses of hosts on each port. This information is stored in a switch port table.
 	- If a destination MAC address is unknown, the switch floods the frame to all ports. MAC table entries time out after a period.
-	- 
+	- Broadcast frames are forwarded to all ports
+	- Switches can store and forward frames, allowing for error checking (CRC check)
+	- Advanced functions include VLANs and QoS
