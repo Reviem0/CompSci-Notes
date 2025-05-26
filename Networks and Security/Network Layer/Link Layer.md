@@ -28,4 +28,5 @@
 	- CRC (Cyclic Redundancy Check) in Ethernet; parity bit (less robust)
 3. Flow Control:
 	- Rarely used here; handled more at higher layers
-4. M
+4. Media Access Control (MAC)
+	- Manages shared media access (e.g. CSMA/CD for old Ethernet, CSMA/CA for WiFi)
