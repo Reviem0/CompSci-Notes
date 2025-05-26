@@ -30,4 +30,7 @@
 	2. All hosts on the LAN see the request
 	3. The host with the target IP address sends an ARP reply directly back to the sender
 	4. The sender caches the result 
-- ARP cache: Stores I
+- ARP cache: Stores IP-to-MAC address mappings.
+	- You can view it with `arp -a`
+- ARP Nuances:
+	- Security: ARP is vulnerable to spoofing (a host falsely claiming an IP address). Hosts 
