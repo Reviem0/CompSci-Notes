@@ -10,4 +10,5 @@
 	- The payload has a minimum size of 42 bytes. An octet is a byte.
 - Mac Addresses:
 	- These are link layer addresses, currently `48` bits (extensible to `64`)
-	- They
+	- They need to be unique. The first 24 bits are for vendor allocation (Organizationally Unique Identifier - OUI), and the last 24 bits are assigned by the vector
+- 
