@@ -74,3 +74,4 @@ Wi-Fi (Wireless Fidelity) is the wireless alternative to Ethernet
 ![[Pasted image 20250526212245.png]]
 # Exposed Node Problem
 - A situation where a device (e.g., B wanting to transmit to A) incorrectly assumes the channel is busy because it hears a transmission from another device (e.g., C transmitting to D), even though its own transmission to A would not interfere. This leads to unnecessary delays. The diagram shows B is in range of C, but A is not in range of C, and D is not in range of B. If C is transmitting to D, B might defer transmitting to A, even though A wouldn't hear C.
+![[Pasted image 20250526212422.png]]
