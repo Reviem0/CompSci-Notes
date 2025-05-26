@@ -31,10 +31,10 @@
 	- Outside attack: By unauthorised entity (e.g. hacker)
 
 # Example of Threats to C.I.A by Asset
-|**Asset**|**Confidentiality**|**Integrity**|**Availability**|
-|---|---|---|---|
-|**Hardware**|Stolen unencrypted USB drive|Malicious component replacement|Equipment theft/disabling|
-|**Software**|Unauthorized software copy|Code modified for unintended tasks|Software deletion|
-|**Data**|Unauthorized data read/statistical leak|Unauthorized file modification/fabrication|Data deletion/encryption (ransomware)|
-|**Communication Lines**|Eavesdropping on messages|Message modification/delay/fabrication|Network destruction (e.g., DDoS)|
+| **Asset**               | **Confidentiality**                     | **Integrity**                              | **Availability**                      |
+| ----------------------- | --------------------------------------- | ------------------------------------------ | ------------------------------------- |
+| **Hardware**            | Stolen unencrypted USB drive            | Malicious component replacement            | Equipment theft/disabling             |
+| **Software**            | Unauthorized software copy              | Code modified for unintended tasks         | Software deletion                     |
+| **Data**                | Unauthorized data read/statistical leak | Unauthorized file modification/fabrication | Data deletion/encryption (ransomware) |
+| **Communication Lines** | Eavesdropping on messages               | Message modification/delay/fabrication     | Network destruction (e.g., DDoS)      |
 
