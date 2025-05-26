@@ -22,4 +22,8 @@
 - **Risk**: Function of impact and likelihood of a threat
 
 # Attack Classifications
-- **By Impact**
+- **By Impact**:
+	- Active: Alters assets (e.g. data tampering)
+	- Passive: Gathers information (e.g. eavesdropping)
+- **By Origin**:
+	- Inside attack: By authorised user (e.g. ep)
