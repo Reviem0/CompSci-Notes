@@ -30,4 +30,4 @@
 	- Rarely used here; handled more at higher layers
 4. Media Access Control (MAC)
 	- Manages shared media access (e.g. CSMA/CD for old Ethernet, CSMA/CA for WiFi)
-	- 
+# Ethernet vs W
