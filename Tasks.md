@@ -31,12 +31,12 @@
 	- [ ] confidence interval
 	- [ ] p-value and hypothesis testing
 # Network and Security
-- [ ] #Network-and-Security  Kirk
+- [x] #Network-and-Security  Kirk ✅ 2025-05-26
 	- [x] Internet Architecture ✅ 2025-05-24
 	- [x] DNS ✅ 2025-05-24
 	- [x] Network Programming in Python ✅ 2025-05-25
 	- [x] Link Layer ✅ 2025-05-26
-	- [ ] Lan's and Ethernet
+	- [x] Lan's and Ethernet ✅ 2025-05-26
 - [x] #Network-and-Security  Graeme ✅ 2025-05-25
 	- [x] Network Layer ✅ 2025-05-24
 	- [x] Subnetting, IPv4 NAT, Routing ✅ 2025-05-25
