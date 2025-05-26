@@ -17,4 +17,6 @@
 - **Assets**: Hardware, software, data , communication networks
 - **Vulnerabilities**: Weakness (e.g. unpatched software, weak passwords )
 - **Threats**: Potential harm (e.g. malware, insider threats)
-- **Attacks**: Materialised threats (phishing)
+- **Attacks**: Materialised threats (e.g. phishing, ransomware)
+- **Countermeasures**: Detection, prevention, mitigation and recovery
+- **Risk**: Function o
