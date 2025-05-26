@@ -38,3 +38,12 @@
 | **Data**                | Unauthorized data read/statistical leak | Unauthorized file modification/fabrication | Data deletion/encryption (ransomware) |
 | **Communication Lines** | Eavesdropping on messages               | Message modification/delay/fabrication     | Network destruction (e.g., DDoS)      |
 
+# Key Definition 
+- **Risk**: Threat impact × likelihood.
+    
+- **Countermeasures**:
+    - **Detection** (e.g., intrusion detection systems).
+    - **Prevention** (e.g., firewalls).
+    - **Mitigation** (e.g., backups).
+    - **Recovery** (e.g., disaster recovery plans).
+- 
