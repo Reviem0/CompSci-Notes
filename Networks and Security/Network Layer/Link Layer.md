@@ -60,3 +60,6 @@
 - CRC  Checksum: Detects frame errors (Ethernet uses this)
 - Encapsulation: Each layer adds headers (e.g. IP packet inside Ethernet frame)
 - Framing Methods: Flag bytes with escaping to handle data containing flags
+
+# Comparisons
+- Ethernet uses 
