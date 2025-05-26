@@ -34,3 +34,8 @@ Wi-Fi (Wireless Fidelity) is the wireless alternative to Ethernet
     - `802.11n` (Wi-Fi 4): 600 Mbps
     - `802.11ac` (Wi-Fi 5): 6.8 Gbps
     - `802.11ax` (Wi-Fi 6): Speeds approaching 10 Gbps.
+
+**Wi-Fi Performance**:
+- Actual speeds are often lower than the theoretical maximums defined by the standards.
+- Factors affecting performance include signal strength, interference, and network congestion.
+- Techniques to improve performance: MIMO (Multiple Input, Multiple Output), beamforming, channel bonding, and Quality of Service (QoS)
