@@ -31,5 +31,6 @@ This model describes the phases of an intrusion, particularly for Advanced Persi
     - **How**: May use encrypted channels (like HTTPS) or disguise C2 traffic using common protocols or public platforms (e.g., tweets with specific hashtags). The Equifax attackers used remote connections through the installed web shells.
         
 7. **Actions on Objectives**: With persistent access and control, the attacker carries out their intended goals.
-    
     - **What they do**: Data exfiltration (stealing data), disruption of services, or financial theft. For Equifax, the primary objective was data exfiltration, resulting in the theft of 145 million users' personal details.
+
+# Multi-step Cyber-attacks
