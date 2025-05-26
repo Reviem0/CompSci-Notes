@@ -22,18 +22,19 @@
 
 # Link Layer Functions
 1. Framing:
-	- Delimits start/end of frames (e.g. using flag bytes with escaping).
+	- Encapsulates packets (IP datagrams) into frames, adding a header and sometimes a trailer. Frames vary depending on the physical layer
 	- Ethernet frame structure: **MAC header (14B)** | **Payload (46-1500B)** | **CRC (4B)**
-2. Error Detection:
+2. Trans
+3. Error Detection:
 	- Parity bit:
 		- Is number of 1's even or odd (e.g. `10101011` even parity `1`)
 		- Clearly will not reveal all errors
 	- **CRC** (Cyclic Redundancy Check) in Ethernet
 		- Result is held in the “checksum” field of the frame
 		- Calculated by sender and receiver, and result compared
-3. Flow Control:
+4. Flow Control:
 	- Rarely used here; handled more at higher layers
-4. Media Access Control (MAC)
+5. Media Access Control (MAC)
 	- Manages shared media access (e.g. CSMA/CD for old Ethernet, CSMA/CA for WiFi)
 # Ethernet vs Wi-fi
 - **Ethernet (Wired)**:
