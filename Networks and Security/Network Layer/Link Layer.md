@@ -14,4 +14,8 @@
 		 3. Internet
 		4. Link
 	- Link layer handles frames,
-	- Physical Layer handles 
+	- Physical Layer handles bits
+
+# Encapsulation
+- Each layer adds headers (and sometimes trailers) to the payload from the layer above:
+	- Application data $\to$ 
