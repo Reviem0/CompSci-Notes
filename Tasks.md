@@ -56,7 +56,7 @@
 - [ ] #Network-and-Security BooJoong
 	- [x] Access Control ✅ 2025-05-27
 	- [x] Principles of Cryptography ✅ 2025-05-27
-	- [ ] User Authentication and Privacy
+	- [x] User Authentication and Privacy ✅ 2025-05-27
 	- [ ] Anonymity
 	- [ ] PKI
 	- [ ] Social Engineering
