@@ -30,4 +30,13 @@
 	- Rarely used here; handled more at higher layers
 4. Media Access Control (MAC)
 	- Manages shared media access (e.g. CSMA/CD for old Ethernet, CSMA/CA for WiFi)
-# Ethernet vs W
+# Ethernet vs Wi-fi
+- **Ethernet (Wired)**:
+    - Uses **switches** (no contention in full-duplex mode).
+    - **CSMA/CD** (Carrier Sense Multiple Access with Collision Detection) historically used.
+    - Frame includes **MAC addresses, EtherType, payload, CRC**.
+    - High reliability (no ACKs in modern switched networks).
+- **WiFi (Wireless)**:
+    - IEEE 802.11 standards (2.4GHz/5GHz/6GHz bands).
+    - **CSMA/CA** (Collision Avoidance) with acknowledgements (ACKs) for reliability.
+    - Shared medium → contention in busy areas.
