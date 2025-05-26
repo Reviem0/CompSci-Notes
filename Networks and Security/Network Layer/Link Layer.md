@@ -40,13 +40,25 @@
 	- Manages shared media access (e.g. CSMA/CD for old Ethernet, CSMA/CA for WiFi)
 # Physical Layer and Media
 - The Physical Layer (PHY) deals with the actual transmission of bits
-- Bits are transmitted using encoding schemes, varying something like voltage or frequency over time 
+- Bits are transmitted using encoding schemes, varying something like voltage or frequency over time
+- 
 ## Physical Media Types
 - Coaxial cable, twisted pair, fibre optic, wireless (WiFi), power line
 - Standards: IEEE 802.3 (Ethernet), IEEE 802.11 (WiFi)
 
 # Frames and Framing
-A link layer frame contains the network payer 
+- A **link layer frame** contains the network layer packet (payload) along with extra fields like a header and trailer to aid transmission.
+    
+- **Ethernet Frame Example (Ethernet Type II)**:
+    
+    - Destination MAC Address (6 bytes)
+    - Source MAC Address (6 bytes)
+    - EtherType (2 bytes) - indicates the protocol of the payload (e.g., IP, ARP)
+    - Payload (Data: 46-1500 bytes)
+    - CRC Checksum (4 bytes)
+    - Total size: 64 to 1518 bytes.
+        
+- **Framing methods** are needed to indicate the start and end of a frame. One approach uses a special **FLAG byte** to mark the start/end; if the FLAG byte appears in the data, an **Escape byte** is used before it.
 
 # Ethernet vs Wi-fi
 - **Ethernet (Wired)**:
