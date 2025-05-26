@@ -46,7 +46,7 @@
 - Standards: IEEE 802.3 (Ethernet), IEEE 802.11 (WiFi)
 
 # Frames and Framing
-
+A link layer frame contains the network payer 
 
 # Ethernet vs Wi-fi
 - **Ethernet (Wired)**:
