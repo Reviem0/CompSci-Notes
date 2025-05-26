@@ -35,14 +35,14 @@
 	- [x] Internet Architecture ✅ 2025-05-24
 	- [x] DNS ✅ 2025-05-24
 	- [x] Network Programming in Python ✅ 2025-05-25
-	- [ ] Link Layer
+	- [x] Link Layer ✅ 2025-05-26
 	- [ ] Lan's and Ethernet
 - [x] #Network-and-Security  Graeme ✅ 2025-05-25
 	- [x] Network Layer ✅ 2025-05-24
 	- [x] Subnetting, IPv4 NAT, Routing ✅ 2025-05-25
 	- [x] Transport Layer ✅ 2025-05-25
 - [ ] #Network-and-Security Leonardo
-	- [ ] Basic Security Concepts
+	- [x] Basic Security Concepts ✅ 2025-05-26
 	- [ ] Cyber Actors
 	- [ ] Attack Lifecycle
 	- [ ] Cyber Attacks
