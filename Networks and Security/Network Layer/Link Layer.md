@@ -19,4 +19,8 @@
 # Encapsulation
 - Each layer adds headers (and sometimes trailers) to the payload from the layer above:
 	- Application data $\to$ Transport (TCP/UDP) $\to$ Internet (IP) $\to$ Link (Ethernet/Wi-Fi Frame)
-- 
+
+# Link Layer Functions
+1. Framing:
+	- Delimits start/end of frames (e.g. using flag bytes with escaping).
+	- Ethernet fram structure
