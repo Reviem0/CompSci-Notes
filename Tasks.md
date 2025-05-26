@@ -47,12 +47,12 @@
 	- [ ] Attack Lifecycle
 	- [ ] Cyber Attacks
 	- [ ] Corporate Security
-- [ ] #Network-and-Security  Celine
+- [x] #Network-and-Security  Celine ✅ 2025-05-26
 	- [x] Network Design and Operations ✅ 2025-05-26
 	- [x] Application Layer Protocols ✅ 2025-05-26
 	- [x] WiFi ✅ 2025-05-26
 	- [x] WiFi Security ✅ 2025-05-26
-	- [ ] IPSEC and DNSSEC
+	- [x] IPSEC and DNSSEC ✅ 2025-05-26
 - [ ] #Network-and-Security BooJoong
 	- [ ] Access Control
 	- [ ] Principles of Cryptography
