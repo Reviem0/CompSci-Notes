@@ -54,7 +54,7 @@
 	- [x] WiFi Security ✅ 2025-05-26
 	- [x] IPSEC and DNSSEC ✅ 2025-05-26
 - [ ] #Network-and-Security BooJoong
-	- [ ] Access Control
+	- [x] Access Control ✅ 2025-05-27
 	- [ ] Principles of Cryptography
 	- [ ] User Authentication and Privacy
 	- [ ] Anonymity
