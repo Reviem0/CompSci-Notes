@@ -63,15 +63,10 @@ Wi-Fi (Wireless Fidelity) is the wireless alternative to Ethernet
     1. **Assemble a frame.**
     2. **Carrier Sense**: Listen to see if the channel is idle.
     3. If busy, wait a random **backoff time** and listen again.
-        
     4. If free (and not using RTS/CTS), transmit the data.
-        
     5. **RTS/CTS Exchange (Optional but helps with hidden nodes)**:
-        
         - If the channel is idle, transmit an RTS (Request to Send).
-            
         - Wait for a CTS (Clear to Send) from the receiver. If not received, go to backoff.
-            
         - If CTS is received, transmit the application data.
-            
     6. Wait for an **Acknowledgment (ACK)** from the receiver to confirm successful transmission. If no ACK, the sender assumes a collision or error occurred and will retransmit after a backoff period.
+![[Pasted image 20250526212245.png]]
