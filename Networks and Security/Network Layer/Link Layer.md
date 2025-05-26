@@ -26,6 +26,8 @@
 	- Ethernet frame structure: **MAC header (14B)** | **Payload (46-1500B)** | **CRC (4B)**
 2. Error Detection:
 	- CRC (Cyclic Redundancy Check) in Ethernet; parity bit (less robust)
+	- Result is held in the “checksum” field of the frame
+	- Calculated by sender and receiver, and result compared
 3. Flow Control:
 	- Rarely used here; handled more at higher layers
 4. Media Access Control (MAC)
