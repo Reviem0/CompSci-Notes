@@ -10,9 +10,9 @@
 		7. Physical
 	- TCP/IP: 4 layers
 		1. Application
-		2. [\Transport]]
-		 3. Internet
-		4. Link
+		2. [[Transport Layer|Transport]]
+		 3. [[Internet Layer|Internet]]
+		4. [[Link Layer|Link]]
 	- Link layer handles frames,
 	- Physical Layer handles bits
 
