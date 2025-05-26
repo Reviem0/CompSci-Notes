@@ -40,3 +40,8 @@
     - IEEE 802.11 standards (2.4GHz/5GHz/6GHz bands).
     - **CSMA/CA** (Collision Avoidance) with acknowledgements (ACKs) for reliability.
     - Shared medium → contention in busy areas.
+
+# Error Handling & ARQ Protocols
+- Automatic Repeat reQuest (ARQ):
+	1. Stop-and-Wait: Send 1 frame, wait for ACK
+	2. 
