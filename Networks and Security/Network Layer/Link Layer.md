@@ -40,10 +40,12 @@
 	- Manages shared media access (e.g. CSMA/CD for old Ethernet, CSMA/CA for WiFi)
 # Physical Layer and Media
 - The Physical Layer (PHY) deals with the actual transmission of bits
-- Bits are transmitted  
+- Bits are transmitted using encoding schemes, varying something like voltage or frequency over time 
 ## Physical Media Types
 - Coaxial cable, twisted pair, fibre optic, wireless (WiFi), power line
 - Standards: IEEE 802.3 (Ethernet), IEEE 802.11 (WiFi)
+
+# Frames and Framing
 
 
 # Ethernet vs Wi-fi
