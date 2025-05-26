@@ -45,5 +45,4 @@
     - **Detection** (e.g., intrusion detection systems).
     - **Prevention** (e.g., firewalls).
     - **Mitigation** (e.g., backups).
-    - **Recovery** (e.g., disaster recovery plans).
-- 
+    - **Recovery** (e.g., disaster recovery plans)
