@@ -18,21 +18,16 @@ This model describes the phases of an intrusion, particularly for Advanced Persi
     - **Examples**: Crafting PDF or Microsoft Office documents with embedded malicious scripts, using a Remote Access Trojan (RAT), or preparing a phishing email. For Equifax, this involved obtaining an exploit for the Apache Struts vulnerability (CVE-2017-5638), and developing/configuring web shells.
         
 3. **Delivery**: The weaponized payload is transmitted to the target system.
-    
     - **How**: Via email attachments, malicious websites, USB drives, etc..
-        
     - **Examples**: Sending a crafted message over the Internet to Equifax's vulnerable Apache Struts 2 server.
         
 4. **Exploitation**: The delivered payload is triggered, often by exploiting a vulnerability in the target's system to execute malicious code.
-    
     - **How**: Exploiting software bugs, leveraging OS auto-start features, or through user deception (e.g., clicking a malicious link). In the Equifax case, the Apache Struts 2 vulnerability was exploited to execute the malicious payload.
         
 5. **Installation**: The malware or backdoor establishes persistence on the victim's system. This ensures the attacker maintains access even if the system reboots.
-    
     - **How**: Installing multiple copies of malware, or registering the payload as an OS service set to auto-start. At Equifax, attackers installed over 30 web shells (backdoor connections).
         
 6. **Command & Control (C2 or C&C)**: A communication channel is established between the compromised system and an external server controlled by the attacker. This allows remote manipulation of the victim.
-    
     - **How**: May use encrypted channels (like HTTPS) or disguise C2 traffic using common protocols or public platforms (e.g., tweets with specific hashtags). The Equifax attackers used remote connections through the installed web shells.
         
 7. **Actions on Objectives**: With persistent access and control, the attacker carries out their intended goals.
