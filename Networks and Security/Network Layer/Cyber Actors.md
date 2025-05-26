@@ -38,13 +38,8 @@ The lecture identifies several main types of cyber actors:
         
 - **Attractiveness of Cyberwarfare:**
     - Cost-effective and fast.
-        
     - Can disrupt adversaries without causing casualties.
-        
     - Hard for victims to detect and neutralize.
-        
     - Exploitable vulnerabilities increase with technology.
-        
     - **Anonymity & Attribution:** It's challenging to trace attack origins due to false IP addresses, foreign servers, and aliases. This leads to plausible deniability, where attackers can claim their systems were hacked.
-        
     - **Cyber Deterrence:** Difficult because if you can't attribute an attack, you can't retaliate effectively. Retaliating against the wrong actor is unjust and a war crime.
