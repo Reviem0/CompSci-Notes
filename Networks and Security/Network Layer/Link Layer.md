@@ -67,4 +67,3 @@
 - Ethernet uses Carrier Sense Multiple Action with Collision Detection (CSMA/CD)
 - Wifi uses Collision Avoidance (CSMA/CA)
 - IPv4 has a header checksum, IPv6 does not
-- 
