@@ -22,5 +22,6 @@ The lecture identifies several main types of cyber actors:
         
 - **Script Kiddies (Noobs):**
     - **Motivation:** Desire to join real hacker groups, the challenge itself, or curiosity.
-        
     - **Characteristics:** Less skilled, use tools found on the internet without a clear strategy or methodology, but can still succeed.
+
+# Cyberwarfare
