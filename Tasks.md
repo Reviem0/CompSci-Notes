@@ -35,7 +35,7 @@
 	- [x] Internet Architecture ✅ 2025-05-24
 	- [x] DNS ✅ 2025-05-24
 	- [x] Network Programming in Python ✅ 2025-05-25
-	- [x] Link Layer ✅ 2025-05-26
+	- [ ] Link Layer
 	- [ ] Lan's and Ethernet
 - [x] #Network-and-Security  Graeme ✅ 2025-05-25
 	- [x] Network Layer ✅ 2025-05-24
