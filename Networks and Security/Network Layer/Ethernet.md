@@ -24,4 +24,6 @@
 	- Advanced functions include VLANs and QoS
 
 # Address Resolution Protocol (ARP)
-ARP is used to find a destination's MAC address when its IP address is known. This is for 
+- ARP is used to find a destination's MAC address when its IP address is known. This is for devices of the same LAN
+- How it works:
+	1. The sender broadcasts an ARP request ("Who has this IP address?") to the Ethernet broadcast address (`ff:ff`)
