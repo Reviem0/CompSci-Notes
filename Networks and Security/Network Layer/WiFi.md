@@ -41,13 +41,9 @@ Wi-Fi (Wireless Fidelity) is the wireless alternative to Ethernet
 - Techniques to improve performance: MIMO (Multiple Input, Multiple Output), beamforming, channel bonding, and Quality of Service (QoS)
 
 # Wireless Network Challenges
-
 - Wi-Fi relies on shared communication channels.
-    
 - Devices can't always sense other devices' transmissions (leading to issues like the hidden node problem).
-    
 - Devices can't transmit and receive simultaneously.
-    
 - This contrasts with Ethernet where devices typically receive all other nodes' transmissions and can transmit/receive at the same time (though this statement about Ethernet receiving every other node's transmission might be simplified, especially in switched networks).
 # Hidden Node Problem
 - This occurs when two devices (e.g., A and C) cannot detect each other's signals but are both communicating with the same access point (e.g., B), potentially causing collisions at the AP.
