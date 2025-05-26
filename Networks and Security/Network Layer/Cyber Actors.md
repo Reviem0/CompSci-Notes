@@ -13,14 +13,11 @@ The lecture identifies several main types of cyber actors:
 - **Hacktivists:**
     - **Motivation:** Driven by political, religious, or social ideologies, often aiming for social change.
     - **Typical Attacks:** Web defacements, data breaches (leaking confidential/compromising information), DDoS.
-        
     - **Attack Vectors:** Similar to cybercriminals, but generally less advanced.
         
 - **Insiders:**
     - **Motivation (Intentional):** Often disgruntled employees seeking to publish information, install malware, or steal/sell information.
-        
     - **Key Characteristic:** They have legitimate access to valuable resources.
-        
     - _(Note: Unintentional attacks by insiders, like accidentally deleting files, are not considered insider threats for this module)_.
         
 - **Script Kiddies (Noobs):**
