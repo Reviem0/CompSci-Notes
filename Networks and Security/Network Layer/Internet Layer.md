@@ -31,8 +31,6 @@
 - CIDR (Classless Inter-Domain Routing):
 	- Replaced classful addressing (A/B/C) with variable-length prefixes.
 	- Reduces address waste (e.g. allocating `/28` instead of a full `/24`)
-	- 
-
 # Routing
 - Routers: Connect subnets; each interface has an IP address in its subnet.
 - Routing Tables: Determine next-hop paths (e.g. `netstat -nr` in Linux)
