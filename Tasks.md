@@ -48,13 +48,13 @@
 	- [ ] Cyber Attacks
 	- [ ] Corporate Security
 - [ ] #Network-and-Security  Celine
-	- [ ] Network Design and Operations
+	- [x] Network Design and Operations ✅ 2025-05-26
 	- [x] Application Layer Protocols ✅ 2025-05-26
 	- [ ] WiFi
 	- [ ] WiFi Security
 	- [ ] IPSEC and DNSSEC
 - [ ] #Network-and-Security BooJoong
-	- [x] Access Control ✅ 2025-05-26
+	- [ ] Access Control
 	- [ ] Principles of Cryptography
 	- [ ] User Authentication and Privacy
 	- [ ] Anonymity
