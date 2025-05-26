@@ -54,21 +54,14 @@ Wi-Fi (Wireless Fidelity) is the wireless alternative to Ethernet
     3. Device A then transmits data, while other devices that heard the CTS will wait.
 
 ### CSMA/CA (Carrier Sense Multiple Access with Collision Avoidance)
-
 - Wireless networks use CSMA/CA because CSMA/CD (Collision Detection), common in wired networks, doesn't work well as devices can't always detect collisions.
-    
 - **CSMA/CD**: Listens, transmits, and if a collision is detected, stops, waits, and retransmits.
-    
 - **CSMA/CA**:
     - Listens to the channel and waits for it to be idle before transmitting.
-        
     - Uses acknowledgments (ACKs) to confirm receipt of data.
-        
 - **How CSMA/CA works** (see flowchart ):
-    
     1. **Assemble a frame.**
     2. **Carrier Sense**: Listen to see if the channel is idle.
-        
     3. If busy, wait a random **backoff time** and listen again.
         
     4. If free (and not using RTS/CTS), transmit the data.
