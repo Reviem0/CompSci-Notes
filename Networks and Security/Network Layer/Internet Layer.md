@@ -59,7 +59,7 @@
 	- Neighbour Advertisement (NA): Response to NS
 	- Redirect: Informs hosts of better routes
 
-# ARDP vs NDP
+# ARP vs NDP
 
 | Feature           | ARP(IPv4)                   | NDP (IPv6)                                 |
 | ----------------- | --------------------------- | ------------------------------------------ |
