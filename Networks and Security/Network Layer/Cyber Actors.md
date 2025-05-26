@@ -66,5 +66,4 @@ The lecture identifies several main types of cyber actors:
     - Strengthen foothold / Maintain presence
     - Exfiltrate data 📁
     - Cover tracks and remain undetected / Complete mission 💨
-        
     - (Post-Exploitation phase often involves repeating steps until the mission is accomplished)
