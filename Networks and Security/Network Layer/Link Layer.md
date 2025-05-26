@@ -18,4 +18,4 @@
 
 # Encapsulation
 - Each layer adds headers (and sometimes trailers) to the payload from the layer above:
-	- Application data $\to$ 
+	- Application data $\to$ Transport (TCP/UDP) $\to$ Internet (IP) $\to$ Link (Ethernet/Wi-Fi Frame)
