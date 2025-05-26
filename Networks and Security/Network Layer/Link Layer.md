@@ -34,9 +34,11 @@
 		- Result is held in the “checksum” field of the frame
 		- Calculated by sender and receiver, and result compared
 5. Flow Control:
-	- Regulating d
-6. Media Access Control (MAC)
+	- Regulating data flow to prevent a fast sender from overwhelming a slow receiver. This is rarely used at this low layer
+6. Acknowledgments: Confirming receipt of frames
+7. Media Access Control (MAC)
 	- Manages shared media access (e.g. CSMA/CD for old Ethernet, CSMA/CA for WiFi)
+# Physical Layer anb
 # Ethernet vs Wi-fi
 - **Ethernet (Wired)**:
     - Uses **switches** (no contention in full-duplex mode).
