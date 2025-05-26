@@ -55,7 +55,7 @@
 	- [x] IPSEC and DNSSEC ✅ 2025-05-26
 - [ ] #Network-and-Security BooJoong
 	- [x] Access Control ✅ 2025-05-27
-	- [ ] Principles of Cryptography
+	- [x] Principles of Cryptography ✅ 2025-05-27
 	- [ ] User Authentication and Privacy
 	- [ ] Anonymity
 	- [ ] PKI
