@@ -14,4 +14,5 @@
 		- Systems must keep records of their activities to permit later forensic analysis to trace security breaches or to aid in transaction disputes.
 
 # Security Model Components
-Assets: Hardware
+- **Assets**: Hardware, software, data , communication networks
+- **Vulnerabilities**: Weakness
