@@ -50,8 +50,8 @@
 - [ ] #Network-and-Security  Celine
 	- [x] Network Design and Operations ✅ 2025-05-26
 	- [x] Application Layer Protocols ✅ 2025-05-26
-	- [ ] WiFi
-	- [ ] WiFi Security
+	- [x] WiFi ✅ 2025-05-26
+	- [x] WiFi Security ✅ 2025-05-26
 	- [ ] IPSEC and DNSSEC
 - [ ] #Network-and-Security BooJoong
 	- [ ] Access Control
