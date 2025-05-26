@@ -23,3 +23,14 @@ Wi-Fi (Wireless Fidelity) is the wireless alternative to Ethernet
     - Range: Shorter
     - Interference: Low
     - Use Cases: Suited for high-speed, short-range communication.
+
+### The IEEE 802.11 Standard
+- Wi-Fi uses the IEEE `802.11` suite of protocols.
+- This standard has evolved over many years, leading to different versions with increasing theoretical maximum speeds:
+    
+    - `802.11b`: 11 Mbps
+    - `802.11a`: 54 Mbps
+    - `802.11g`: 54 Mbps
+    - `802.11n` (Wi-Fi 4): 600 Mbps
+    - `802.11ac` (Wi-Fi 5): 6.8 Gbps
+    - `802.11ax` (Wi-Fi 6): Speeds approaching 10 Gbps.
