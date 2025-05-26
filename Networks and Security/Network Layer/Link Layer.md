@@ -54,3 +54,7 @@
 # Physical Media Types
 - Coaxial cable, twisted pair, fibre optic, wireless (WiFi), power line
 - Standards: IEEE 802.3 (Ethernet), IEEE 802.11 (WiFi)
+
+# Key Concepts
+- MAC Address: Unique hardware identifiers (e.g. `00:26:08:e4:21:5b`)
+- CRC  Checksum: D
