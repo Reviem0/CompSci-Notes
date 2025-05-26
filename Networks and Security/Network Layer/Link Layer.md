@@ -89,7 +89,7 @@
 	- **Parity Bit**: Simplest method; checks if the number of 1s is even or odd. Doesn't catch all errors.
     - **Cyclic Redundancy Check (CRC)**: A more robust method. The result is stored in the frame's "checksum" field. Calculated by both sender and receiver; results are compared. Checksums can also occur at other layers (e.g., IPv4 has one, IPv6 does not).
 
-
+**Wired Ethernet Reliability**: Often shows no detected errors over millions of frames, making ACKs an unnecessary overhead. However, high-speed Ethernet (e.g., 400 Gigabit Ethernet over fibre) may require Forward Error Correction
 # Key Concepts
 - MAC Address: Unique hardware identifiers (e.g. `00:26:08:e4:21:5b`)
 - CRC  Checksum: Detects frame errors (Ethernet uses this)
