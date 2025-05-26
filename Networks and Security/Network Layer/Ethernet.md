@@ -29,4 +29,5 @@
 	1. The sender broadcasts an ARP request ("Who has this IP address?") to the Ethernet broadcast address (`ff:ff:ff:ff:ff:ff`)
 	2. All hosts on the LAN see the request
 	3. The host with the target IP address sends an ARP reply directly back to the sender
-	4. The sender caches the result
+	4. The sender caches the result 
+- ARP cache: Stores I
