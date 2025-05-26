@@ -77,3 +77,12 @@ The lecture identifies several main types of cyber actors:
 | **Hacktivists**    | Political, religious, social ideologies; pursuit of social change ✊                      | Web defacements, data breaches (leaking info), DDoS                           | Same as cybercriminals, but generally less advanced           |
 | **Insiders**       | (Intentional) Disgruntlement, financial gain (e.g., selling info), causing disruption 😠 | Publishing info, installing malware, stealing/selling info, system shutdown   | Legitimate access to systems and data                         |
 | **Script Kiddies** | Desire to join hacker groups, the challenge itself, curiosity 🤔                         | (Depends on the tools they find)                                              | Using pre-made tools found on the Internet; no clear strategy |
+# Attack Instigator vs. Perpetrator
+
+It's important to distinguish between:
+- **Attack Instigator:** The entity that initiates or orders the attack.
+- **Attack Perpetrator:** The entity that actually carries out the attack.
+
+**Examples:**
+- An insider could be bribed by a cybercriminal group (insider is perpetrator, group is instigator).
+- A cybercriminal group could be hired by a nation-state (group is perpetrator, nation-state is instigator).
