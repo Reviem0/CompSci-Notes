@@ -13,3 +13,5 @@
 		2. Transport
 		 3. Internet
 		4. Link
+	- Link layer handles frames,
+	- Physical Layer handles 
