@@ -74,6 +74,7 @@
 # Error Handling & ARQ Protocols
 - Automatic Repeat reQuest (ARQ):
 	1. **Stop-and-Wait**: Send 1 frame, wait for ACK
+		- Inefficient if ACKs are lost or frames are damaged. 
 	2. **Go-Back-N**: Send multiple frames, retransmit all frames that occur after a missed ACK
 	3. **Selective Repeat**: Retransmit only lost frames
 - Acknowledgment models:
