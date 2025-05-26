@@ -43,3 +43,43 @@ The lecture identifies several main types of cyber actors:
     - Exploitable vulnerabilities increase with technology.
     - **Anonymity & Attribution:** It's challenging to trace attack origins due to false IP addresses, foreign servers, and aliases. This leads to plausible deniability, where attackers can claim their systems were hacked.
     - **Cyber Deterrence:** Difficult because if you can't attribute an attack, you can't retaliate effectively. Retaliating against the wrong actor is unjust and a war crime.
+
+# Advanced Persistent Threats (APTs)
+
+- **Definition:** A long-term pattern of targeted, sophisticated attacks. (NIST Special Publication 800-39).
+    
+- **Key Features:**
+    - **Advanced:** Uses cutting-edge techniques, including zero-day exploits (exploiting unknown vulnerabilities).
+        
+    - **Persistent:** Employs stealthy techniques to remain hidden in the target system for extended periods (months/years).
+        
+    - **Threat:** Malicious in nature, often aimed at data exfiltration for espionage.
+        
+- **APT Lifecycle (examples from diagrams):**
+    - Define target 🎯
+        
+    - Find and organize accomplices
+        
+    - Build or acquire tools 🛠️
+        
+    - Research target
+        
+    - Test for detection
+        
+    - Deployment
+        
+    - Initial intrusion/compromise 🚪
+        
+    - Establish foothold
+        
+    - Outbound connection initiated / Escalate privileges
+        
+    - Expand access and obtain credentials / Internal recon
+        
+    - Strengthen foothold / Maintain presence
+        
+    - Exfiltrate data 📁
+        
+    - Cover tracks and remain undetected / Complete mission 💨
+        
+    - (Post-Exploitation phase often involves repeating steps until the mission is accomplished)
