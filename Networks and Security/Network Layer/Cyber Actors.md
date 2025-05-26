@@ -67,3 +67,13 @@ The lecture identifies several main types of cyber actors:
     - Exfiltrate data 📁
     - Cover tracks and remain undetected / Complete mission 💨
     - (Post-Exploitation phase often involves repeating steps until the mission is accomplished)
+
+# Motivations and Strategies
+
+| Cyber Actor        | Why do they launch attacks? (Motivations)                                                | What kind of attacks do they launch?                                          | What means do they use to attack? (Strategies/Vectors)        |
+| :----------------- | :--------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :------------------------------------------------------------ |
+| **Cybercriminals** | Illegal profit 💰                                                                        | Money theft, personal document ransom, data breaches, DDoS, cryptojacking     | Malware, social engineering/email, social media, botnets      |
+| **Nation States**  | High-quality intelligence, sabotage, subversion, cyberwarfare 🌍                         | Influence campaigns, data breaches, DDoS, Advanced Persistence Threats (APTs) | Same as cybercriminals but more advanced                      |
+| **Hacktivists**    | Political, religious, social ideologies; pursuit of social change ✊                      | Web defacements, data breaches (leaking info), DDoS                           | Same as cybercriminals, but generally less advanced           |
+| **Insiders**       | (Intentional) Disgruntlement, financial gain (e.g., selling info), causing disruption 😠 | Publishing info, installing malware, stealing/selling info, system shutdown   | Legitimate access to systems and data                         |
+| **Script Kiddies** | Desire to join hacker groups, the challenge itself, curiosity 🤔                         | (Depends on the tools they find)                                              | Using pre-made tools found on the Internet; no clear strategy |
