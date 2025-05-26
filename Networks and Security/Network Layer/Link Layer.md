@@ -38,7 +38,14 @@
 6. Acknowledgments: Confirming receipt of frames
 7. Media Access Control (MAC)
 	- Manages shared media access (e.g. CSMA/CD for old Ethernet, CSMA/CA for WiFi)
-# Physical Layer anb
+# Physical Layer and Media
+- The Physical Layer (PHY) deals with the actual transmission of bits
+- Bits are transmitted  
+## Physical Media Types
+- Coaxial cable, twisted pair, fibre optic, wireless (WiFi), power line
+- Standards: IEEE 802.3 (Ethernet), IEEE 802.11 (WiFi)
+
+
 # Ethernet vs Wi-fi
 - **Ethernet (Wired)**:
     - Uses **switches** (no contention in full-duplex mode).
@@ -60,9 +67,7 @@
 	- Acknowledged connectionless (e.g. WiFi)
 	- Connection-oriented (e.g. satellite links)
 
-# Physical Media Types
-- Coaxial cable, twisted pair, fibre optic, wireless (WiFi), power line
-- Standards: IEEE 802.3 (Ethernet), IEEE 802.11 (WiFi)
+
 
 # Key Concepts
 - MAC Address: Unique hardware identifiers (e.g. `00:26:08:e4:21:5b`)
