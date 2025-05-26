@@ -36,4 +36,4 @@
 	- Security: ARP is vulnerable to spoofing (a host falsely claiming an IP address). Hosts can also change their MAC address
 	- Gratuitous ARP: Sent when a host changes its IP or MAC address to quickly update other devices.
 	- ARP Probe: Used to detect IP address conflicts
-- 
+
