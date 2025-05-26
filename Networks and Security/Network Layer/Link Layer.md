@@ -23,4 +23,4 @@
 # Link Layer Functions
 1. Framing:
 	- Delimits start/end of frames (e.g. using flag bytes with escaping).
-	- Ethernet fram structure
+	- Ethernet frame structure: **MAC header (14B)** | 
