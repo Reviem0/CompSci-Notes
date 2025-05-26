@@ -41,12 +41,12 @@
 	- [x] Network Layer ✅ 2025-05-24
 	- [x] Subnetting, IPv4 NAT, Routing ✅ 2025-05-25
 	- [x] Transport Layer ✅ 2025-05-25
-- [ ] #Network-and-Security Leonardo
+- [x] #Network-and-Security Leonardo ✅ 2025-05-27
 	- [x] Basic Security Concepts ✅ 2025-05-26
 	- [x] Cyber Actors ✅ 2025-05-26
 	- [x] Attack Lifecycle ✅ 2025-05-27
-	- [ ] Cyber Attacks
-	- [ ] Corporate Security
+	- [x] Cyber Attacks ✅ 2025-05-27
+	- [x] Corporate Security ✅ 2025-05-27
 - [x] #Network-and-Security  Celine ✅ 2025-05-26
 	- [x] Network Design and Operations ✅ 2025-05-26
 	- [x] Application Layer Protocols ✅ 2025-05-26
