@@ -22,3 +22,6 @@
 	- Broadcast frames are forwarded to all ports
 	- Switches can store and forward frames, allowing for error checking (CRC check)
 	- Advanced functions include VLANs and QoS
+
+# Address Resolution Protocol (ARP)
+ARP is used to find a destination's MAC address when its IP address is known. This is for 
