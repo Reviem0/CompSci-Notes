@@ -47,3 +47,8 @@
 	2. **Go-Back-N**: Send multiple frames, retransmit all after a missed ACK
 	3. **Selective Repeat**: Retransmit only lost frames
 - Acknowledgment models:
+	- Connectionless (no ACKs, e.g. Ethernet)
+	- Acknowledged connectionless (e.g. WiFi)
+	- Connection-oriented (e.g. satellite links)
+
+# Physical Media Types
