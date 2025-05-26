@@ -49,9 +49,6 @@ Wi-Fi (Wireless Fidelity) is the wireless alternative to Ethernet
 - This occurs when two devices (e.g., A and C) cannot detect each other's signals but are both communicating with the same access point (e.g., B), potentially causing collisions at the AP.
     
 - **Solution**: Request to Send / Clear to Send (RTS/CTS) mechanism.
-    
     1. Device A sends an RTS to the AP.
-        
-    2. The AP replies with a CTS if the channel is free. This CTS is heard by other nodes in range of the AP.
-        
+    2. The AP replies with a CTS if the channel is free. This CTS is heard by other nodes in range of the AP.        
     3. Device A then transmits data, while other devices that heard the CTS will wait.
