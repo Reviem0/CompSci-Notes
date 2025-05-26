@@ -53,6 +53,8 @@ Wi-Fi (Wireless Fidelity) is the wireless alternative to Ethernet
     2. The AP replies with a CTS if the channel is free. This CTS is heard by other nodes in range of the AP.        
     3. Device A then transmits data, while other devices that heard the CTS will wait.
 
+![[Pasted image 20250526212337.png]]
+
 ### CSMA/CA (Carrier Sense Multiple Access with Collision Avoidance)
 - Wireless networks use CSMA/CA because CSMA/CD (Collision Detection), common in wired networks, doesn't work well as devices can't always detect collisions.
 - **CSMA/CD**: Listens, transmits, and if a collision is detected, stops, waits, and retransmits.
@@ -70,3 +72,5 @@ Wi-Fi (Wireless Fidelity) is the wireless alternative to Ethernet
         - If CTS is received, transmit the application data.
     6. Wait for an **Acknowledgment (ACK)** from the receiver to confirm successful transmission. If no ACK, the sender assumes a collision or error occurred and will retransmit after a backoff period.
 ![[Pasted image 20250526212245.png]]
+# Exposed Node Problem
+- A situation where a device (e.g., B wanting to transmit to A) incorrectly assumes the channel is busy because it hears a transmission from another device (e.g., C transmitting to D), even though its own transmission to A would not interfere. This leads to unnecessary delays. The diagram shows B is in range of C, but A is not in range of C, and D is not in range of B. If C is transmitting to D, B might defer transmitting to A, even though A wouldn't hear C.
