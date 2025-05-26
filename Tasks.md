@@ -43,7 +43,7 @@
 	- [x] Transport Layer ✅ 2025-05-25
 - [ ] #Network-and-Security Leonardo
 	- [x] Basic Security Concepts ✅ 2025-05-26
-	- [ ] Cyber Actors
+	- [x] Cyber Actors ✅ 2025-05-26
 	- [ ] Attack Lifecycle
 	- [ ] Cyber Attacks
 	- [ ] Corporate Security
