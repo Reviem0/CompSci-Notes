@@ -92,6 +92,7 @@
 **Wired Ethernet Reliability**: Often shows no detected errors over millions of frames, making ACKs an unnecessary overhead. However, high-speed Ethernet (e.g., 400 Gigabit Ethernet over fibre) may require Forward Error Correction
 # Key Concepts
 - MAC Address: Unique hardware identifiers (e.g. `00:26:08:e4:21:5b`)
+	- A **MAC protocol** manages access to the physical medium and is part of the link layer.
 - CRC  Checksum: Detects frame errors (Ethernet uses this)
 - Encapsulation: Each layer adds headers (e.g. IP packet inside Ethernet frame)
 - Framing Methods: Flag bytes with escaping to handle data containing flags
