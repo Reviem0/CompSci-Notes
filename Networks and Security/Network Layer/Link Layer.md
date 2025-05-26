@@ -1,8 +1,4 @@
 # Layered Models
 - OSI vs TCP/IP Models:
-	- OSI
-
-
-|     |     |
-| --- | --- |
-|     |     |
+	- OSI: 7 Layers
+		- Applicatio
