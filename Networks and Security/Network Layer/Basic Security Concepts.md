@@ -19,4 +19,7 @@
 - **Threats**: Potential harm (e.g. malware, insider threats)
 - **Attacks**: Materialised threats (e.g. phishing, ransomware)
 - **Countermeasures**: Detection, prevention, mitigation and recovery
-- **Risk**: Function o
+- **Risk**: Function of impact and likelihood of a threat
+
+# Attack Classifications
+
