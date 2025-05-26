@@ -78,6 +78,7 @@
 	3. **Selective Repeat**: Retransmit only lost frames
 - Acknowledgment models:
 	- Connectionless (no ACKs, e.g. Ethernet)
+		- Used for low error-rate networks like wired Ethernet. Frames are sent without prior signaling and may or may not be received.
 	- Acknowledged connectionless (e.g. WiFi)
 	- Connection-oriented (e.g. satellite links)
 
