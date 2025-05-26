@@ -52,3 +52,33 @@ Wi-Fi (Wireless Fidelity) is the wireless alternative to Ethernet
     1. Device A sends an RTS to the AP.
     2. The AP replies with a CTS if the channel is free. This CTS is heard by other nodes in range of the AP.        
     3. Device A then transmits data, while other devices that heard the CTS will wait.
+
+### CSMA/CA (Carrier Sense Multiple Access with Collision Avoidance)
+
+- Wireless networks use CSMA/CA because CSMA/CD (Collision Detection), common in wired networks, doesn't work well as devices can't always detect collisions.
+    
+- **CSMA/CD**: Listens, transmits, and if a collision is detected, stops, waits, and retransmits.
+    
+- **CSMA/CA**:
+    - Listens to the channel and waits for it to be idle before transmitting.
+        
+    - Uses acknowledgments (ACKs) to confirm receipt of data.
+        
+- **How CSMA/CA works** (see flowchart ):
+    
+    1. **Assemble a frame.**
+    2. **Carrier Sense**: Listen to see if the channel is idle.
+        
+    3. If busy, wait a random **backoff time** and listen again.
+        
+    4. If free (and not using RTS/CTS), transmit the data.
+        
+    5. **RTS/CTS Exchange (Optional but helps with hidden nodes)**:
+        
+        - If the channel is idle, transmit an RTS (Request to Send).
+            
+        - Wait for a CTS (Clear to Send) from the receiver. If not received, go to backoff.
+            
+        - If CTS is received, transmit the application data.
+            
+    6. Wait for an **Acknowledgment (ACK)** from the receiver to confirm successful transmission. If no ACK, the sender assumes a collision or error occurred and will retransmit after a backoff period.
