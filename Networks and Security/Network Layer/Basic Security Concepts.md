@@ -15,4 +15,6 @@
 
 # Security Model Components
 - **Assets**: Hardware, software, data , communication networks
-- **Vulnerabilities**: Weakness
+- **Vulnerabilities**: Weakness (e.g. unpatched software, weak passwords )
+- **Threats**: Potential harm (e.g. malware, insider threats)
+- **Attacks**: Materialised threats (phishing)
