@@ -25,3 +25,26 @@ The lecture identifies several main types of cyber actors:
     - **Characteristics:** Less skilled, use tools found on the internet without a clear strategy or methodology, but can still succeed.
 
 # Cyberwarfare
+- **Definition:** The activity of fighting a cyberwar, including the weapons and methods used in cyberspace.
+- **Example:** The cyber attacks on Estonia in April-May 2007 following the relocation of a Soviet war monument.
+    
+- **Cyberwarfare vs. Conventional Warfare:**
+    - Conventional war involves conflict between states with violence and physical damage/destruction.
+    - NATO intervention was denied in the Estonia case because there were no casualties or property damage.
+    - The right to self-defence is typically triggered by the use of force, which in cyber terms, means large-scale attacks on critical infrastructure with effects comparable to an armed attack (e.g., casualties).
+    - Activities like propaganda, harassment, crime, intelligence collection, and cyber reconnaissance might not be considered conventional war, but it's a "grey area".
+        
+    - A key question: "is it in your interest to declare it so?".
+        
+- **Attractiveness of Cyberwarfare:**
+    - Cost-effective and fast.
+        
+    - Can disrupt adversaries without causing casualties.
+        
+    - Hard for victims to detect and neutralize.
+        
+    - Exploitable vulnerabilities increase with technology.
+        
+    - **Anonymity & Attribution:** It's challenging to trace attack origins due to false IP addresses, foreign servers, and aliases. This leads to plausible deniability, where attackers can claim their systems were hacked.
+        
+    - **Cyber Deterrence:** Difficult because if you can't attribute an attack, you can't retaliate effectively. Retaliating against the wrong actor is unjust and a war crime.
