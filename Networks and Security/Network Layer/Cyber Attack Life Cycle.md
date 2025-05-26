@@ -42,7 +42,7 @@ The Equifax breach illustrates a multi-step attack with an initial intrusion fol
 **First Iteration: Initial Intrusion (as detailed above and on )**
 - This involved the first six steps of the Kill Chain leading to the installation of web shells and initial C&C. The "Action on Objectives" for this first iteration could be considered establishing persistent access and preparing for further actions.
 
-**Second Iteration: Lateral Movement & Data Exfiltration** After the initial intrusion, attackers moved laterally within Equifax's network. This phase can be analyzed as another iteration of the Kill Chain:
+**Second Iteration: Lateral Movement & Data Exfiltration** After the initial intrusion, attackers moved laterally within Equifax's network. This phase can be analysed as another iteration of the Kill Chain:
 - **Reconnaissance (Internal)**: Attackers scanned systems connected to the initially compromised online dispute portal. They found a data repository with personally identifiable information (PII) and, crucially, unencrypted usernames and passwords.
 - **Weaponization**: In this context, the "weapons" were the discovered unencrypted credentials.
 - **Delivery**: Accessing other databases using the stolen credentials via the network, likely using standard database communication protocols for authentication.
