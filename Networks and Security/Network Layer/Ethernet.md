@@ -26,4 +26,7 @@
 # Address Resolution Protocol (ARP)
 - ARP is used to find a destination's MAC address when its IP address is known. This is for devices of the same LAN
 - How it works:
-	1. The sender broadcasts an ARP request ("Who has this IP address?") to the Ethernet broadcast address (`ff:ff`)
+	1. The sender broadcasts an ARP request ("Who has this IP address?") to the Ethernet broadcast address (`ff:ff:ff:ff:ff:ff`)
+	2. All hosts on the LAN see the request
+	3. The host with the target IP address sends an ARP reply directly back to the sender
+	4. The sender caches the result
