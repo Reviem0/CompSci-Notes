@@ -57,8 +57,8 @@
 	- [x] Access Control ✅ 2025-05-27
 	- [x] Principles of Cryptography ✅ 2025-05-27
 	- [x] User Authentication and Privacy ✅ 2025-05-27
-	- [ ] Anonymity
-	- [ ] PKI
+	- [x] Anonymity ✅ 2025-05-27
+	- [x] PKI ✅ 2025-05-27
 	- [ ] Social Engineering
 	- [ ] Critical Infrastructure
 # Algorithmics
