@@ -22,3 +22,4 @@ There are three possible outcomes when solving a system:
 3. Infinitely many solutions: The hyperplanes overlap
 
 # Gaussian Elimination
+[https://www.youtube.com/watch?v=seet9VyHo3Q&t]
