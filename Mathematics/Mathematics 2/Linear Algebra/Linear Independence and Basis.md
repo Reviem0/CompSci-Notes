@@ -21,4 +21,5 @@ The **dimension** of a vector space V is the **number of vectors** in any basis 
 ![](https://www.youtube.com/watch?v=iApoNPcI5eI)
 
 # Canonical Basis
+![[Pasted image 20250528135449.png]]
 ![](https://www.youtube.com/watch?v=cSsuQbsFsqI&t)
