@@ -25,3 +25,5 @@ There are three possible outcomes when solving a system:
 # Gaussian Elimination
 ![](https://www.youtube.com/watch?v=seet9VyHo3Q&t)
 
+# Inverse Matrix via Gaussian Elimination
+![](https://www.youtube.com/watch?v=_OTHALdXLmc)
