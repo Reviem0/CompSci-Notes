@@ -32,4 +32,6 @@ Prove $23^{n}-1$ is divisible by 11 for all natural numbers
 	- Prove for $k+1$: We need to show $23^{k+1}-1$ is divisible by $11$
 		- $23^{k+1}-1=23 \times 23^{k}-1$
 		- Substitute $23^{k}=11m+1: 23(11m+1)-1$
-		- Expand:
+		- Expand: $23\times 11m+23-1=23\times 11m+22$
+		- Factor out 11: $11(23m+2)$
+		- Since $23m+2$ is an 
