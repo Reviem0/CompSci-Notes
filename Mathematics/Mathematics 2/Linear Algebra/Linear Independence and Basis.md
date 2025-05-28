@@ -19,3 +19,6 @@ The **dimension** of a vector space V is the **number of vectors** in any basis 
 
 # Kernel or NullSpace
 ![](https://www.youtube.com/watch?v=iApoNPcI5eI)
+
+# Canonical Basis
+![](https://www.youtube.com/watch?v=cSsuQbsFsqI&t)
