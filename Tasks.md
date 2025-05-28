@@ -5,7 +5,7 @@
 	- [x] Linear Maps and Matrices I @completed(2025-05-06T15:18:39+01:00)
 	- [x] Linear Maps and Matrices II @completed(2025-05-06T15:18:39+01:00)
 	- [x] Solving Systems of Linear Equations ✅ 2025-05-28
-	- [ ] Linear Independence and Bases
+	- [x] Linear Independence and Bases ✅ 2025-05-28
 	- [ ] Coordinate Transformations and Orthonormal Bases
 	- [ ] Determinants
 	- [ ] Eigenvalues and Eigenvectors
