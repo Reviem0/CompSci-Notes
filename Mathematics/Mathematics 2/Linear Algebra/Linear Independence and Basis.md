@@ -1,3 +1,4 @@
+	![]
 # Linear Dependence and Independence
 ![](https://www.youtube.com/watch?v=t-HS7uxNgE4)
 
@@ -17,4 +18,4 @@ The **dimension** of a vector space V is the **number of vectors** in any basis 
 ![[Pasted image 20250528134750.png]]
 
 # Kernel or NullSpace
-!
+![](https://www.youtube.com/watch?v=iApoNPcI5eI)
