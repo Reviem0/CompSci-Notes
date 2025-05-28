@@ -53,7 +53,7 @@
 	- [x] WiFi ✅ 2025-05-26
 	- [x] WiFi Security ✅ 2025-05-26
 	- [x] IPSEC and DNSSEC ✅ 2025-05-26
-- [ ] #Network-and-Security BooJoong
+- [x] #Network-and-Security BooJoong ✅ 2025-05-28
 	- [x] Access Control ✅ 2025-05-27
 	- [x] Principles of Cryptography ✅ 2025-05-27
 	- [x] User Authentication and Privacy ✅ 2025-05-27
@@ -98,5 +98,5 @@
 # Exams
 - [x] #Exam Programming II 📅 2025-05-29  ✅ 2025-05-21
 - [x] #Exam Algorithmics 📅 2025-05-23 ✅ 2025-05-24
-- [ ] #Exam Networks and Security 📅 2025-05-27
+- [x] #Exam Networks and Security 📅 2025-05-27 ✅ 2025-05-28
 - [ ] #Exam Mathematics 2 📅 2025-05-30
