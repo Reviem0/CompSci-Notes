@@ -25,4 +25,7 @@ Prove $1+3+5+\dots+(2n-1) = n^{2}$ for all natural numbers
 # Example 2: Divisibility
 Prove $23^{n}-1$ is divisible by 11 for all natural numbers
  - Base Case ($n=1$):
-	 - $23^{1}-$
+	 - $23^{1}-1=22$
+	 - $22=2\times 11$, which is divisible by $11$
+- Inductive Step:
+	- Inductive Hypothesis: Assume $23^{k}-1$ is divisible 
