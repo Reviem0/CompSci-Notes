@@ -17,5 +17,8 @@ $$
 $$
 
 There are three possible outcomes when solving a system:
-1. Exactly one unique solution: The hyperplanes inters
-2. No solution
+1. Exactly one unique solution: The hyperplanes intersect at 
+2. No solution: The hyperplanes are parallel and distinct
+3. Infinitely many solutions: The hyperplanes overlap
+
+# Gaussian Elimination
