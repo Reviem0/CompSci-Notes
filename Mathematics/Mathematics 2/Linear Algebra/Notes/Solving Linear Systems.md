@@ -7,6 +7,7 @@
 
 # Solving Systems of Linear Equations
 - A system of linear equations is a set of two or more linear equations involving the same set of variables. For example:
+
 $$
 \begin{aligned}
 3x_{1}+2x_{2}+1x_{3} &=39 \\
@@ -22,4 +23,5 @@ There are three possible outcomes when solving a system:
 3. Infinitely many solutions: The hyperplanes overlap
 
 # Gaussian Elimination
-[https://www.youtube.com/watch?v=seet9VyHo3Q&t]
+![](https://www.youtube.com/watch?v=seet9VyHo3Q&t)
+
