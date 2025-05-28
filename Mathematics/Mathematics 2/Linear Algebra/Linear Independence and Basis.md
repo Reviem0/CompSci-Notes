@@ -13,8 +13,6 @@ A **basis** B of a vector space V is a set of vectors that satisfies two conditi
 A basis provides a way to uniquely write any vector in the space as a linear combination of the basis vectors.
 
 ![](https://www.youtube.com/watch?v=BVnbsO-8So8&list=PLztBpqftvzxWT5z53AxSqkSaWDhAeToDG&index)
-The **dimension** of a vector space V is the **number of vectors** in any basis for V. For example, R2 has a dimension of 2, and Rd has a dimension of d.
+The **dimension** of a vector space V is the **number of vectors** in any basis for V. For example, $$ has a dimension of 2, and Rd has a dimension of d.
 
-**Example from the lecture (checking for a basis):** $v_{1} = \begin{bmatrix}
-
-\end{bmatrix}$
+![[Pasted image 20250528134750.png]]
