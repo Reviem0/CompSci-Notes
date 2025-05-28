@@ -5,4 +5,8 @@ To prove a statement $S(n)$ is true for all positive integers $n$, you must comp
 1. Base Case (or Basis Step): Show that the statement $S(n)$ is true for the initial value, usually $n=1$ (or a specified starting integer $n_{0}$).
 2. Inductive Step:
 	- Inductive Hypothesis: Assume that the statement $S(k)$ is true for some arbitrary positive integer $k$.
-	- Prove for $S(k+1)$: Using the inductive hypothe
+	- Prove for $S(k+1)$: Using the inductive hypothesis (that $S(k)$ is true), you must then show that $S(k+1)$ is true
+
+---
+# Examples
+## Example 1
