@@ -34,4 +34,7 @@ Prove $23^{n}-1$ is divisible by 11 for all natural numbers
 		- Substitute $23^{k}=11m+1: 23(11m+1)-1$
 		- Expand: $23\times 11m+23-1=23\times 11m+22$
 		- Factor out 11: $11(23m+2)$
-		- Since $23m+2$ is an 
+		- Since $23m+2$ is an integer, $11(23m+2)$ is divisible by $11$
+
+# Example 3: Geometric Series
+- Prove $\sum^{n}_{i=0} q^{i}=(q)$
