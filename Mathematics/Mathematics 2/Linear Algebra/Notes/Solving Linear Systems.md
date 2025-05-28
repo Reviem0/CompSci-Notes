@@ -6,4 +6,4 @@
 - A plane can be defined by a normal vector $n$ and a point $r_{0}$ on a plane, using scalar product $n \cdot (r - r_{0}) = 0$. This expands to a linear equation of the form $n_{1}(x-x_{0}) + n_{2}(y-y_{0})+2_{3}(z-z_{0})=0$
 
 # Solving Systems of Linear Equations
-- A system of linear equations is a set of two or more linear equations involving the same set of variables.
+- A system of linear equations is a set of two or more linear equations involving the same set of variables. For example: $3x_{1}+2x_{2}$
