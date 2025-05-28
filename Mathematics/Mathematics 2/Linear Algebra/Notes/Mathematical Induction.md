@@ -18,4 +18,5 @@ Prove $1+3+5+\dots+(2n-1) = n^{2}$ for all natural numbers
 	- Assume $1+3+\dots+(2k-1) = k^{2}$ is true for some integer $k$
 	- Prove for $k+1$: We need to show $1+3+\dots+(2k-1)+(2(k+1)-1)=(k+1)^{2}$
 		- Start with the LHS for $k+1: 1+3+\dots+(2k-1)+(2k+2-1)$
-		- By the inductive hypothesis, replace 
+		- By the inductive hypothesis, replace $(1+3+\dots+(2k-1))$ with $k^{2}:k^{2}+(2k+1)$
+		- 
