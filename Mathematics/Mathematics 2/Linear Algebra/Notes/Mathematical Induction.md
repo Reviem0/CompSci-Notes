@@ -12,4 +12,7 @@ To prove a statement $S(n)$ is true for all positive integers $n$, you must comp
 ## Example 1 - Sum of odd numbers
 Prove $1+3+5+\dots+(2n-1) = n^{2}$ for all natural numbers
 - Base Case ($n = 1$)
-	- LHS
+	- LHS: $2(1) - 1 = 1$ 
+	- RHS: $1^{2} = 1$
+- Inductive Step:
+	- Assume $1+3$
