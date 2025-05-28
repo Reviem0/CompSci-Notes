@@ -15,4 +15,5 @@ Prove $1+3+5+\dots+(2n-1) = n^{2}$ for all natural numbers
 	- LHS: $2(1) - 1 = 1$ 
 	- RHS: $1^{2} = 1$
 - Inductive Step:
-	- Assume $1+3$
+	- Assume $1+3+\dots+(2k-1) = k^{2}$ is true for some integer $k$
+	- Prove for $k+1$
