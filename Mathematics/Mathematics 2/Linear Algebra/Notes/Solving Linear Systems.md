@@ -16,4 +16,6 @@ $$
 \end{aligned}
 $$
 
-There are thre
+There are three possible outcomes when solving a system:
+1. Exactly one unique solution: The hyperplanes inters
+2. No solution
