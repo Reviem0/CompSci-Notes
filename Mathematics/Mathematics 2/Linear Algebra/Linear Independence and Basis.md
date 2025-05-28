@@ -15,3 +15,6 @@ A basis provides a way to uniquely write any vector in the space as a linear com
 ![](https://www.youtube.com/watch?v=BVnbsO-8So8&list=PLztBpqftvzxWT5z53AxSqkSaWDhAeToDG&index)
 The **dimension** of a vector space V is the **number of vectors** in any basis for V. For example, $R^{2}$ has a dimension of $2$, and $R^{d}$ has a dimension of $d$.
 ![[Pasted image 20250528134750.png]]
+
+# Kernel or NullSpace
+!
