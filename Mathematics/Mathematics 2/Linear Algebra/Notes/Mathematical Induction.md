@@ -37,4 +37,5 @@ Prove $23^{n}-1$ is divisible by 11 for all natural numbers
 		- Since $23m+2$ is an integer, $11(23m+2)$ is divisible by $11$
 
 # Example 3: Geometric Series
-- Prove $\sum^{n}_{i=0} q^{i}=(q)$
+- Prove $\sum^{n}_{i=0} q^{i}=\frac{q^{n+1}-1}{q-1}$ for $q \neq 1$ and $n\geq -$
+	- Base Case
