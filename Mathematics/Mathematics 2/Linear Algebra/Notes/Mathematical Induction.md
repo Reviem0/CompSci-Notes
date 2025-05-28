@@ -1,0 +1,2 @@
+- Purpose:
+	- Mathematical induction is a proof technique 
