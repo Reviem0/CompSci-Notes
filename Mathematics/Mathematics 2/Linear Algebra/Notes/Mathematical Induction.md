@@ -22,3 +22,6 @@ Prove $1+3+5+\dots+(2n-1) = n^{2}$ for all natural numbers
 		- Simplify: $k^{2}+2k+1 = (k+1)^{2}$
 	- Since both steps are proven, the statement is true for all natural numbers
 
+# Example 2: Divisibility
+Prove $23^{n}-1$ is divisible by 11 for all natural numbers
+
