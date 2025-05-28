@@ -3,4 +3,4 @@
 - Geometrically, a linear equation defines a **hyperplane**.
 	- In 2D, a linear equation represents a line
 	- In 3D, it represents a plane
-- A plane can be defined by a normal vector $n$ and a point $r$
+- A plane can be defined by a normal vector $n$ and a point $r_{0}$ on a plane, using scalar product $n \cdot ()$
