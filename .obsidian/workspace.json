@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "d58f0506ff6ba4d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1da85e84445f6c9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeb42a9ad667a583",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15f0fa190e31ef3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0138ba00475ebae9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb68f6adae654f7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "56a5f48e4d7cbdc8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "29ae7d2ea8dd0d15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "690d784e2a93ca91",
+    "type": "split",
+    "children": [
+      {
+        "id": "d683c6170a542b6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc73ee358e5e1b16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d514e26045c79512",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4229ba3581ad9390",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0c702dc3b290dc4c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0829a24983bed560",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming Language Concepts/Notes/PLC - Subtyping.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PLC - Subtyping"
+            }
+          },
+          {
+            "id": "2a06ab6d0c4d756b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "terminal:Open terminal": false,
+      "claudian:Open Claudian": false,
+      "vscode-editor:Create Code File": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cb68f6adae654f7a",
+  "lastOpenFiles": [
+    "Year 2/Tasks.md",
+    "Year 2/README.md",
+    "Year 2",
+    "Year 2/Proj.md",
+    "Year 2/GROUP PROJECT.md",
+    "Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250526212337.png",
+    "Year 2/Networks and Security/Network Layer/Definitions/Router Advertisement.md",
+    "Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250526212422.png",
+    "Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250526212245.png",
+    "Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250526141443.png",
+    "Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250525215157.png",
+    "Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250525214541.png",
+    "Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250525084613.png",
+    "Year 2/Networks and Security/Network Layer/Definitions/Packetisation into datagrams.md",
+    "Year 2/Networks and Security/Network Layer/Definitions/Neighbour Discovery Protocol (NDP).md",
+    "Year 2/Networks and Security/Network Layer/Definitions/Next-Hop Routing.md",
+    "Year 2/Networks and Security/Network Layer/Definitions/Maximum Transmission Unit (MTU).md",
+    "Year 2/Networks and Security/Network Layer/Definitions/IPv4.md",
+    "Year 2/Networks and Security/Network Layer/WiFi.md",
+    "Year 2/Networks and Security/Network Layer/WiFi Security.md",
+    "Year 2/Networks and Security/Network Layer/Transport Layer.md",
+    "Year 2/Networks and Security/Network Layer/Subnets, NAT and Routing.md",
+    "Year 2/Networks and Security/Network Layer/Networks.zip",
+    "Year 2/Networks and Security/Network Layer/Network Programming in Python.md",
+    "Year 2/Networks and Security/Network Layer/Network Design and Operations.md",
+    "Year 2/Networks and Security/Network Layer/Link Layer.md",
+    "Year 2/Networks and Security/Network Layer/Internet Layer.md",
+    "Year 2/Networks and Security/Network Layer/IPSEC and DNSSEC.md",
+    "Year 2/Networks and Security/Network Layer/Ethernet.md",
+    "Year 2/Networks and Security/Network Layer/Domain Name Server.md",
+    "Year 2/Networks and Security/Network Layer/Definitions",
+    "Year 2/Networks and Security/Network Layer/Cyber Attack Life Cycle.md",
+    "Year 2/Networks and Security/Network Layer/Cyber Actors.md",
+    "Year 2/Networks and Security/Network Layer/Basic Security Concepts.md",
+    "Year 2/Networks and Security/Network Layer/Application Layer.md",
+    "Year 2/Networks and Security/Network Layer",
+    "Year 2/Networks and Security",
+    "Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics/Assets/Pasted image 20241103225021.png",
+    "Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics/Assets/Pasted image 20241103225920.png",
+    "Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics/Assets/Pasted image 20241103042503.png",
+    "Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics/Assets",
+    "Year 2/Mathematics/Mathematics 1/Content/2. Propositional and Predicate Logic/Topics",
+    "Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics",
+    "Year 2/Mathematics/Mathematics 1/Content/2. Propositional and Predicate Logic",
+    "Year 2/Mathematics/Mathematics 1/Content/1. Set Theory",
+    "Untitled.canvas"
+  ]
+}

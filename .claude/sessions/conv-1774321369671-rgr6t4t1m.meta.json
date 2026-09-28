@@ -1,0 +1,19 @@
+{
+  "id": "conv-1774321369671-rgr6t4t1m",
+  "title": "Learn Parsing Concepts",
+  "titleGenerationStatus": "success",
+  "createdAt": 1774321369671,
+  "updatedAt": 1774321448136,
+  "lastResponseAt": 1774321448136,
+  "sessionId": "84dcaa88-e73d-4c93-83b5-a7f8b21c0d49",
+  "sdkSessionId": "84dcaa88-e73d-4c93-83b5-a7f8b21c0d49",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 35404,
+    "cacheReadInputTokens": 11412,
+    "contextWindow": 200000,
+    "contextTokens": 46819,
+    "percentage": 23
+  }
+}

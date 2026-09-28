@@ -1,0 +1,19 @@
+{
+  "id": "conv-1774303181560-oz22vrzrr",
+  "title": "Write lecture notes on Variables",
+  "titleGenerationStatus": "success",
+  "createdAt": 1774303181560,
+  "updatedAt": 1774304439988,
+  "lastResponseAt": 1774303427223,
+  "sessionId": "c48b8157-25a9-4e03-ba4b-9bcb797653d1",
+  "sdkSessionId": "c48b8157-25a9-4e03-ba4b-9bcb797653d1",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 775,
+    "cacheReadInputTokens": 53621,
+    "contextWindow": 200000,
+    "contextTokens": 54399,
+    "percentage": 27
+  }
+}

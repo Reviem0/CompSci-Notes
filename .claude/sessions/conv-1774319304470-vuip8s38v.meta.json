@@ -1,0 +1,19 @@
+{
+  "id": "conv-1774319304470-vuip8s38v",
+  "title": "Explain lexing fundamentals",
+  "titleGenerationStatus": "success",
+  "createdAt": 1774319304470,
+  "updatedAt": 1774321332848,
+  "lastResponseAt": 1774321287390,
+  "sessionId": "19e1e308-2296-4a48-b240-30a40af9886c",
+  "sdkSessionId": "19e1e308-2296-4a48-b240-30a40af9886c",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 243,
+    "cacheReadInputTokens": 46818,
+    "contextWindow": 200000,
+    "contextTokens": 47064,
+    "percentage": 24
+  }
+}

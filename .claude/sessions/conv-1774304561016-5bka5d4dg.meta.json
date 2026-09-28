@@ -1,0 +1,19 @@
+{
+  "id": "conv-1774304561016-5bka5d4dg",
+  "title": "Explain syntax and grammar concepts",
+  "titleGenerationStatus": "success",
+  "createdAt": 1774304561017,
+  "updatedAt": 1774319293087,
+  "lastResponseAt": 1774304636129,
+  "sessionId": "18874065-e912-4e23-8ea1-3ee3945aeaf4",
+  "sdkSessionId": "18874065-e912-4e23-8ea1-3ee3945aeaf4",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 5435,
+    "cacheReadInputTokens": 38844,
+    "contextWindow": 200000,
+    "contextTokens": 44282,
+    "percentage": 22
+  }
+}
