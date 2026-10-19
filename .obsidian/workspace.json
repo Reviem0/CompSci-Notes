@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1da85e84445f6c9d",
+        "id": "183fbf07a675bdef",
         "type": "tabs",
         "children": [
           {
-            "id": "eeb42a9ad667a583",
+            "id": "c09466e6d47a8cf8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "CompSci-Notes/Year 2/Mathematics/Mathematics 1/Content/2. Propositional and Predicate Logic/Topics/1. Predicate Logic - Intro & Syntax.md",
+                "bFile": "CompSci-Notes/Year 2/Mathematics/Mathematics 1/Content/2. Propositional and Predicate Logic/Topics/1. Predicate Logic - Intro & Syntax.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 1. Predicate Logic - Intro & Syntax  (Working Tree)"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -150,17 +156,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Language Concepts/Notes/PLC - Subtyping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PLC - Subtyping"
+              "title": "Outline"
             }
           },
           {
-            "id": "2a06ab6d0c4d756b",
+            "id": "cfe88b9ace983b2c",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "5c269369fcf8f1a6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -170,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -178,6 +193,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "vscode-editor:Create Code File": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,57 +203,56 @@
       "bases:Create new base": false,
       "terminal:Open terminal": false,
       "claudian:Open Claudian": false,
-      "vscode-editor:Create Code File": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb68f6adae654f7a",
+  "active": "c09466e6d47a8cf8",
   "lastOpenFiles": [
-    "Year 2/Tasks.md",
-    "Year 2/README.md",
-    "Year 2",
-    "Year 2/Proj.md",
-    "Year 2/GROUP PROJECT.md",
-    "Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250526212337.png",
-    "Year 2/Networks and Security/Network Layer/Definitions/Router Advertisement.md",
-    "Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250526212422.png",
-    "Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250526212245.png",
-    "Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250526141443.png",
-    "Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250525215157.png",
-    "Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250525214541.png",
-    "Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250525084613.png",
-    "Year 2/Networks and Security/Network Layer/Definitions/Packetisation into datagrams.md",
-    "Year 2/Networks and Security/Network Layer/Definitions/Neighbour Discovery Protocol (NDP).md",
-    "Year 2/Networks and Security/Network Layer/Definitions/Next-Hop Routing.md",
-    "Year 2/Networks and Security/Network Layer/Definitions/Maximum Transmission Unit (MTU).md",
-    "Year 2/Networks and Security/Network Layer/Definitions/IPv4.md",
-    "Year 2/Networks and Security/Network Layer/WiFi.md",
-    "Year 2/Networks and Security/Network Layer/WiFi Security.md",
-    "Year 2/Networks and Security/Network Layer/Transport Layer.md",
-    "Year 2/Networks and Security/Network Layer/Subnets, NAT and Routing.md",
-    "Year 2/Networks and Security/Network Layer/Networks.zip",
-    "Year 2/Networks and Security/Network Layer/Network Programming in Python.md",
-    "Year 2/Networks and Security/Network Layer/Network Design and Operations.md",
-    "Year 2/Networks and Security/Network Layer/Link Layer.md",
-    "Year 2/Networks and Security/Network Layer/Internet Layer.md",
-    "Year 2/Networks and Security/Network Layer/IPSEC and DNSSEC.md",
-    "Year 2/Networks and Security/Network Layer/Ethernet.md",
-    "Year 2/Networks and Security/Network Layer/Domain Name Server.md",
-    "Year 2/Networks and Security/Network Layer/Definitions",
-    "Year 2/Networks and Security/Network Layer/Cyber Attack Life Cycle.md",
-    "Year 2/Networks and Security/Network Layer/Cyber Actors.md",
-    "Year 2/Networks and Security/Network Layer/Basic Security Concepts.md",
-    "Year 2/Networks and Security/Network Layer/Application Layer.md",
-    "Year 2/Networks and Security/Network Layer",
-    "Year 2/Networks and Security",
-    "Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics/Assets/Pasted image 20241103225021.png",
-    "Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics/Assets/Pasted image 20241103225920.png",
-    "Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics/Assets/Pasted image 20241103042503.png",
-    "Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics/Assets",
-    "Year 2/Mathematics/Mathematics 1/Content/2. Propositional and Predicate Logic/Topics",
-    "Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics",
-    "Year 2/Mathematics/Mathematics 1/Content/2. Propositional and Predicate Logic",
-    "Year 2/Mathematics/Mathematics 1/Content/1. Set Theory",
-    "Untitled.canvas"
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250526212337.png",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250526212245.png",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions/Router Advertisement.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250526212422.png",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250526141443.png",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250525215157.png",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250525084613.png",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions/Packetisation into datagrams.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250525214541.png",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions/Neighbour Discovery Protocol (NDP).md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions/Next-Hop Routing.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions/Maximum Transmission Unit (MTU).md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions/IPv4.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/IPSEC and DNSSEC.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/WiFi.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Transport Layer.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/WiFi Security.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Subnets, NAT and Routing.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Network Programming in Python.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Networks.zip",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Network Design and Operations.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Link Layer.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Internet Layer.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Ethernet.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Domain Name Server.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Cyber Actors.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Application Layer.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Cyber Attack Life Cycle.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer/Basic Security Concepts.md",
+    "CompSci-Notes/Year 2/Networks and Security/Network Layer",
+    "CompSci-Notes/Year 2/Networks and Security",
+    "CompSci-Notes/Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics/Assets/Pasted image 20241103225920.png",
+    "CompSci-Notes/Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics/Assets/Pasted image 20241103225021.png",
+    "CompSci-Notes/Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics/Assets/Pasted image 20241103043156.png",
+    "CompSci-Notes/Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics/Assets/Pasted image 20241102021337.png",
+    "CompSci-Notes/Year 2/Mathematics/Mathematics 1/Content/2. Propositional and Predicate Logic/Topics/1. Predicate Logic - Intro & Syntax.md",
+    "CompSci-Notes/Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics/9. Set Theory - Equivalence Relations.md",
+    "CompSci-Notes/Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics/8. Set Theory - Relations.md",
+    "CompSci-Notes/Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics/Assets",
+    "CompSci-Notes/Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics/7. Set Theory - Properties of Functions.md",
+    "CompSci-Notes/Year 2/Mathematics/Mathematics 1/Content/2. Propositional and Predicate Logic/Topics",
+    "CompSci-Notes/Year 2/Mathematics/Mathematics 1/Content/1. Set Theory/Topics",
+    "CompSci-Notes/Year 2/Mathematics/Mathematics 2/Linear Algebra/Notes",
+    "CompSci-Notes/Year 2/Mathematics/Mathematics 1/Content/2. Propositional and Predicate Logic",
+    "CompSci-Notes/Year 2/Mathematics/Mathematics 1/Content/1. Set Theory"
   ]
 }
