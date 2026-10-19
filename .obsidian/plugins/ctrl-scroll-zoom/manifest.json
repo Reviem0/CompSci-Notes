@@ -1,0 +1,9 @@
+{
+  "id": "ctrl-scroll-zoom",
+  "name": "Ctrl Scroll Zoom",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Zoom the whole app with Ctrl + mouse wheel, the same as Ctrl + / Ctrl -.",
+  "author": "Reviem",
+  "isDesktopOnly": true
+}
