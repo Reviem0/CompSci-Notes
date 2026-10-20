@@ -7,15 +7,12 @@ order: 4
 date: 2026-09-24
 lecturer: ZZ
 topic: Mathematical Foundations
-status: todo
+status: done
 slides:
 tags:
   - lecture
 ---
 # Foundations of Machine Learning (Lecture 2)
-
-> [!info] Foundations of Machine Learning · Week 1 · Tue 22 Sep 2026 · ZZ
-> Status lives in the `status` property: `todo` → `in-progress` → `done`
 
 ## Summary
 - 
@@ -166,6 +163,34 @@ $$
 	p &= 0.7
 	\end{align}
 $$
+#### The gradient
+Real models have many parameters. The gradient $\Delta J(\theta)$ is the vector of partial derivatives, one per parameter. Each entry tells you the slope along that parameter's direction.  Together they point in the direction of steepest ascent: the direction in which J increases fastest.
+#### Gradient Descent
+For most models, the resulting equations can't be solved by hand as there are far too many parameters. Instead we walk downhill:
+$$
+	\theta:=\theta - a \Delta J(\theta)
+$$
+The gradient points uphill, so we subtract it to go downhill. $a$, the learning rate, sets the step size. You repeat this update until $\theta$ stops changing.
+Worked example:
+The cost is $J(\theta)=(\theta - 3)^2$. 
+The minimum of J occurs when $\theta=3$.  
+Assuming $a=0.1$ and starting with $\theta = 0$
+$$
+	\begin{align}
+		\theta_{0} &= 0 \\
+		a &= 0.1 \\ 
+		J(\theta)&=(\theta - 3)^2 \\
+		\frac{d}{d\theta} J(\theta) &= 2(\theta - 3) \\
+		2(0-3)&=-6 \\
+		\theta_{n+1}&=\theta_{n} - a \Delta J(\theta_{n}) \\
+		\theta_{1} &= 0 - 0.1 \times (-6) \\
+		&= 0.6
+	\end{align}
+$$
+Repeating this, $\theta$ creeps closer to 3: 0.6, then 1.08 then 1.46 and so on.
+
+
+
 
 
 

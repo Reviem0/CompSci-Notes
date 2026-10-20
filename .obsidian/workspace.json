@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Foundations of Machine Learning/Lectures/W01 L2 - Mathematical Foundations.md",
+                "file": "Year 3/Foundations of Machine Learning/Lectures/W02 L1 - Linear Regression & MLE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W01 L2 - Mathematical Foundations"
+              "title": "W02 L1 - Linear Regression & MLE"
             }
           }
         ],
@@ -224,15 +224,15 @@
   },
   "active": "9a17c2360471264e",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Year 3/Foundations of Machine Learning/Lectures/W01 L2 - Mathematical Foundations.md",
-    "Year 3/Foundations of Machine Learning/Lectures/W02 L1 - Linear Regression & MLE.md",
-    "Year 3/Foundations of Machine Learning/Lectures/W01 L1 - Intro to ML.md",
-    "Year 3/Foundations of Machine Learning/Foundations of Machine Learning.md",
-    "Year 3/Foundations of Machine Learning/Lectures/W01 L2 - Intro to ML.md",
     "Year 3/Foundations of Machine Learning/Lectures/W02 L2 - Linear Regression & MLE.md",
-    "Year 3/Robot Kinematics and Dynamics/Robot Kinematics and Dynamics.md",
+    "Year 3/Foundations of Machine Learning/Lectures/W02 L1 - Linear Regression & MLE.md",
+    "Year 3/Foundations of Machine Learning/Foundations of Machine Learning.md",
     "Year 3/Year 3 Dashboard.md",
+    "Year 3/Foundations of Machine Learning/Lectures/W01 L2 - Mathematical Foundations.md",
+    "Untitled.md",
+    "Year 3/Foundations of Machine Learning/Lectures/W01 L1 - Intro to ML.md",
+    "Year 3/Foundations of Machine Learning/Lectures/W01 L2 - Intro to ML.md",
+    "Year 3/Robot Kinematics and Dynamics/Robot Kinematics and Dynamics.md",
     "Year 3/Foundations of Machine Learning/Lectures/W04 L1 - Parametric Classification.md",
     "Year 3/Foundations of Machine Learning/Lectures/W03 L2 - Ridge, Lasso & Cross Validation.md",
     "Year 3/Foundations of Machine Learning/Lectures/W03 L1 - Ridge, Lasso & Cross Validation.md",
