@@ -1,0 +1,71 @@
+/* COMP3204 teach workspace — shared stylesheet (Tufte-inspired) */
+:root{
+  --bg:#fffff8; --fg:#1f1f1f; --muted:#6b6b6b; --rule:#d9d6c8;
+  --accent:#a8322d; --accent-soft:#f6e7e4; --ok:#2f6f3e; --ok-soft:#e5f1e7;
+  --card:#fbfaf2; --code:#f1efe4;
+  --serif: "Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+  --sans: "Gill Sans","Segoe UI",system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root{ --bg:#151513; --fg:#e8e6dc; --muted:#a19f95; --rule:#3a3933;
+    --accent:#e2786f; --accent-soft:#3a2321; --ok:#7cc48c; --ok-soft:#1f3324;
+    --card:#1c1c19; --code:#25241f; }
+}
+*{box-sizing:border-box}
+html{font-size:18px}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--serif);line-height:1.55}
+main{max-width:1100px;margin:0 auto;padding:3rem 1rem 5rem}
+article{max-width:680px}
+@media (min-width:1000px){ article{padding-right:0} }
+h1{font-weight:400;font-size:2.3rem;line-height:1.15;margin:0 0 .3rem}
+h2{font-weight:400;font-style:italic;font-size:1.55rem;margin:2.6rem 0 .6rem}
+h3{font-weight:400;font-size:1.2rem;margin:1.8rem 0 .4rem}
+p,li{font-size:1rem}
+.subtitle{font-style:italic;color:var(--muted);font-size:1.15rem;margin:0 0 1.5rem}
+.meta{font-family:var(--sans);font-size:.75rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+a{color:inherit;text-decoration-color:var(--accent);text-underline-offset:2px}
+a:hover{color:var(--accent)}
+hr{border:0;border-top:1px solid var(--rule);margin:2.5rem 0}
+code,kbd{font-family:ui-monospace,Consolas,monospace;font-size:.85em;background:var(--code);padding:.05em .3em;border-radius:3px}
+.newthought{font-variant:small-caps;letter-spacing:.03em}
+
+/* Sidenotes: float right on wide screens, inline on narrow */
+.sidenote{font-size:.78rem;line-height:1.4;color:var(--muted);display:block;margin:.4rem 0 .8rem;padding-left:.8rem;border-left:2px solid var(--rule)}
+@media (min-width:1000px){
+  .sidenote{float:right;clear:right;margin-right:-340px;width:300px;border:0;padding:0;margin-top:.2rem}
+}
+
+/* Callouts */
+.win,.mission,.ask{border:1px solid var(--rule);background:var(--card);padding:.9rem 1.1rem;border-radius:6px;margin:1.4rem 0}
+.win{border-left:4px solid var(--ok)}
+.mission{border-left:4px solid var(--accent)}
+.ask{border-left:4px solid var(--muted);font-style:italic}
+.win b,.mission b{font-family:var(--sans);font-size:.75rem;letter-spacing:.06em;text-transform:uppercase;display:block;margin-bottom:.2rem}
+
+/* Tables */
+table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.92rem}
+th,td{text-align:left;padding:.45rem .6rem;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font-family:var(--sans);font-weight:600;font-size:.72rem;letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+
+figure{margin:1.5rem 0}
+figcaption{font-size:.8rem;color:var(--muted);font-style:italic;margin-top:.3rem}
+svg text{font-family:var(--sans)}
+
+/* Buttons */
+button{font-family:var(--sans);font-size:.85rem;background:transparent;color:var(--fg);border:1px solid var(--rule);border-radius:5px;padding:.45rem .8rem;cursor:pointer}
+button:hover{border-color:var(--accent);color:var(--accent)}
+
+/* Nav */
+nav.course{font-family:var(--sans);font-size:.8rem;display:flex;gap:1rem;flex-wrap:wrap;margin-bottom:2rem;color:var(--muted)}
+nav.course a{text-decoration:none}
+
+@media print{
+  :root{--bg:#fff;--fg:#000;--card:#fff}
+  html{font-size:11pt}
+  main{padding:0}
+  .no-print,button,.quiz .feedback{display:none!important}
+  .sidenote{float:none;margin:0 0 .4rem;width:auto}
+  a{text-decoration:none}
+  h2{break-after:avoid}
+  table,figure,.recall{break-inside:avoid}
+}

@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Eye and Human Vision — Reference</title>
+<link rel="stylesheet" href="../assets/style.css">
+<style>
+  article{max-width:760px}
+  h2{margin-top:1.6rem}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:0 2rem}
+  @media (max-width:640px){.grid{grid-template-columns:1fr}}
+  ul{padding-left:1.1rem;margin:.3rem 0}
+</style>
+</head>
+<body>
+<main>
+<article>
+<p class="meta">COMP3204 · Reference · Lecture 1 · <a class="no-print" href="../lessons/0001-eye-and-human-vision.html">Lesson 0001</a></p>
+<h1>Eye &amp; Human Vision</h1>
+<p class="subtitle">One-page summary. Source: lecture slides; Nixon &amp; Aguado, 4th ed., pp. 1–28.</p>
+
+<h2>Three-part model</h2>
+<table>
+<tr><th>Model</th><th>Stage</th><th>Key facts</th><th>Fails / limit</th></tr>
+<tr><td><b>Physical</b></td><td>eye</td><td>Lens is <i>shaped</i>, not moved; image forms on the retina and fovea; it is inverted, so the brain flips it; it leaves via the optic nerve</td><td>Blind spot (no sensors); weak blue response</td></tr>
+<tr><td><b>Experimental</b></td><td>signals</td><td>output = Σ w<sub>i</sub>·log(p<sub>i</sub>); log response ↔ <b>Weber's law</b> (ΔI/I ≈ const); signal is coded because the optic nerve lacks bandwidth</td><td>Brightness adaptation causes Mach bands</td></tr>
+<tr><td><b>Psychological</b></td><td>brain</td><td>Occipital cortex handles <i>patterns</i>; associative cortex handles <i>links</i></td><td>Least understood; fooled by illusions</td></tr>
+</table>
+
+<div class="grid">
+<div>
+<h2>Sensors</h2>
+<table>
+<tr><th></th><th>Cones</th><th>Rods</th></tr>
+<tr><td>Count</td><td>~10<sup>7</sup></td><td>~10<sup>8</sup></td></tr>
+<tr><td>Sense</td><td>colour</td><td>grey level</td></tr>
+<tr><td>Vision</td><td>photopic</td><td>scotopic</td></tr>
+<tr><td>Where</td><td>fovea</td><td>elsewhere</td></tr>
+</table>
+<p><b>S</b> (blue): poor · <b>M</b> (green): dominates · <b>L</b> (red): close to heat. Vision compensates for the weak blue, just like a camera.</p>
+</div>
+<div>
+<h2>Visual pathway</h2>
+<p>optic nerve → optic chiasm → optic tract → <b>LGN</b> (lateral geniculate nucleus) → optic radiation → striate (visual) cortex</p>
+<p>“Where are we?” slide: lens → sensors → neurons &amp; LGN → associative &amp; occipital cortices</p>
+</div>
+</div>
+
+<h2>Illusions and what they show</h2>
+<table>
+<tr><th>Illusion</th><th>What you see</th><th>Lesson</th></tr>
+<tr><td>Mach bands</td><td>Light and dark strips at the edges of grey steps</td><td>Not in the image; caused by <b>brightness adaptation</b></td></tr>
+<tr><td>“HOT” / Kanizsa pacmen</td><td>A word and a triangle from incomplete edges</td><td>The eye <b>needs training and can be deceived</b></td></tr>
+<tr><td>Zöllner</td><td>Parallel lines look tilted</td><td><b>Measurement needs comparison</b></td></tr>
+<tr><td>Ebbinghaus</td><td>Equal circles look different sizes</td><td><b>Measurement needs comparison</b></td></tr>
+<tr><td>Rotating snakes, magenta-dot ring, Benham's disk</td><td>Motion, or colour, that isn't there</td><td>Illusions are a consequence of <b>complex function</b></td></tr>
+</table>
+
+<h2>Headline question: is human vision a good model for CV?</h2>
+<p><b>Lecture's points:</b> (1) three sections · (2) works very well · (3) can be deceived · (4) good model?<br>
+<b>For:</b> proof that robust vision is possible; borrow RGB channels, blue compensation, log response, edges and context.<br>
+<b>Against:</b> deceived by illusions; brain not understood; different hardware (moving lens, uniform sensor, no blind spot).<br>
+<b>Verdict:</b> a source of inspiration, not a blueprint.</p>
+
+<p class="meta" style="margin-top:1.5rem">Tools: Matlab, Python · Further reading: CVOnline, DSP Guide, CVPR / ICCV / ECCV</p>
+</article>
+</main>
+</body>
+</html>

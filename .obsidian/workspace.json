@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "183fbf07a675bdef",
+        "id": "aafd93d85fe94254",
         "type": "tabs",
         "children": [
           {
-            "id": "c09466e6d47a8cf8",
+            "id": "1cfa0fca12466ddf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "html-page-viewer",
               "state": {
-                "file": "Year 2/README.md",
-                "mode": "source",
-                "source": false
+                "file": "Year 3/Computer Vision/Teach/lessons/0001-eye-and-human-vision.html"
               },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "9a17c2360471264e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 3/Foundations of Machine Learning/Lectures/W02 L1 - Linear Regression & MLE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W02 L1 - Linear Regression & MLE"
+              "icon": "file-code-2",
+              "title": "0001-eye-and-human-vision"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,11 +206,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a17c2360471264e",
+  "active": "1cfa0fca12466ddf",
   "lastOpenFiles": [
-    "Year 3/Foundations of Machine Learning/Lectures/W02 L2 - Linear Regression & MLE.md",
+    "Year 3/Computer Vision/Teach/lessons/0001-eye-and-human-vision.html",
+    "Year 2/README.md",
     "Year 3/Foundations of Machine Learning/Lectures/W02 L1 - Linear Regression & MLE.md",
+    "Year 3/Computer Vision/Teach/reference/eye-and-human-vision.html",
+    "Year 3/Computer Vision/Teach/assets/style.css",
+    "Year 3/Computer Vision/Teach/assets/quiz.js",
+    "Year 3/Computer Vision/Teach/RESOURCES.md",
+    "Year 3/Computer Vision/Teach/NOTES.md",
+    "Year 3/Computer Vision/Teach/MISSION.md",
+    "Year 3/Computer Vision/Teach/assets",
+    "Year 3/Computer Vision/Teach/reference",
+    "Year 3/Computer Vision/Teach/lessons",
+    "Year 3/Computer Vision/Teach",
     "Year 3/Foundations of Machine Learning/Foundations of Machine Learning.md",
+    "Year 3/Computer Vision/Lectures/W02 L01 - The Eye & Human Vision.md",
+    "Year 3/Computer Vision/Computer Vision.md",
+    "Year 3/Foundations of Machine Learning/Lectures/W02 L2 - Linear Regression & MLE.md",
     "Year 3/Year 3 Dashboard.md",
     "Year 3/Foundations of Machine Learning/Lectures/W01 L2 - Mathematical Foundations.md",
     "Untitled.md",
@@ -238,28 +236,13 @@
     "Year 3/Foundations of Machine Learning/Lectures/W03 L1 - Ridge, Lasso & Cross Validation.md",
     "Year 3/_Templates/sedwsOUcL",
     "Year 3/_Templates/Lecture.md",
-    "Year 3/Computer Vision/Computer Vision.md",
     "Year 3/_Scripts/lectures/view.js",
-    "Year 3/Computer Vision/Lectures/sedQsvabT",
-    "Year 3/_Scripts/lectures",
-    "Year 3/_Scripts",
-    "Year 3/_Templates",
-    "Year 3/Robot Kinematics and Dynamics/Lectures",
-    "Year 3/Robot Kinematics and Dynamics",
     "Year 3/Computer Vision/Lectures/W10 - Revision & Summary (HK).md",
     "Year 3/Computer Vision/Lectures/W10 - Special Topic 2.md",
     "Year 3/Computer Vision/Lectures/W09 L20 - Towards 3D Vision.md",
     "Year 3/Computer Vision/Lectures/W09 L19 - Image Classification and Auto-annotation.md",
     "Year 3/Computer Vision/Lectures/W09 L18 - Large-scale Image Search.md",
     "Year 3/Computer Vision/Lectures/W08 L17 - Consistent Matching.md",
-    "Year 3/Computer Vision/Lectures/W08 L16 - Local Features and Matching.md",
-    "Year 3/Computer Vision/Lectures/W08 - Special - Programming for Computer Vision.md",
-    "Year 3/Computer Vision/Lectures/W07 L15 - Local Interest Points.md",
-    "Year 3/Computer Vision/Lectures/W07 L14 - Shape Description and Modelling.md",
-    "Year 3/Computer Vision/Lectures/W07 L13 - Types of Image Feature and Segmentation.md",
-    "Year 3/Computer Vision/Lectures/W06 L12 - Covariance and Principal Components.md",
-    "Year 3/Computer Vision/Lectures",
-    "Year 3/Computer Vision",
     "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250526212337.png",
     "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250526212245.png",
     "CompSci-Notes/Year 2/Networks and Security/Network Layer/Definitions/Pasted image 20250526212422.png",

@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Eye and Human Vision</title>
+<link rel="stylesheet" href="../assets/style.css">
+<style>
+  .bars{display:flex;height:120px;max-width:420px;border:1px solid var(--rule)}
+  .bars div{flex:1}
+  .chaser{position:relative;width:260px;height:260px;background:#b3b3b3;margin:1rem 0;border-radius:4px}
+  .chaser .dot{position:absolute;width:34px;height:34px;border-radius:50%;
+    background:radial-gradient(circle,#f0f 0%,rgba(255,0,255,.55) 40%,rgba(179,179,179,0) 72%)}
+  .chaser .plus{position:absolute;left:50%;top:50%;transform:translate(-50%,-52%);font:700 26px var(--sans);color:#000}
+  .pipeline{display:flex;flex-wrap:wrap;gap:.35rem;align-items:center;font-family:var(--sans);font-size:.8rem;margin:1rem 0}
+  .pipeline span{border:1px solid var(--rule);background:var(--card);padding:.3rem .55rem;border-radius:4px}
+  .pipeline i{color:var(--muted);font-style:normal}
+</style>
+</head>
+<body>
+<main>
+<nav class="course no-print">
+  <a href="../reference/eye-and-human-vision.html">Reference sheet →</a>
+  <span>Lesson 1 of COMP3204</span>
+</nav>
+<article>
+
+<p class="meta">COMP3204 · Week 2 · Lecture 1 · Lesson 0001</p>
+<h1>The Eye and Human Vision</h1>
+<p class="subtitle">Is human vision a good model for computer vision?</p>
+
+<div class="mission"><b>Why this matters for the exam</b>
+This lecture is mostly descriptive, so exam questions on it are usually recall and short explanation. Typical forms: “describe the three-part model”, “explain Mach bands”, “what do illusions tell us?”, and the lecture's headline question, “is human vision a good model for computer vision?”</div>
+
+<div class="win"><b>Your win for this lesson</b>
+From memory, explain the three-part model of human vision. For each part, give one fact about how it works and one way it fails. Then use that to argue both sides of the headline question.</div>
+
+<h2>1 · Three models, one system</h2>
+
+<p><span class="newthought">The lecture splits human vision</span> into three parts. Each part matches one stage of the system:<span class="sidenote">Slide 4, “Modelling the eye in three parts”. Nixon &amp; Aguado, <em>Feature Extraction and Image Processing for Computer Vision</em>, 4th ed., pp. 1–28 (the course text).</span></p>
+
+<table>
+<tr><th>Model</th><th>Stage</th><th>What it covers</th></tr>
+<tr><td><b>Physical</b></td><td>the eye</td><td>Optics and sensors: how the image forms on the retina</td></tr>
+<tr><td><b>Experimental</b></td><td>the signals</td><td>Neural processing: how sensor responses are coded and combined</td></tr>
+<tr><td><b>Psychological</b></td><td>the brain</td><td>Perception: how the cortex turns signals into what we “see”</td></tr>
+</table>
+
+<p>None of the three is fully understood, and the brain is understood least. Keep that in mind, because it comes back in the headline question.</p>
+
+<h2>2 · The physical model: the eye</h2>
+
+<p>The eye evolved for survival. Its job is to <b>form an image on the retina</b>, and the sharpest part of that image lands on the <b>fovea</b>. Two details are easy exam marks:<span class="sidenote">Ray diagram of the eye: <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/vision/rfreye.html">HyperPhysics</a> (linked from the slides).</span></p>
+<ul>
+  <li>The <b>lens changes shape</b> to focus. It does not move, whereas a camera lens moves.</li>
+  <li>The image on the retina is <b>upside down</b>, so the brain has to invert it. It then travels down the <b>optic nerve</b>.</li>
+</ul>
+
+<h3>Sensors: rods and cones</h3>
+<table>
+<tr><th></th><th>Cones</th><th>Rods</th></tr>
+<tr><td>Number</td><td>~10<sup>7</sup></td><td>~10<sup>8</sup></td></tr>
+<tr><td>Sense</td><td>colour</td><td>grey level</td></tr>
+<tr><td>Vision type</td><td><b>photopic</b> (bright light)</td><td><b>scotopic</b> (dim light)</td></tr>
+<tr><td>Where</td><td>concentrated on the fovea</td><td>everywhere else</td></tr>
+</table>
+<p>There are no sensors at all on the <b>blind spot</b>, where the optic nerve leaves the eye.<span class="sidenote">Rod and cone density plot from <a href="https://webvision.med.utah.edu/">Webvision</a> (Univ. of Utah), as shown on slide 9.</span> There are three types of cone:</p>
+<ul>
+  <li><b>S</b>: short wavelength (blue). Its response is <em>poor</em>.</li>
+  <li><b>M</b>: medium wavelength (green). Its response <em>dominates</em>.</li>
+  <li><b>L</b>: long wavelength (red). Its range sits close to heat (infrared).</li>
+</ul>
+<p>Because the blue response is weak, the visual system has to <b>compensate</b> for it, much as a camera does. There is also a bandwidth problem: around 10<sup>8</sup> sensors feed one optic nerve, which can't carry all that raw data. The signal therefore has to be <b>coded</b> (compressed) before it leaves the eye.</p>
+
+<h2>3 · The experimental model: neural signals</h2>
+
+<p>The sensor outputs have to be <b>combined</b>. The lecture models this in three steps. First, each sensor input <i>p<sub>i</sub></i> goes through a <b>logarithmic response</b>. Second, each result is weighted. Third, the weighted results are summed:</p>
+<p style="text-align:center;font-size:1.15rem">output = Σ<sub>i</sub> w<sub>i</sub> · log(p<sub>i</sub>)</p>
+<p>The log stage is the link to <b>Weber's law</b>: the smallest change in brightness you can notice is a fixed <em>fraction</em> of the background intensity (ΔI / I ≈ constant). Doubling the brightness feels like the same step whether you start in a dim room or in sunshine.<span class="sidenote">Slide 15, “Neural processing”. For more on Weber's law and brightness, see NYU's <a href="https://www.cns.nyu.edu/~david/courses/perception/lecturenotes/brightness-contrast/brightness-contrast.html">Perception lecture notes on brightness</a>.</span></p>
+
+<p>Signals then travel along this path to the back of the brain:<span class="sidenote">Slides 10 &amp; 16, “Cortices”.</span></p>
+<div class="pipeline">
+  <span>optic nerve</span><i>→</i><span>optic chiasm</span><i>→</i><span>optic tract</span><i>→</i><span>lateral geniculate nucleus (LGN)</span><i>→</i><span>optic radiation</span><i>→</i><span>striate (visual) cortex</span>
+</div>
+
+<h2>4 · The psychological model: the brain</h2>
+
+<p>The slide titled “Where are we?” sums up the whole system as <b>lens → sensors → neurons &amp; LGN → cortices</b>. In the cortex, the <b>occipital cortex</b> handles <em>patterns</em> and the <b>associative cortex</b> handles <em>links</em>. We understand this stage least. The best way to study it is to watch where it goes wrong.</p>
+
+<h3>Mach bands: vision adds edges that aren't there</h3>
+<figure>
+  <div class="bars" aria-label="Six grey bars of increasing brightness">
+    <div style="background:#000"></div><div style="background:#262626"></div><div style="background:#4d4d4d"></div>
+    <div style="background:#777"></div><div style="background:#9e9e9e"></div><div style="background:#c8c8c8"></div>
+  </div>
+  <figcaption>Each bar is one flat colour, but you should see a light strip on the left edge of each bar and a darker strip on its right edge.</figcaption>
+</figure>
+<p>The real cross-section is a clean staircase. The <em>perceived</em> cross-section dips and overshoots at every step. <b>Mach bands are not in the image. Your vision puts them there.</b> The lecture explains them as a result of <b>brightness adaptation</b>, and the effect sharpens the edges we see.<span class="sidenote">Slide 18. A clear write-up of the lateral-inhibition explanation: <a href="https://education.siggraph.org/static/HyperVis/vision/latinib.htm">ACM SIGGRAPH HyperVis: Lateral Inhibition and Adaptation</a>.</span></p>
+
+<figure>
+<svg viewBox="0 0 420 150" width="100%" style="max-width:420px" role="img" aria-label="Actual versus perceived cross-section">
+  <g fill="none" stroke-width="2">
+    <path d="M10 130 H70 V110 H130 V90 H190 V70 H250 V50 H310 V30 H410" stroke="currentColor" opacity=".35"/>
+    <path id="seen" d="M10 130 H66 L70 136 V104 L74 110 H126 L130 96 V84 L134 90 H186 L190 76 V64 L194 70 H246 L250 56 V44 L254 50 H306 L310 36 V24 L314 30 H410" stroke="var(--accent)"/>
+  </g>
+  <text x="12" y="20" font-size="11" fill="currentColor" opacity=".6">grey = actual</text>
+  <text x="12" y="34" font-size="11" fill="var(--accent)">red = perceived</text>
+</svg>
+<figcaption>Sketch this pair from memory in the exam: the actual staircase and the perceived one, with dips and overshoots at each step.</figcaption>
+</figure>
+
+<h3>Edges: vision fills in what's missing</h3>
+<p>Most people read the broken strokes on slide 19 as the word <b>HOT</b>. Three “pacmen” arranged together make you see a white triangle that isn't drawn (the Kanizsa triangle). Vision completes missing edges using what it has learned. That shows <b>the human eye needs training and can be deceived</b>.</p>
+
+<h3>Static illusions: measurement needs comparison</h3>
+<ul>
+  <li><b>Zöllner</b>: the long lines are parallel, but the short slanted ticks make them look tilted.</li>
+  <li><b>Ebbinghaus</b>: two identical centre circles look different sizes. The one surrounded by small circles looks bigger.</li>
+</ul>
+<p>Both show that we judge size and angle <em>relative to the surroundings</em>, not absolutely.</p>
+
+<h3>Motion and colour illusions: complex function</h3>
+<p>The slides also show still patterns that seem to move (rotating snakes) and a ring of magenta dots around a cross. Try the ring below. Fix your eyes on the + for about 20 seconds.</p>
+<div class="chaser" id="chaser"><span class="plus">+</span></div>
+<p>A gap runs round the ring, and most people start to see a <b>green</b> dot travelling round. Then the magenta dots seem to fade away. Neither the green nor the fading is in the image. <b>Benham's disk</b> is a black-and-white disk that shows faint colours when it spins. The lecture's conclusion is that <b>illusions are a consequence of complex function</b>. The same processing that makes vision work so well is what produces them.</p>
+
+<h2>5 · So: is human vision a good model for computer vision?</h2>
+<p>The lecture's summary slide makes four points. (1) The eye can be modelled in three sections. (2) It works very well. (3) It can be deceived. (4) Is it a good model for computer vision? The lecture leaves the last one open, so be ready to argue both sides:</p>
+<table>
+<tr><th>Yes: good inspiration</th><th>No: not a blueprint</th></tr>
+<tr><td>It works very well. It is proof that robust vision is possible.</td><td>It can be deceived (Mach bands, Zöllner, Ebbinghaus). A measuring system should not invent edges or misjudge sizes.</td></tr>
+<tr><td>Some ideas carry over directly: three colour channels, compensating for weak blue, a log-like response, and emphasising edges.</td><td>It isn't fully understood, especially the brain, so we can't copy what we don't understand.</td></tr>
+<tr><td>Edges and context matter in human vision, which hints at what computer vision should look for.</td><td>The hardware is different: a camera moves its lens, has no blind spot, and has a uniform pixel grid rather than a fovea.</td></tr>
+</table>
+<p>A strong answer would say that human vision is a useful <em>source of ideas</em>, but it is not a <em>specification</em> to copy. Computer vision should borrow what works and avoid what deceives.</p>
+
+<p class="meta" style="margin-top:2rem">Also in the lecture</p>
+<p>The module's practical work uses <b>Matlab</b> and <b>Python</b>. For further reading, the slides point to <a href="https://homepages.inf.ed.ac.uk/rbf/CVonline/books.htm">CVOnline</a>, <a href="https://www.dspguide.com/">The DSP Guide</a>, the main conferences (CVPR, ICCV, ECCV) and <a href="https://www.rsipvision.com/computer-vision-news/">Computer Vision News</a>.</p>
+
+<hr>
+
+<h2>Practice · retrieval first</h2>
+<p>Close the lesson above (or scroll so you can't see it) before you answer. Recalling the answer yourself is what makes it stick, so that effort is the point of the exercise.</p>
+
+<div class="quiz" data-quiz='[
+ {"q":"Which part of the three-part model is the <b>least</b> understood?","options":["Physical model","Optical model","Psychological model","Experimental model"],"answer":2,"why":"The psychological model (the brain). The slide notes that none of the parts is fully understood, especially the brain."},
+ {"q":"How does the human eye focus an image on the retina?","options":["Lens moves toward retina","Lens changes its shape","Pupil changes its size","Cornea moves toward lens"],"answer":1,"why":"The lens is shaped rather than moved. A camera moves its lens instead."},
+ {"q":"Which sensors dominate <b>scotopic</b> (dim-light) vision?","options":["Rods giving greylevel","Cones giving colour","L-cones giving red","Fovea giving detail"],"answer":0,"why":"Rods (~10<sup>8</sup>) give grey-level, scotopic vision. Cones (~10<sup>7</sup>) give colour, photopic vision."},
+ {"q":"Which cone type has the weakest response?","options":["M (green)","L (red)","All equal","S (blue)"],"answer":3,"why":"The S (blue) response is poor, M (green) dominates, and L (red) is close to heat. Vision has to compensate for the weak blue."},
+ {"q":"Why must signals be <b>coded</b> before they leave the eye?","options":["Brain cannot read colour","Rods and cones disagree","Optic nerve lacks bandwidth","Lens inverts the image"],"answer":2,"why":"There are far more sensors than the optic nerve can carry raw, so the signal has to be coded."},
+ {"q":"In the lecture&apos;s neural model, each sensor input is first…","options":["squared then summed","thresholded to binary","inverted then weighted","passed through log"],"answer":3,"why":"Each input goes through log(p), is weighted by w, then summed. The log response is linked to Weber&apos;s law."},
+ {"q":"Mach bands are…","options":["Present in the image","Introduced by your vision","Caused by camera noise","Produced by the lens"],"answer":1,"why":"They are not in the image. Your vision introduces them through brightness adaptation."},
+ {"q":"What does the Ebbinghaus illusion demonstrate?","options":["Edges get filled in","Colour arises from motion","Size is judged relatively","Brightness overshoots at steps"],"answer":2,"why":"Measurement needs comparison. Identical circles look different sizes because of what surrounds them."},
+ {"q":"Benham&apos;s disk (spinning black and white shows colour) demonstrates that…","options":["cones detect only black","illusions reflect complex function","the lens splits light","rods see in colour"],"answer":1,"why":"The slide&apos;s wording is that illusions are a consequence of complex function."},
+ {"q":"Which order is correct after the optic chiasm?","options":["Radiation, tract, LGN, cortex","LGN, tract, cortex, radiation","Tract, radiation, LGN, cortex","Tract, LGN, radiation, cortex"],"answer":3,"why":"Optic tract → lateral geniculate nucleus → optic radiation → striate cortex."}
+]'></div>
+
+<h3>Exam-style recall</h3>
+<p>Write each answer in the box before you reveal the model answer.</p>
+
+<details class="recall" data-attempt><summary>Describe the three-part model of human vision (3 marks).</summary>
+<div><b>Physical model</b>: the eye. The lens is shaped to focus an image on the retina and fovea, where it is sensed by rods and cones. <b>Experimental model</b>: the neural signals. Sensor responses pass through a log response, are weighted and combined, and are coded for the optic nerve. <b>Psychological model</b>: the brain. The cortices interpret the signals, with the occipital cortex handling patterns and the associative cortex handling links. This is the least understood part.</div></details>
+
+<details class="recall" data-attempt><summary>What are Mach bands, and what causes them? Sketch the actual and perceived cross-sections (4 marks).</summary>
+<div>Mach bands are bright and dark strips seen at the edges of uniform grey steps. They are <b>not present in the image</b>: the visual system introduces them through <b>brightness adaptation</b>. The actual cross-section is a clean staircase. The perceived one has an undershoot on the dark side and an overshoot on the bright side of each step, so edges look sharper than they are.</div></details>
+
+<details class="recall" data-attempt><summary>“Human vision is a good model for computer vision.” Discuss (6 marks).</summary>
+<div><b>For:</b> it works very well and shows robust vision is possible. Useful ideas can be borrowed: three colour channels, compensation for the weak blue response, a log (Weber) response, and an emphasis on edges and context. <b>Against:</b> it can be deceived (Mach bands, Zöllner, Ebbinghaus, Benham), whereas a computer vision system often needs to measure accurately. It is not fully understood, especially the brain. The hardware also differs: the eye shapes its lens and has a fovea and a blind spot, while a camera moves its lens and has a uniform sensor. <b>Conclusion:</b> it is a valuable source of inspiration, but not a blueprint to copy.</div></details>
+
+<hr>
+
+<h2>Read next</h2>
+<p><b>Primary source:</b> Nixon, M. &amp; Aguado, A., <a href="https://www.oreilly.com/library/view/feature-extraction-and/9780128149775/"><em>Feature Extraction and Image Processing for Computer Vision</em>, 4th ed.</a> (Academic Press), pp. 1–28. This is the book cited on the slides, and its human vision section is the source for this lecture. You may be able to read it free through your university library's O'Reilly access.</p>
+<p>Keep the <a href="../reference/eye-and-human-vision.html">reference sheet</a> for revision. Next lecture: <em>how images are formed</em>.</p>
+
+<div class="ask">If anything here is unclear, or you got a quiz question wrong and don't see why, ask me in the chat. I'm your teacher for this module, and follow-up questions are how lessons stick. Tell me your quiz score too, so I can pitch the next lesson at the right level.</div>
+
+</article>
+</main>
+<script src="../assets/quiz.js"></script>
+<script>
+// Lilac-chaser style demo: 12 blurred magenta dots, one hidden in turn.
+(function(){
+  const c=document.getElementById('chaser'), n=12, r=100, cx=130, cy=130, dots=[];
+  for(let i=0;i<n;i++){const a=i/n*2*Math.PI-Math.PI/2, d=document.createElement('div');
+    d.className='dot'; d.style.left=(cx+r*Math.cos(a)-17)+'px'; d.style.top=(cy+r*Math.sin(a)-17)+'px';
+    c.appendChild(d); dots.push(d);}
+  let k=0; setInterval(()=>{dots.forEach((d,i)=>d.style.visibility=i===k?'hidden':'visible'); k=(k+1)%n;},110);
+})();
+</script>
+</body>
+</html>
